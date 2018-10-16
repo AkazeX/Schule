@@ -1,0 +1,361 @@
+
+ \documentclass[11pt, twocolumn, a4paper]{scrartcl}
+
+
+\usepackage[ngerman]{babel}	% Worttrennung
+\usepackage[utf8]{inputenc}	% Wird für die direkte Eingabe von Umlauten gebraucht
+\usepackage[T1]{fontenc}	% Trennung von Umlauten
+\usepackage{lmodern}		% Latin Modern Schrift
+%\usepackage{wrapfig}		% Das Paket wrapfig ermöglicht es von Schrift umflossene Bilder und Tabellen einzufügen
+%\usepackage{sidecap}		% Schrift neben einem Bild
+\usepackage{caption}		% Überschrift in Fliessumgebung
+\usepackage{graphicx}		% Das Standardpaket zum Einbinden von Bildern / Grafiken
+\usepackage{amsmath}		% Zusätzliche mathematische Umgebungen
+\usepackage{amssymb}		% Zusätzliche mathematische Symbole
+\usepackage{amsfonts}		% Symbole, Schriften
+\usepackage{siunitx}		% Darstellung von SI Einheiten
+\usepackage{hyperref}		% Erstellt Verweise innerhalb und nach außerhalb eines PDF Dokumentes
+\usepackage{pdfpages}		% Einbinden von PDF Dateien zum Beispiel weitere bereits fertige PDFs in ein neues PDF einfügen
+%\usepackage{geometry}	% Vereinfacht das Ändern der Seitenränder und Papierformate
+\usepackage{longtable}
+\usepackage{fancybox}		% Box für Formeln
+\usepackage{fancyhdr}		% Seiten schöner gestalten, insbesondere Kopf- und Fußzeile
+\usepackage{booktabs}
+%\usepackage[square, comma, numbers, sort&compress]{natbib}
+\hypersetup{pdfborder={0 0 0}}		% Keine Kästchen im Inhaltsverzeichnis
+%% Titel%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+%Titel%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Wirtschaft Angewandt\\
+\begin{large}Leistungsnachweis Wirtschaft - Mathematik interdisziplin{\"a}r\end{large}}
+\date{23.05.2014}
+\author{Andreas Schneider \thanks{Berufsbildung Baden}}
+
+
+
+
+
+
+%% Dokument Beginn %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+\begin{small}
+\setcounter{tocdepth}{1}
+\tableofcontents 
+\end{small}
+
+%Kapitel%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Einleitung}
+\label{sec:Einleitung}
+Als Mathematik- Chemie und Physiklehrer auf der Stufe Berufsmatura habe ich während dem Unterricht nicht direkt mit Wirtschaft zu tun. Die Wirtschaft ist aber allgegenwärtig und bietet im Unterricht einen hohen Lebensweltbezug. Ein Ziel dieses Leistungsnachweises ist es, Möglichkeiten zu finden, wie man die Mathematik angewandter unterrichten kann und zwar bezogen auf die Wirtschaft. Gemäss dem neuen Rahmenlehrplan der Berufsmaturität ist ausserdem die Interdisziplinarität in den einzelnen Fächern zu verstärken. Dieser Leistungsnachweis soll zu diesem Zweck einen vorbereitenden Charakter haben.  Zwischen Wirtschaft und Mathematik gäbe es viele Verbindungen. Um diese Verbindungen auch gezielt unterrichten zu können, benötigt es Kenntnisse in beiden Fächern. Die Kenntnisse der Wirtschaft aufzufrischen war Teil des Wahlpflichtfaches \flqq Wirtschaft Angewandt\frqq{} und diese sind in vorliegenden Dokument zusammengefasst wiederzufinden. Dieser Leistungsnachweis ist in einzelne Kapitel unterteilt, welche die Inhalte der Veranstaltung repräsentieren. Diese Kapitel sind wiederum aufgeteilt in einen Wirtschaftsteil, in dem das Gelernte aus dem Bereich Wirtschaft zusammengefasst ist und einem Mathematik Teil, in dem versucht wird, Ideen für den Interdisziplinären bzw. angewandten Mathematikunterricht zu finden. Diese sind allerdings ausschliesslich auf das Fach Wirtschaft bezogen. In Kapitel 9 befinden sich für diesen Leistungsnachweis erstellte, konkrete Aufgaben für den Unterricht.
+
+\section{Bilanz und Erfolgsrechnung}
+\subsection{Wirtschaft}
+
+Der Begriff der Bilanz kommt von dem Wort und dem Prinzip der Waage. Es werden Aktiven und Passiven einer Unternehmung an einem Stichtag nach gewissen Regeln miteinander verglichen. 
+Die Bilanz soll auf die folgenden Fragen eine Antwort liefern: Wie ist der Wert einer Unternehmung an einem Stichtag? Wie erfolgreich ist eine Firma? Hat sie Gewinn oder Verlust gemacht? Die Bilanz wird in Aktiva und Passiva unterteilt. Die Summe dieser beiden Teilmengen soll, in Analogie zur Waage, gleich sein. Die Aktiven werden von oben nach unten nach ihrer Liquidität geordnet. Eine hohe Liquidität bedeutet, dass das Konto schnell zu Geld gemacht werden kann. Oben sind die Umlaufvermögen (UV), dazu gehören auch die Debitoren und unten sind die Anlagevermögen (AV). Bei den Passiven ist es dementsprechend umgekehrt. Je schneller die Schuld bezahlt werden muss, desto weiter oben steht sie. Oben befindet sich das Fremdkapital (FK) und unten das Eigenkapital (EK). 
+
+\begin{figure}
+%\includegraphics[width=0.5\textwidth]{Bilanz.jpg}
+\caption{Quelle: \protect\url{http://www.rwi.uzh.ch/elt-lst-vogt/gesellschaftsrecht1/revision_rechn/de/html/bilanz_gliederung.html}}
+\end{figure}
+
+
+\begin{tabular}{p{3cm}p{3cm}}
+\toprule
+\textbf{Fachbegriff} & \textbf{Beschreibung} \\
+\midrule
+Debitoren&Guthaben gegenüber Kunden aus Verkäufen die nicht sofort bar bezahlt werden.\\
+\midrule
+Kreditoren&Schulden bei Lieferanten aus Verkäufen die nicht sofort bar bezahlt werden.\\
+\midrule
+Umlaufvermögen& Flüssige Mittel und Vermögensanteile die innerhalb eines Jahres zu Geld gemacht werden können.\\
+\midrule
+Anlagevermögen&Teile des Vermögens einer Unternehmung, die nicht zur Veräusserung bestimmt sind.\\
+\bottomrule
+\end{tabular}
+
+\begin{tabular}{p{3cm}p{3cm}}
+\toprule
+\textbf{Fachbegriff} & \textbf{Beschreibung} \\
+\midrule
+Bilanz&Gegenüberstellung der Aktiven und Passiven.\\
+\midrule
+Kassabuch&Beschreibt den jeweiligen Kassenbestand.\\
+\midrule
+Erfolgsrechnung&Ermittlung des Erfolgs einer wirtschaftenden Institution innerhalb eines Zeitabschnitts.\\
+\midrule
+Budget&Operativer Plan, der die Allokation von Ressourcen steuert.\\
+\midrule
+Kennzahlen&In Zahlen ausdrückbare Informationen für den innerbetrieblichen Vergleich.\\
+\bottomrule
+
+\end{tabular}
+
+
+Während die Bilanz eine Zeitpunktrechnung ist, ist die Erfolgsrechnung eine Zeitraumrechnung (Pro Jahr, pro Quartal etc.). Die Erfolgsrechnung ist eine Gegenüberstellung von Aufwand und Ertrag. Das Kassabuch wiederum beschreibt, was sich im Moment in der Kasse befindet. Dieses ist z.B. für Verkaufsläden oder die Gastronomie, also Orte in denen viel mit Bargeld hantiert wird, wichtig.  Das Budget richtet sich nach der Zukunft. Darin wird dargelegt, wie viel man an welchen Positionen ausgeben kann und was man gedenkt einzunehmen.
+Kennzahlen dienen als Führungsinstrument. Mit ihnen kann man rasch feststellen, wie es um eine Firma steht. Kennzahlen werden weniger als absolute Zahlen verwendet, sondern werden innerbetrieblich mit früheren Zahlen verglichen.
+\subsection{Mathematik}
+
+In der Erfolgsrechnung sollen die Summen auf beiden Seiten ausgeglichen sein. Deshalb können Guthaben auch auf der \flqq negativen\frqq{} Seite stehen und der Verlust beim Ertrag. Sinngemäss ist das für den Laien etwas schwierig nachzuvollziehen. Wenn man sich aber auf die Gleichheit der Summen konzentriert, dann kann man das gut begründen.
+Aus mathematischer Sicht ist es einfach ein Addieren mit Darstellung nach vorgeschriebener Art. Das Abschreiben könnte man zusammen mit der Prozentrechnung behandeln. Wie ist der Wert nach x Jahren bei gegebener, prozentualer Abschreibung? Wann unterschreitet der Wert eines Gutes einen gewissen Betrag? Das Budget ist eine Erfolgsrechnung für die Zukunft. Man kann also den Gewinn vorgeben, und dann versuchen die restlichen Einträge z.B. durch lösen von Gleichungssysteme und Linearen Funktionen zu lösen. Kennzahlen: Verhältniszahlen in Prozent zum Vergleich. Es gilt den Unterschied zu erklären zwischen dem Prinzip des Prozents und eines Faktors, bei dem die Zahl 1, 100\% entspricht. Mit Prozentwerten zu rechnen ist im Allgemeinen umständlicher. Um andere Parameter der Kennzahlen zu bekommen, muss man lineare Gleichungen, bzw. Bruchgleichungen umstellen können. Man kann auch gleich üben, den Nenner zu interpretieren. Wie verändert sich die Kennzahl, wenn der Nenner grösser wird? Kann der Nenner gleich Null werden? In welchem Intervall muss das Umlaufvermögen sein, damit \flqq current ratio\frqq{} zwischen 150 und 200 liegt? Bei geeigneten Kennzahlen kann man den Sinn des Definitionsbereiches und des Wertebereiches aufzeigen. Welche Zahlenwerte für Kennzahlen sind gut?
+Der Gewinn durch Eigenkapital kann z.B. auch erhöht werden, indem der Nenner, das Eigenkapital reduziert wird. Will man das?
+Die Kennzahlen herzuleiten dürfte gefühlsmässig zu schwierig sein. Man kann aber grob abschätzen, welcher Parameter hoch und welcher tief sein muss, um eine hohe Kennzahl zu erhalten. Diese Interpretation dürfte auch ohne Formel funktionieren
+
+
+
+
+
+\section{Die AG in Aktion \flqq Rollen und Konflikte\frqq}
+\subsection{Wirtschaft}
+Das Lehrmittel Iconomix beschreibt relativ ansprechend die AG. Es werden Fallbeispiele behandelt, Diskussionen geführt und Arbeitsaufträge gestellt. Obwohl das Lehrmittel, es handelt sich hier um ein Heft, aus meiner Sicht ansprechend gestaltet ist und versucht wurde, das Thema nicht so trocken zu behandeln, erscheinen mir dennoch die Probleme eines CEO's, eines Verwaltungsratspräsidenten und eines Finanzchefs in keinem Bezug zu den Lernenden stehen. Es gibt sehr viele Themen im Dunstkreis von Wirtschaft und Rechtskunde, welche Relevant sind für die Berufslernenden. Dieses Thema ist für sie aber nicht relevant. Allerdings gefällt mir das Kapitel \flqq Die Positionen in der Firma\frqq{} wieder sehr gut. Interessant fand ich, dass man die Boni nicht reduzieren soll. Die Lernenden sind sich gewohnt, dass sie aufs Dach kriegen wenn sie Fehler machen. Das dies in der Finanzindustrie anders sein soll ist vermutlich etwas schwierig nachzuvollziehen.
+Die Aktiengesellschaft: Das Aktienkapital ist die Summe der investierten Beträge der Aktionäre. Mit dieser Investition beteiligen sie sich an einer Firma und haben dadurch nur ein begrenztes finanzielles Risiko. Die Aktionäre sind die Eigentümer und Auftraggeber und damit die wichtigsten Träger der Aktiengesellschaft. Das oberste Organ ist die Generalversammlung. Ein Aktionär kann seine Stimmkraft erhöhen indem er mehrere Aktien kauft. Die Aktionäre wählen einen Verwaltungsrat. Dieser kann die Geschäftsführung auf eine separate Geschäftsleitung übergeben. Die Geschäftsleitung mit dem CEO wird nach aussen oft als der Chef der Firma angesehen, dabei arbeitet das Management im Auftrag des Verwaltungsrates. Ein CEO kann auch im Doppelmandat zugleich Verwaltungsratspräsident sein. Die variablen Lohnbestandteile (Euphemismus für Boni) werden zusätzlich zum Fixlohn je nach Geschäftsverlauf ausbezahlt. In einigen Branchen scheint die Auszahlung der variablen Lohnbestandteile unabhängig vom Geschäftsverlauf zu sein. Die Revisionsstelle wird von der Generalversammlung gewählt und soll den Aktionären die Gewähr geben, dass die Buchführung korrekt ist. Die Revisoren sind ein wichtiges Kontrollinstrument.
+
+
+\subsection{Mathematik}
+Interdisziplinär mit Mathematik sehe ich weniger Einsatzmöglichkeiten. Die Aktienmärkte mathematisch darstellen zu wollen erscheint mir keine gute Idee. Wenn es zuverlässige Instrumente gäbe um den Aktienkurs vorauszusagen, gäbe es keinen Aktienmarkt im Jetzigen Sinne. Man könnte versuchen die einzelnen Kurven der Aktienkurse zu untersuchen. Vielleicht führt z.B. die \flqq stop-loss-funktion\frqq{} im e-banking dazu, dass Kurse plötzlich, ohne ersichtlichen Grund, absacken, weil immer mehr stop-loss Grenzen unterschritten werden und durch den Verkauf der Kurs weiter sinkt und danach dann die Aktien wieder zurückgekauft werden. Interessant wäre es, zu berechnen ob sich der Aktienkauf für eine Einzelperson lohnt. Dazu vergleicht man die Aktien mit einem Sparkonto. Vielleicht empfindet man den Aktienhandel als Arbeit und gibt sich somit selbst noch einen Stundenlohn. Danach kann man berechnen wie viel man gewinnen muss um gleichauf mit dem Sparkonto zu sein. Dazu kann man noch die Dividende und die Courtage mit einberechnen.
+Die verschiedenen Mittelwerte und ihre Anwendungen in der Wirtschaft werden in einer Aufgabe in Kapitel 9 diskutiert.
+
+\section{Markt (Erdöl) \flqq Wie Angebot und Nachfrage auf dem Erdölmarkt zusammenspielen\frqq}
+
+\subsection{Wirtschaft}
+Erdöl ist ein limitierter Rohstoff. Themenbereich: Umwelt, Preise, Angebot und Nachfrage. Man soll stets von der Angebotsseite und der Nachfrageseite argumentieren, sonst lässt man die halbe Welt aus. \frqq Peak oil vs peak demand\frqq: Erdöl ist ein in endlichen Mengen vorhandener Rohstoff. Die Endlichkeit lässt sich zwar ausdehnen, z.B. durch das Fördern von Öl an teuren Förderstellen, sowie durch Sparmassnahmen wie isolieren von Gebäuden, keine Sonntagsfahrten etc. Dennoch bleibt Erdöl endlich. Es bildet sich zwar neu, jedoch geht das viel zu lange. Das McKelvey-Diagramm beschreibt das Zusammenspiel von Wirtschaftlichkeit und Grad an geologischer Sicherheit.
+\begin{figure}
+%\includegraphics[width=0.5\textwidth]{mckelvey.png}
+\caption{Quelle: McKelvey, V.E. 1972. \flqq Mineral Resource Estimates and Public Policy\frqq{} American Scientist 60 (1): 32-40}
+\end{figure}
+
+Erdöl ist der wichtigste Energieträger, es ist aber auch wichtig als Rohstoff für die chemische Industrie.
+Meine Meinung zu peak oil: Wenn Öl endlich ist, dann wird es eine maximale Fördermenge geben. Wann das ist, ist mir nicht möglich zu sagen, da mir die Informationen fehlen und selbst Experte weit auseinander liegen. Voraussagen sind schwierig, da man nicht in die Zukunft blicken kann. Wie viel würde ich für 1 Liter Benzin bezahlen? Diese Frage kann ich nicht beantworten, da ich nicht Autofahre und auch nicht vorhabe, damit zu beginnen. Aus meiner Sicht könnte der Benzinpreis höher sein, um die externen Kosten besser zu decken und um die Chemische Industrie zu schützen. Ist der Preis eines wirtschaftlichen Gutes tief, dann steigt die Nachfrage. Wenn die Nachfrage steigt, dann steigt auch der Preis. Wenn der Preis steigt, dann sinkt wiederum die Nachfrage.
+
+\subsection{Mathematik}
+Die Schnittpunkte von Angebots und Nachfragekurve, sowie die Verschiebung der Angebotskurve auf der x Achse, sind naheliegende Themen für die Mathematik. In Kapitel 9 gibt es dazu eine Aufgabe mit dem IS-LM Modell. Extrapolieren und intrapolieren sind weitere Techniken. Diese können auch mit der Ausgleichsgeraden aus Excel und der dazugehörigen Funktionsgleichung berechnet werden.   Das Thema peak oil könnte man mit der Analysis sehr schön behandeln und vermutlich mit dem Zwischenwertsatz beweisen. Leider wird das ausser mir niemand interessieren, deshalb wird diese Idee aus pädagogischer Sicht nicht weiter verfolgt.
+
+
+\section{Wachstum und Konjunktur \flqq Wie entwickelt sich die Volkswirtschaft?\frqq}
+\subsection{Wirtschaft}
+Hochhaus-Index-Theorie: Wo Gebäude immer höher in den Himmel wachsen folgt meist der finanzielle Absturz, denn Wolkenkratzer werden auf der Höhe des Booms geplant. Bei der Fertigstellung folgt häufig die Krise. Spannend: Folgt auf die Fertigstellung des Roche-Towers die Krise? Weitere Indikatoren: BIP Wert aller Güter und Dienstleistungen, dieses liegt in der Schweiz bei 600 Milliarden. Weitere Indikatoren: Investitionen, Konsumentenstimmung, Export-Import, Arbeitslosen Quote, Kaufkraft der eigenen Währung, Zinsen.
+Konjunkturtendenzen: Momentane Situation: Konjunkturbeobachtung, Aussichten: Konjunkturprognose. Die Konjunktur wird vor allem von der Nachfrageseite bestimmt. Die Bestimmung der Momentanen Lage ist nicht so einfach und wird teilweise mit provisorischen Werten durchgeführt welche mit Indikatoren gewonnen werden. Vorhersagen beruhen auf einer Kombination von statistischen Modellen und Expertenwissen. Für den Staat ist die Vorhersage wichtig, um ein Budget zu erstellen. Man unterscheidet drei Arten von Konjunkturindikatoren: vorlaufende, gleichlaufende und nachlaufende. Vorlaufende: beginnen vor einem Aufschwung zu steigen. Z.B. Auftragseingänge in der Industrie. Gleichlaufende: z.B. Industrieproduktion. Nachlaufende: z.B. Arbeitslosigkeit oder Preise. Sind für die Konjunkturbeobachtung gut.
+Das Wachstum ist langfristig, die Konjunktur kurzfristig. Wie kann man das Wachstum steigern? Entweder länger arbeiten oder mehr Produktivität pro Zeit.
+Das Seco veröffentlicht vierteljährlich eine Konjunkturprognose. Diese Analyse ist frei zugänglich, www.seco.admin.ch, und wird auch auf einer Seite Zusammengefasst. \flqq Konjunkturtendenzen auf eine Seite.\frqq 
+
+
+\subsection{Mathematik}
+Grundsätzliche Ideen: Daten analysieren, Ausführungen des SECO verstehen, Grafiken interpretieren.
+Man könnte Veränderungen und Wachstumsprozesse beschreiben. Dabei könnte man im Speziellen das Logistische Wachstum betrachten, welches sowohl aus mathematischer Sicht als auch aus wirtschaftlicher Sicht sehr spannend ist. Eine Aufgabe dazu findet man im Kapitel 9.
+
+
+
+
+
+
+
+
+
+\section{Interessenspiel \flqq Wettkampf um Wählerstimmen\frqq}
+\subsection{Wirtschaft}
+In der Politik werden häufig Interessen vertreten, (vielfach die finanziellen), von der Gruppierung, von der die Politiker gewählt wurden. Das \flqq Interessenspiel\frqq{} ist eine spielerische Lernform, bei der es darum geht den Wähleranteil zu erhöhen durch reservieren von finanziellen Mitteln. Die Lernenden müssen sich dazu Strategien überlegen. Wollen Sie ein Bündnis eingehen? Welche Anliegen bringen Wählerstimmen? Dazu müssen Sie in der Diskussion Überzeugungsarbeit leisten. Das Spiel ist eine angewandte Lernform. Strategien entwickeln und Überzeugungsarbeit leisten ist für die gesamte Nachschulzeit wichtig.
+\subsection{Mathematik}
+Abstimmungen und Wahlen sind auch aus mathematischer Sicht interessant. Es gibt das Mehr, das Absolute Mehr, die Zweidrittelmehrheit, in der Schweiz zudem noch das Ständemehr. Es gibt eine Stimmbeteiligung, welche auf alle Bürger, oder nur auf die Stimmberechtigten bezogen werden kann. Die Grundsatzfragen sind also, wann hat man gewonnen? Wie werden die Sitze verteilt? Wo liegen die Fehler bzw. ab wann muss nachgezählt werden und besonders Spannend: Wie erstellt man Prognosen und wie sicher sind die. Was ist eine Repräsentative Umfrage? Hat die Mathematik bei der Prognose der Minarett-Initiative versagt oder gibt es evtl. psychologische Gründe? Von wie vielen Studien ist eine falsch, wenn alle zu 95\% richtig sind? Wie viele Stimmen braucht man beim Majorzverfahren, wie viele im Proporzverfahren um einen Sitz zu bekommen?
+Manchmal gibt es auch Länder, welche keine Macht beim Stimmen haben vgl. Aufgabe \flqq Der Macht Index\frqq{} in Kapitel 9.
+
+
+\section{Europäische Währungsunion \flqq Ausweg aus der Eurokrise\frqq}
+\subsection{Wirtschaft}
+Die Eurokrise empfinde ich als ein sehr spannendes, aber auch komplexes Thema. Es gibt für den Unterricht sicher einfachere Inhalte.
+Lernziele: Vor- und Nachteile einer Währungsunion. Den Weg in die Krise analysieren. Zu Beginn des Unterrichts kann man das Vorwissen aktivieren, indem man die Frage stellt, weshalb man sich mit der Europäischen Währungsunion auseinandersetzen soll, bzw. weshalb ist das wichtig? Mögliche Antwort: Die Schweiz ist von dieser Währungsunion umgeben. Europa ist der wichtigste Handlungspartner der Schweiz. Auch wenn die Schweiz nicht in der EU ist, kommt sie nicht an Europa vorbei. Der einzige Grund, der für mich dagegen spricht, ist die hohe Komplexität, die evtl. ein Begreifen verhindert. Kennt man eigentlich die Gründe für die Krise wirklich? Hätten Ökonomen eine Krise verhindern können?
+\subsection{Mathematik}
+Zum Thema Währung gibt es ein ganz spezielles, interdisziplinäres Thema: Die Bitcoins. Diese sind zweifelsohne interessant für die Wirtschaft und die Politik. Erfahrungsgemäss fühlen sich die Lernenden von diesem Thema sehr fasziniert. Bitcoins sind ein Thema, welches ich  für die jährlichen, Interdisziplinären Projektarbeiten an der Berufsmatura anbieten werde. Die Berechnung basiert auf kryptografischen Verfahren. In diesem speziellen Fall wird über elliptischen Kurven gerechnet. Diese Mathematik kann zwar fast beliebig schwer werden, die Grundlagen lassen sich aber sehr anschaulich erklären. So kann man z.B. die Addition auf Elliptischen Kurven mit dem Gratisprogramm Geogebra selbst simulieren.
+
+\section{Gesamtreflexion}
+\subsection{Wirtschaft}
+Wirtschaft ist ein Grundlegendes Fach. Auch wenn viel Geld nicht alle glücklich macht, so kann es sehr unglücklich machen, wenn man zu wenig hat. Man kann sich der Wirtschaft nicht entziehen, daher sollte jeder sollte ein Grundverständnis in Wirtschaft haben. Einige Lernende halten das Fach Wirtschaft für nicht interessant. Das liegt sicher auch daran, dass die meisten Lernenden noch finanziell abgesichert sind und somit denken, dass wirtschaftliche Kenntnisse nicht wichtig sind für sie. Das Wahlpflichtfach Wirtschaft hat mir geholfen, meine Wirtschaftskenntnisse, auf Stufe der Berufsschullernenden, zu erneuern und zu vertiefen. Mit Google und den Suchwörtern Wirtschaft und Mathematik findet man zwar viele Links, jedoch sind die meisten nicht für die Berufsmatura geeignet, da sie Hochschulmathematik voraussetzen. Die Veranstaltung empfand ich als sehr ansprechend, da wir immer direkt zum Thema kamen und ich einiges dazulernen konnte. Die Tatsache dass ich ein Anfänger in Wirtschaftsfragen bin war für mich kein Hindernis, sondern eher ein Vorteil. Ich konnte nicht nur als Lehrperson von diesem Kurs profitieren, sondern auch meine Allgemeinbildung vertiefen.
+\subsection{Mathematik}
+Es gibt viele Themen aus der Wirtschaft, mit denen der Mathematikunterricht angewandter und interdisziplinär unterrichtet werden kann. Die angedachten Konzepte, sowie die erstellten Aufgaben werde ich im Unterricht verwenden. Einiges davon habe ich bereits ausprobiert und gute Erfahrungen damit gemacht. 
+
+
+
+
+
+\onecolumn
+\section{Angewandte Aufgaben}
+\subsection{Macht-Index}
+
+
+
+\begin{tabular}{l l}
+\toprule
+Wirtschaft & Wahlen, Politik  \\
+\midrule
+Mathematik& Kombinatorik \\
+
+\bottomrule
+\end{tabular}\\
+
+
+Zu Gründungszeiten der Europäischen Währungsgemeinschaft (später Europäische Union) gab es die sechs Mitgliedstaaten Deutschland, Frankreich, Italien, Niederlande, Belgien und Luxemburg. Jedem Land war für Abstimmungen im Ministerrat ein Stimmgewicht zugeordnet: Deutschland hatte 4, Frankreich 4, Italien 4, Niederlande 2, Belgien 2 Stimmen und Luxemburg 1 Stimme. Das Stimmgewicht eines Landes konnte nur als Block abgegeben werden, z.B. Frankreich konnte entweder mit 4 Stimmen für oder gegen einen Antrag stimmen. Bei einer Abstimmung im Ministerrat waren 12 der insgesamt 17 Stimmen notwendig, um einen Beschluss durchzusetzen. Frage: kann Luxemburg für eine gewinnende Koalition kritisch sein? Oder anders gefragt, in welchen Situationen spielt es eine Rolle wie Luxemburg abstimmt?
+\subsubsection{Banzhaf-Index}
+Der Banzhaf Index ist ein Macht Index. Man zählt für jede Partei die Anzahl Koalitionen für die sie entscheidend ist. Entscheidend bedeutet hier, dass man das Ergebnis beeinflussen kann. Dann summiert man alle möglichen, entscheidenden Koalitionen aller Parteien. Man bekommt eine ganze Zahl, die als Banzhaf-Macht bezeichnet wird. Um den Banzhaf-Index einer Partei zu ermitteln, teilt man die Anzahl der entscheidenden Koalitionen einer Partei durch die Banzhaf-Macht. Welchen Banzhaf-Index hatte Luxemburg?
+
+\subsection{Lineare Optimierung}
+
+
+
+\begin{tabular}{l l}
+\toprule
+Wirtschaft & Optimale Produktion \\
+\midrule
+Mathematik& Ungleichungen, Graphen von linearen Funktionen einzeichnen. \\
+
+\bottomrule
+\end{tabular}\\
+
+Drei Spezialisten A, B, C montieren zwei verschiedene Typen $T_1$ und $T_2$ einer Maschine. Die Tabelle gibt die Arbeitszeit in Stunden für die einzelnen Typen an. A steht für höchstens 300 Stunden, B höchstens 230 Stunden und C höchstens 45 Stunden zur Verfügung.\\
+Der Gewinn beträgt bei $T_1$ 100 Franken und bei $T_2$ 150 Franken pro Stück.\\
+Wie viele Maschinen jeden Typs bringen den grössten Gewinn?\\
+
+\begin{tabular}{l l l l}
+\toprule
+&A&B&C\\
+\midrule
+$T_1$&2/5&1&1/4\\
+\midrule
+$T_2$&1&1/2&1/16\\
+\bottomrule
+\end{tabular}
+
+
+\subsection{Logistisches Wachstum}
+
+
+
+\begin{tabular}{l l}
+\toprule
+Wirtschaft & Einnahmen pro Zeiteinheit \\
+\midrule
+Mathematik& Rekursive Funktionen \\
+
+\bottomrule
+\end{tabular}\\
+
+\subsubsection{beschränktes Wachstum}
+Da unsere Ressourcen nicht unendlich sind geht das Wachstum nicht unbegrenzt weiter.
+Sei $B$ eine Funktion, welcher der Zeit $t$ die Anzahl an vernichteten Gegenständen zuordnet.
+
+$B(t+1) = B(t) +$ Änderungsrate $\cdot ($Anfangsbestand $- B(t))$
+Dabei bedeutet $B(t)$ der Bestand der verworfenen Güter zum Zeitpunkt $t$ und $B(t+1)$ ist der Bestand eine Zeiteinheit nach $t$. Die Änderungsrate ist eine Zahl im Intervall $[0,1]$.\\
+\renewcommand{\labelenumi}{\roman{enumi})}
+\begin{enumerate}
+
+\item Was bedeutet (Anfangsbestand $- B(t))$?\\
+
+
+\item Angenommen, Sie arbeiten in einer Firma für Knochenimplantate in der Qualitätskontrolle. Da sich die Implantate mit dem Körper vertragen sollen, werden sie mit porösem Titan beschichtet. Ist diese Schicht zu dick, dann kann sie abplatzen, ist sie zu dünn, dann kann das Implantat abgestossen werden. Sie bekommen 5000 Exemplare. Diese werden bei verschärften Bedingungen (Hitze und Säure) gelagert, um die Widerstandsfähigkeit schnell abschätzen zu können. Erfahrungsgemäss werden pro Zeiteinheit 5 Prozent der Implantate zerstört. Stellen Sie die Wachstumsfunktion der zerstörten Implantate pro Zeit mit Excel dar. Die Menge an verworfenen Stücken wird von einem Wert beschränkt. Schätzen Sie diesen Wert ab. Wann wird dieser Wert erreicht?
+\end{enumerate}
+
+\subsubsection{Wachstum}
+Formel:
+$B(t+1) = B(t) +$Wahrscheinlichkeit Erfolg $\cdot B(t) \cdot ($maximal möglicher Bestand $- B(t))$
+
+In einer abgelegenen Stadt wohnen 1400 Einwohner. Man versucht in dieser Stadt Versicherungen zu verkaufen. Da die Einwohner durch ihre Abgeschiedenheit eigene, uns unbekannte Regeln und Bräuche haben lässt man dabei die Einwohner selbst arbeiten und gibt ihnen pro abgeschlossenem Vertrag 10 Prozent der Einnahmen. Aus Erfahrung weiss man, dass pro Tag mit einer Wahrscheinlichkeit von 0,05 Prozent eine Person mit Vertrag, einer Person ohne Vertrag einen solchen verkaufen kann. Da die Einwohnerzahl begrenzt ist, kann man nicht beliebig viel Geld einnehmen.
+Sei $B(t)$ der Bestand an Vertragsinhaber. 
+\begin{enumerate}
+\item Wie viele haben nun keinen Vertrag zum Zeitpunkt $B(t)$? Lösung: \reflectbox{$1400-B(t)$}\\
+
+\item Stellen Sie das Wachstum mit Excel dar.
+
+\item Wie würde man die Funktion zu Beginn bezeichnen?
+\end{enumerate}
+\subsection{IS-LM-Modell}
+
+
+
+\begin{tabular}{l l}
+\toprule
+Wirtschaft & Güter und Geldmarktgleichgewicht \\
+\midrule
+Mathematik& Graphen von quadratischen Funktionen verschieben \\
+
+\bottomrule
+\end{tabular}\\
+
+Das IS-LM-Modell (Investment-Saving / Liquidity preference-money supply) ist ein Modell aus der Volkswirtschaftslehre und beschreibt das Zusammenspiel des Gütermarktes (IS-Kurve) sowie des Geldmarktes (LM-Kurve). Dabei ist Y das Volkseinkommen und i der Zinssatz.\\
+
+
+Eine Erhöhung der Staatsausgaben verschiebt die IS-Kurve nach rechts (oben). Die Lage der LM-Kurve bleibt unverändert.\\
+
+Sei die IS Kurve gegeben durch $IS: y = 0.4x^{2} - 3.62x + 9.32$ im Definitionsbereich $x \in [0.5, 3.5]$ und die LM Kurve ist gegeben durch $LM: y = 0.4x^{2} + 0.27x + 1.36$ ebenfalls in  $x \in [0.5, 3.5].$ Das Volkseinkommen verändere sich um eine Einheit. Verschieben Sie die IS Kurve so nach rechts oben, dass der gleiche Punkt auf der IS Kurve die Kurve LM schneidet. Hinweis: verändern sie das $a$ von $ax^{2}$ nicht.
+
+\subsection{Mittelwerte}
+
+
+
+\begin{tabular}{l l}
+\toprule
+Wirtschaft & Einnahmen, Ausgaben, Zinsen \\
+\midrule
+Mathematik& Berechnungen und Anwendungen der Mittelwerte \\
+
+\bottomrule
+\end{tabular}\\
+
+\subsubsection{Arithmetisches Mittel}
+$\bar{x}=\frac{x_1 + x_2 + \dots + x_n}{n}=\frac{1}{n} \cdot (x_1 + x_2 + \dots + x_n)=\frac{1}{n}\cdot \sum\limits_{i=1}^n x_i$\\
+
+Die UBS hat im Jahr 2013 rund 3 Mia. Fr. Boni ausbezahlt. Der Personalbestand betrug Ende des Jahres 60205 Mitarbeiter. Wie viel Bonus hat jeder Mitarbeiter im Durchschnitt bekommen? Bedeutet dies, dass jeder Mitarbeiter ungefähr diesen Betrag als Bonus erhalten hat? Kennen Sie einen Mittelwert, welcher sich besser eignet um Löhne zu vergleichen?
+
+\subsubsection{Median}
+Der Median bedeutet, dass 50\% der Werte (z.B. Löhne, Noten etc.) darüber liegen und 50\% darunter. Berechnen Sie das Arithmetische Mittel und den Median von den folgenden Löhnen: 3000, 5700, 6300, 9000, 18000, 150000. Welchen Wert finden Sie aussagekräftiger? Schätzen Sie den Median der Boni der UBS ab. Worauf begründen Sie ihren Wert?
+
+\subsubsection{Geometrisches Mittel}
+$\hat{g}=\sqrt[n]{g_1 \cdot g_2 \cdot \ldots \cdot g_n}$\\
+
+Eine Bank bietet dem Kunden folgende Zinsen auf sein Guthaben:
+
+\begin{tabular}{p{4cm}p{4cm}}
+\toprule
+\textbf{Jahr} & \textbf{Zinsen} \\
+\midrule
+1& 1\%\\
+\midrule
+2& 2\%\\
+\midrule
+3& 3\%\\
+\midrule
+4& 4\%\\
+\midrule
+5& 5\%\\
+\bottomrule
+\end{tabular}
+
+\begin{itemize}
+\item Berechnen sie das arithmetische Mittel der Zinsen.
+\item Berechnen Sie die Einzelnen Zinsen und die Zunahme des Kapitals. Bilden Sie daraus den Durchschnittlichen Zinssatz.
+\item Vergleichen Sie die beiden Mittelwerte.
+\item Berechnen Sie das geometrische Mittel der Zinsen.
+\item Welcher Mittelwert eignet sich für Zinsen?
+\end{itemize}
+
+\subsubsection{Harmonisches Mittel}
+$\bar{x}_h=\frac{n}{\frac{1}{x_1}+\frac{1}{x_2}+\ldots + \frac{1}{x_n}}$\\
+
+Ein Autofahrer tankt drei Mal für je 50 Franken. Dabei bezahlt er für einen Liter: 1.77 CHF, 1.71 CHF, 2.2 CHF.
+
+\begin{itemize}
+\item Berechnen Sie das arithmetische Mittel der Benzinpreise.
+\item Überprüfen Sie diesen Wert durch Nachrechnen, indem Sie Berechnen, wie viele Liter getankt wurden.
+\item Berechnen Sie das harmonische Mittel.
+\item Welcher Mittelwert eignet sich besser?
+\end{itemize}
+
+%\appendix
+
+%% Dokument ENDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+

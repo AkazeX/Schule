@@ -1,0 +1,36 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Bilanz und Erfolgsrechnung}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Wirtschaft}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Mathematik}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Die AG in Aktion \flqq Rollen und Konflikte\frqq }{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Wirtschaft}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Mathematik}{4}{subsection.3.2}
+\contentsline {section}{\numberline {4}Markt (Erd\IeC {\"o}l) \flqq Wie Angebot und Nachfrage auf dem Erd\IeC {\"o}lmarkt zusammenspielen\frqq }{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Wirtschaft}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Mathematik}{5}{subsection.4.2}
+\contentsline {section}{\numberline {5}Wachstum und Konjunktur \flqq Wie entwickelt sich die Volkswirtschaft?\frqq }{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}Wirtschaft}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Mathematik}{6}{subsection.5.2}
+\contentsline {section}{\numberline {6}Interessenspiel \flqq Wettkampf um W\IeC {\"a}hlerstimmen\frqq }{6}{section.6}
+\contentsline {subsection}{\numberline {6.1}Wirtschaft}{6}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Mathematik}{6}{subsection.6.2}
+\contentsline {section}{\numberline {7}Europ\IeC {\"a}ische W\IeC {\"a}hrungsunion \flqq Ausweg aus der Eurokrise\frqq }{7}{section.7}
+\contentsline {subsection}{\numberline {7.1}Wirtschaft}{7}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Mathematik}{7}{subsection.7.2}
+\contentsline {section}{\numberline {8}Gesamtreflexion}{7}{section.8}
+\contentsline {subsection}{\numberline {8.1}Wirtschaft}{7}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Mathematik}{8}{subsection.8.2}
+\contentsline {section}{\numberline {9}Angewandte Aufgaben}{9}{section.9}
+\contentsline {subsection}{\numberline {9.1}Macht-Index}{9}{subsection.9.1}
+\contentsline {subsubsection}{\numberline {9.1.1}Banzhaf-Index}{9}{subsubsection.9.1.1}
+\contentsline {subsection}{\numberline {9.2}Lineare Optimierung}{9}{subsection.9.2}
+\contentsline {subsection}{\numberline {9.3}Logistisches Wachstum}{10}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}beschr\IeC {\"a}nktes Wachstum}{10}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Wachstum}{10}{subsubsection.9.3.2}
+\contentsline {subsection}{\numberline {9.4}IS-LM-Modell}{11}{subsection.9.4}
+\contentsline {subsection}{\numberline {9.5}Mittelwerte}{11}{subsection.9.5}
+\contentsline {subsubsection}{\numberline {9.5.1}Arithmetisches Mittel}{11}{subsubsection.9.5.1}
+\contentsline {subsubsection}{\numberline {9.5.2}Median}{11}{subsubsection.9.5.2}
+\contentsline {subsubsection}{\numberline {9.5.3}Geometrisches Mittel}{12}{subsubsection.9.5.3}
+\contentsline {subsubsection}{\numberline {9.5.4}Harmonisches Mittel}{12}{subsubsection.9.5.4}

@@ -1,0 +1,107 @@
+
+ \documentclass[11pt, twocolumn, a4paper]{scrartcl}
+
+
+\usepackage[ngerman]{babel}	% Worttrennung
+\usepackage[utf8]{inputenc}	% Wird für die direkte Eingabe von Umlauten gebraucht
+\usepackage[T1]{fontenc}		% Trennung von Umlauten
+\usepackage{lmodern}		% Latin Modern Schrift
+\usepackage{caption}			% Überschrift in Fliessumgebung
+\usepackage{graphicx}		% Das Standardpaket zum Einbinden von Bildern / Grafiken
+\usepackage{amsmath}		% Zusätzliche mathematische Umgebungen
+\usepackage{amssymb}		% Zusätzliche mathematische Symbole
+\usepackage{amsfonts}		% Symbole, Schriften
+\usepackage{siunitx}			% Darstellung von SI Einheiten
+\usepackage{hyperref}		% Erstellt Verweise innerhalb und nach außerhalb eines PDF Dokumentes
+\usepackage{pdfpages}		% Einbinden von PDF Dateien zum Beispiel weitere bereits fertige PDFs in ein neues PDF einfügen
+\usepackage{longtable}		% Für Tabellen die länger als eine Seite Lang sind
+\usepackage{fancybox}		% Box für Formeln
+\usepackage{fancyhdr}		% Seiten schöner gestalten, insbesondere Kopf- und Fußzeile
+\usepackage{booktabs}		% Unterschiedlich dicke Linien in Tabellen
+\hypersetup{pdfborder={0 0 0}}	% Keine Kästchen im Inhaltsverzeichnis
+
+
+
+
+%Titel%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Wirtschaft Angewandt\\
+\begin{large}Leistungsnachweis Wirtschaft - Mathematik interdisziplin{\"a}r\end{large}}
+\date{23.05.2014}
+\author{Andreas Schneider \thanks{Berufsbildung Baden}}
+
+
+
+%% Dokument Beginn %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+\begin{small}
+\setcounter{tocdepth}{1}
+\tableofcontents 
+\end{small}
+
+
+%Text nach dem Prozentzeichen erscheint nicht im fertigen Dokument
+%Sie können das Prozentzeichen verwenden um zu kommentieren und zu unterteilen
+
+%HIER KOMMT IHR TEXT HIN
+
+%Kapitel%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Kapitel} %Kapitel
+\label{sec:Einleitung}%Damit können Sie auf das Kapitel bezug nehmen. \ref{sec:Einleitung} auf Seite \pageref{sec:Einleitung}
+
+
+
+\subsection{Unterkapitel}%Unterkapitel
+
+%Bilder einfügen
+%\begin{figure}
+%\includegraphics[width=0.5\textwidth]{Bilanz.jpg}
+%\caption{Quelle: \protect\url{http://www.rwi.uzh.ch/elt-lst-vogt/gesellschaftsrecht1/revision_rechn/de/html/bilanz_gliederung.html}}
+%\end{figure}
+
+%Tabelle
+\begin{tabular}{p{3cm}p{3cm}}
+\toprule
+\textbf{Fachbegriff} & \textbf{Beschreibung} \\
+\midrule
+Debitoren&Guthaben gegenüber Kunden aus Verkäufen die nicht sofort bar bezahlt werden.\\
+\midrule
+Kreditoren&Schulden bei Lieferanten aus Verkäufen die nicht sofort bar bezahlt werden.\\
+\midrule
+Umlaufvermögen& Flüssige Mittel und Vermögensanteile die innerhalb eines Jahres zu Geld gemacht werden können.\\
+\midrule
+Anlagevermögen&Teile des Vermögens einer Unternehmung, die nicht zur Veräusserung bestimmt sind.\\
+\bottomrule
+\end{tabular}
+
+
+
+
+
+%von zweizeiligem Text auf einzeiligen wechseln
+\onecolumn
+\section{Angewandte Aufgaben}
+\subsection{Macht-Index}
+
+
+
+%Aufzählen
+\begin{itemize}
+\item Berechnen Sie das arithmetische Mittel der Benzinpreise.
+\item Überprüfen Sie diesen Wert durch Nachrechnen, indem Sie Berechnen, wie viele Liter getankt wurden.
+\item Berechnen Sie das harmonische Mittel.
+\item Welcher Mittelwert eignet sich besser?
+\end{itemize}
+%Für die Mathematik brauchen Sie das Dollar-Zeichen am Anfang und am Ende
+$a^2 \cdot b^2 = c^2 \Rightarrow c=\sqrt{a^2 \cdot b^2}$
+%Oder
+\begin{equation}
+\label{eq:1.8.7}
+\frac{Zähler}{Nenner}
+\end{equation}
+
+
+%% Dokument ENDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+

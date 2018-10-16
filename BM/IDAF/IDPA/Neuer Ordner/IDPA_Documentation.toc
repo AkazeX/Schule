@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Definition of tasks}{2}
+\contentsline {subsection}{\numberline {1.1}Grundanforderungen}{2}
+\contentsline {subsection}{\numberline {1.2}Erweiterte Anforderungen}{2}
+\contentsline {section}{\numberline {2}Project analyses}{2}
+\contentsline {subsection}{\numberline {2.1}Machbarkeit}{2}
+\contentsline {subsection}{\numberline {2.2}Relevanz}{2}
+\contentsline {subsection}{\numberline {2.3}Interdisziplin\IeC {\"a}rit\IeC {\"a}t}{3}
+\contentsline {subsection}{\numberline {2.4}Leitfrage}{3}
