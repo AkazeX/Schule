@@ -1,0 +1,2826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c>
+	<n l="Fachkunde Metall, 57. Aufl - E" v="3.0">
+		<f i="titel.png" l="Titel" />
+		<n l="1 Prüftechnik">
+			<n l="1 Größen und Einheiten">
+				<f i="013-1.png" l="Basisgrößen" />
+				<f i="013-2.png" l="Winkeleinheiten" />
+				<f i="014-1.png" l="Masse und Kraft" />
+				<f i="014-2.png" l="Druck" />
+				<f i="014-3.png" l="Temperaturskalen" />
+				<f i="014-4.png" l="Periodische Vorgänge" />
+			</n>
+			<n l="2 Grundlagen der Messtechnik">
+				<f i="015-1_auf.swf" l="Prüfarten und Prüfergebnis" />
+				<f i="015-1.png" l="Prüfarten und Prüfergebnis" />
+				<f i="015-2_auf.swf" l="Prüfmittel" />
+				<f i="015-2.png" l="Prüfmittel" />
+				<f i="016-T1.png" l="Messtechnische Begriffe" />
+				<f i="017-T1.png" l="Messtechnische Begriffe" />
+				<f i="018-1.png" l="Messabweichungen durch die Temperatur" />
+				<f i="018-2.png" l="Messabweichungen durch elastische Formänderung am Messstativ durch die Messkraft" />
+				<f i="018-3_auf.swf" l="Messabweichung durch Parallaxe" />
+				<f i="018-3.png" l="Messabweichung durch Parallaxe" />
+				<f i="019-T1.png" l="Ursachen und Arten von Messabweichungen" />
+				<f i="020-1.png" l="Systematische Abweichungen einer Bügelmessschraube" />
+				<f i="020-2.png" l="Nulleinstellung der Anzeige und Unterschiedsmessung" />
+				<f i="020-3.png" l="Zufällige Abweichungen eines Feinzeigers bei Messungen unter Wiederholbedingungen" />
+				<f i="021-1.png" l="Zulässige Messunsicherheit" />
+				<f i="021-2.png" l="Messunsicherheit im Verhältnis zur Toleranz" />
+				<f i="021-T1_auf.swf" l="Messunsicherheit" />
+				<f i="021-T1.png" l="Messunsicherheit" />
+				<f i="022-1_auf.swf" l="Aufkleber für kalibrierte Messgeräte" />
+				<f i="022-1.png" l="Aufkleber für kalibrierte Messgeräte" />
+			</n>
+			<n l="3 Längenprüfmittel">
+				<n l="1 Maßstäbe, Lineale, Winkel, Lehren und Endmaße">
+					<f i="023-1.png" l="Geradheitsprüfung mit Haarlineal" />
+					<f i="023-2.png" l="Haarwinkel 90°" />
+					<f i="023-3_auf.swf" l="Lehrenarten" />
+					<f i="023-3.png" l="Lehrenarten" />
+					<f i="023-T1_auf.swf" l="Fehlergrenzen von Maßstäben der Länge 500 mm" />
+					<f i="023-T1.png" l="Fehlergrenzen von Maßstäben der Länge 500 mm" />
+					<f i="024-1_auf.swf" l="Grenzlehre nach Taylor" />
+					<f i="024-1.png" l="Grenzlehre nach Taylor" />
+					<f i="024-2_auf.swf" l="Grenzlehrdorn" />
+					<f i="024-2.png" l="Grenzlehrdorn" />
+					<f i="024-3_auf.swf" l="Lehrringe" />
+					<f i="024-3.png" l="Lehrringe" />
+					<f i="024-4_auf.swf" l="Grenzlehrdorn" />
+					<f i="024-4.png" l="Grenzlehrdorn" />
+					<f i="024-5_auf.swf" l="Grenzrachenlehre" />
+					<f i="024-5.png" l="Grenzrachenlehre" />
+					<f i="025-1.png" l="Abmaße von Endmaßen" />
+					<f i="025-2.png" l="Ansprengen von Endmaßen" />
+					<f i="025-3.png" l="Endmaßkombination" />
+					<f i="025-4.png" l="Prüfen von Rachenlehren mit Endmaß und Prüfstift" />
+					<f i="025-T1_auf.swf" l="Parallelendmaße (Werte in μm für Nennmaße 10 … 25 mm)" />
+					<f i="025-T1.png" l="Parallelendmaße (Werte in μm für Nennmaße 10 … 25 mm)" />
+				</n>
+				<n l="2 Mechanische und elektronische Messgeräte">
+					<f i="026-1_auf.swf" l="Taschenmessschieber mit Zwanzigstel-Nonius" />
+					<f i="026-1.png" l="Taschenmessschieber mit Zwanzigstel-Nonius" />
+					<f i="026-2_auf.swf" l="Ablesen von 1/20- und 1/50-Nonien" />
+					<f i="026-2.png" l="Ablesen von 1/20- und 1/50-Nonien" />
+					<f i="026-3.png" l="1/1000-INCH-Nonius und 1/50-Nonius" />
+					<f i="027-1.png" l="Messschieber mit Rundskale" />
+					<f i="027-2.png" l="Handhabung von Messschiebern" />
+					<f i="028-1_auf.swf" l="Elektronischer Messschieber" />
+					<f i="028-1.png" l="Elektronischer Messschieber" />
+					<f i="028-T1.png" l="Messmöglichkeiten mit elektronischen Messschiebern" />
+					<f i="029-1_auf.swf" l="Schnittbild der Bügelmessschraube" />
+					<f i="029-1.png" l="Schnittbild der Bügelmessschraube" />
+					<f i="029-2.png" l="Ablesebeispiele" />
+					<f i="029-3.png" l="Elektronische Bügelmessschraube" />
+					<f i="029-4.png" l="Prüfung von Parallelität und Ebenheit der Messflächen mit planparallelem Prüfglas" />
+					<f i="030-1.png" l="Innenmessschraube (2-Punkt-Berührung)" />
+					<f i="030-2.png" l="Innenmessgerät mit 2-Punkt-Berührung und Zentrierbrücke" />
+					<f i="030-3.png" l="Selbstzentrierende Innenmessschraube mit 3-Linien-Berührung" />
+					<f i="030-4.png" l="Selbstzentrierendes Innen-Schnellmessgerät mit 3-Linien-Berührung" />
+					<f i="031-1_auf.swf" l="Mechanische Messuhr" />
+					<f i="031-1.png" l="Mechanische Messuhr" />
+					<f i="031-2_auf.swf" l="Elektronische Messuhr" />
+					<f i="031-2.png" l="Elektronische Messuhr" />
+					<f i="031-3.png" l="Rundlaufprüfung" />
+					<f i="032-1.png" l="Zentrierung einer Bohrung mit einem Fühlhebelmessgerät" />
+					<f i="032-2.png" l="Einfluss des Anstellwinkels auf den Messwert" />
+					<f i="032-3.png" l="Unterschiedsmessung" />
+					<f i="033-1_auf.swf" l="Mechanischer Feinzeiger" />
+					<f i="033-1.png" l="Mechanischer Feinzeiger" />
+					<f i="033-2_auf.swf" l="Elektronischer Feinzeiger" />
+					<f i="033-2.png" l="Elektronischer Feinzeiger" />
+					<f i="033-3.png" l="Prüfung von Rundlauf und Exzentrizität" />
+				</n>
+				<n l="3 Pneumatische Messgeräte">
+					<f i="034-1_auf.swf" l="Messdüse und Düsenmessdorn" />
+					<f i="034-1.png" l="Messdüse und Düsenmessdorn" />
+					<f i="034-2_auf.swf" l="Pneumatisches Messgerät" />
+					<f i="034-2.png" l="Pneumatisches Messgerät" />
+					<f i="034-3_auf.swf" l="Pneumatisch-elektronisches Messgerät" />
+					<f i="034-3.png" l="Pneumatisch-elektronisches Messgerät" />
+					<f i="034-4_auf.swf" l="Paarungsmessen von Bohrung und Welle" />
+					<f i="034-4.png" l="Paarungsmessen von Bohrung und Welle" />
+					<f i="035-1_auf.swf" l="Pneumatisch-elektronische Messeinrichtung" />
+					<f i="035-1.png" l="Pneumatisch-elektronische Messeinrichtung" />
+					<f i="035-2_auf.swf" l="Anwendungen von Messwertaufnehmern" />
+					<f i="035-2.png" l="Anwendungen von Messwertaufnehmern" />
+					<f i="035-3.png" l="Messen von Maß- und Formabweichungen" />
+				</n>
+				<n l="4 Elektronische Messgeräte">
+					<f i="036-1.png" l="Rundlaufabweichung zwischen zwei Zylindern (Differenzmessung)" />
+					<f i="036-2.png" l="Differenzmessung der Rechtwinkligkeit" />
+					<f i="036-T1.png" l="Messfunktionen" />
+				</n>
+				<n l="5 Optoelektronische Messgeräte">
+					<f i="037-1_auf.swf" l="Messprinzip der Durchmessermessung mit einem Wellenmessgerät" />
+					<f i="037-1.png" l="Messprinzip der Durchmessermessung mit einem Wellenmessgerät" />
+					<f i="037-2_auf.swf" l="Wellenmessung (Längen und Durchmesser)" />
+					<f i="037-2.png" l="Wellenmessung (Längen und Durchmesser)" />
+					<f i="037-3.png" l="Laserscanner (Messprinzip)" />
+					<f i="037-4.png" l="Anwendungen von Laserscannern" />
+					<f i="038-1_auf.swf" l="Laser-Abstandsmessung" />
+					<f i="038-1.png" l="Laser-Abstandsmessung" />
+					<f i="038-2.png" l="Anwendungen der Laser-Abstandsmessung" />
+					<f i="038-3.png" l="Messprinzip des Laser-Interferometers" />
+					<f i="038-4.png" l="Positionsmessung in der x-Achse einer Fräsmaschine mit dem Laser-Interferometer" />
+				</n>
+				<n l="6 Multisensortechnik in Koordinatenmessgeräten">
+					<f i="039-1.png" l="Berührender (taktiler) Messtaster und Tasterwechseleinrichtung" />
+					<f i="039-2.png" l="Bilderfassung von Trägerplatten mit dem optischen Messkopf" />
+					<f i="039-3.png" l="Erkennung von Formelementen im Bildfenster" />
+					<f i="040-1.png" l="Messung von Formabweichungen und Bohrungstiefen mit dem Autofokussensor (integriert im optischen Messkopf)" />
+					<f i="040-2.png" l="Scannen des Modells einer Autotür mit dem Abstandssensor auf 10 Messlinien gleichzeitig" />
+					<f i="040-3.png" l="Ausrichten des Abstandssensors und Scannen eines Freiformmodells" />
+				</n>
+			</n>
+			<n l="4 Oberflächenprüfung">
+				<f i="041-1_auf.swf" l="Ertastetes Primärprofil (P-Profil)" />
+				<f i="041-1.png" l="Ertastetes Primärprofil (P-Profil)" />
+				<f i="041-2_auf.swf" l="Prinzip eines Tastschnittgerätes" />
+				<f i="041-2.png" l="Prinzip eines Tastschnittgerätes" />
+				<f i="041-3_auf.swf" l="Oberflächen-Profildiagramme" />
+				<f i="041-3.png" l="Oberflächen-Profildiagramme" />
+				<f i="041-T1_auf.swf" l="Gestaltabweichung von Oberflächen" />
+				<f i="041-T1.png" l="Gestaltabweichung von Oberflächen" />
+				<f i="042-1.png" l="Mittenrauwert Ra" />
+				<f i="042-2.png" l="Rautiefe Rt, maximale Rautiefe Rmax" />
+				<f i="042-3.png" l="Rund- und Spitzkammprofil mit jeweils gleichem Rmax und Rz (10 μm) sowie Ra (2 μm)" />
+				<f i="042-4.png" l="Ableitung der Materialanteilkurve" />
+				<f i="042-5.png" l="Profilbereiche und Kenngrößen der Materialanteilkurve" />
+				<f i="043-1.png" l="Oberflächen-Vergleichsmuster" />
+				<f i="043-2.png" l="Kufen-Tastsystem" />
+				<f i="043-3.png" l="Tragbares Messgerät mit Kufen-Tastsystem" />
+				<f i="043-4.png" l="Vorschubgerät mit Bezugsebenen-Tastsystem (wahlweise auch mit Kufen-Tastsystem)" />
+				<f i="044-1.png" l="Profildiagramme (Bezugsebenen-Tastsystem" />
+				<f i="044-T2.png" l="Oberflächenprofile" />
+			</n>
+			<n l="5 Toleranzen und Passungen">
+				<n l="1 Toleranzen">
+					<f i="045-1.png" l="Toleranzen und Passungen bei einer Zahnradpumpe (Auswahl)" />
+					<f i="045-2_auf.swf" l="Begriffe und Kurzzeichen bei Maßtoleranzen" />
+					<f i="045-2.png" l="Begriffe und Kurzzeichen bei Maßtoleranzen" />
+					<f i="045-3_auf.swf" l="Nennmaße und Abmaße" />
+					<f i="045-3.png" l="Nennmaße und Abmaße" />
+					<f i="046-1_auf.swf" l="Lage der Toleranzfelder (Auswahl)" />
+					<f i="046-1.png" l="Lage der Toleranzfelder (Auswahl)" />
+					<f i="046-2.png" l="Grenzmaße und Toleranz" />
+					<f i="046-T1_auf.swf" l="Allgemeintoleranzen für Längenmaße" />
+					<f i="046-T1.png" l="Allgemeintoleranzen für Längenmaße" />
+					<f i="047-1.png" l="Möglichkeiten der Toleranzangabe" />
+					<f i="047-2_auf.swf" l="Bezeichnung der Toleranzklasse" />
+					<f i="047-2.png" l="Bezeichnung der Toleranzklasse" />
+					<f i="047-3.png" l="Abhängigkeit der Toleranz vom Nennmaß" />
+					<f i="047-4.png" l="Abhängigkeit der Toleranz vom Toleranzgrad" />
+					<f i="048-1.png" l="Lage der Toleranzfelder zur Nulllinie, Beispiel: Nennmaß 25, Toleranzgrad 7" />
+					<f i="048-2_auf.swf" l="Lage der Toleranzfelder H und h" />
+					<f i="048-2.png" l="Lage der Toleranzfelder H und h" />
+					<f i="048-3.png" l="Größe und Lage der Toleranzfelder für das Nennmaß 25" />
+				</n>
+				<n l="2 Passungen">
+					<f i="049-1_auf.swf" l="Spielpassung und Übermaßpassung" />
+					<f i="049-1.png" l="Spielpassung und Übermaßpassung" />
+					<f i="049-2.png" l="Spielpassung" />
+					<f i="049-3.png" l="Übermaßpassung" />
+					<f i="049-4.png" l="Lage der Toleranzfelder bei Spiel- und Übermaßpassung" />
+					<f i="050-1.png" l="Übergangspassung" />
+					<f i="050-2.png" l="Beispiel einer Übergangspassung" />
+					<f i="050-3.png" l="Passung 20 H7/n6" />
+					<f i="050-4_auf.swf" l="Passungssystem Einheitsbohrung" />
+					<f i="050-4.png" l="Passungssystem Einheitsbohrung" />
+					<f i="050-5_auf.swf" l="Lage der Toleranzfelder beim Passungssystem Einheitsbohrung" />
+					<f i="050-5.png" l="Lage der Toleranzfelder beim Passungssystem Einheitsbohrung" />
+					<f i="051-1_auf.swf" l="Passungssystem Einheitswelle" />
+					<f i="051-1.png" l="Passungssystem Einheitswelle" />
+					<f i="051-2.png" l="Passungen im System Einheitswelle" />
+					<f i="051-3_auf.swf" l="Lage der Toleranzfelder (Einheitswelle)" />
+					<f i="051-3.png" l="Lage der Toleranzfelder (Einheitswelle)" />
+					<f i="052-1.png" l="Laufrolle mit Lagerdeckel" />
+					<f i="052-2.png" l="Zahnradpumpe" />
+				</n>
+			</n>
+			<n l="6 Form- und Lageprüfung">
+				<f i="053-1.png" l="Form- und Lageabweichungen bei einem Kurbeltrieb (vergrößert dargestellt)" />
+				<n l="1 Form- und Lagetoleranzen">
+					<f i="053-2.png" l="Zylinderformabweichungen innerhalb der Maßtoleranz" />
+					<f i="053-3.png" l="Maß- und Rundheitstoleranz" />
+					<f i="053-4.png" l="Toleranzangaben in Zeichnungen" />
+					<f i="054-T1-1_auf.swf" l="Richtungstoleranzen" />
+					<f i="054-T1-1.png" l="Richtungstoleranzen" />
+					<f i="054-T1-2_auf.swf" l="Ortstoleranzen" />
+					<f i="054-T1-2.png" l="Ortstoleranzen" />
+					<f i="054-T1-3_auf.swf" l="Lauftoleranze" />
+					<f i="054-T1-3.png" l="Lauftoleranze" />
+					<f i="054-T1-4_auf.swf" l="Flachformtoleranze" />
+					<f i="054-T1-4.png" l="Flachformtoleranze" />
+					<f i="054-T1-5_auf.swf" l="Rundformtoleranzen" />
+					<f i="054-T1-5.png" l="Rundformtoleranzen" />
+					<f i="054-T1-6_auf.swf" l="Profiltoleranzen" />
+					<f i="054-T1-6.png" l="Profiltoleranzen" />
+					<f i="054-T1.png" l="Toleranzarten" />
+				</n>
+				<n l="2 Prüfung von ebenen Flächen und Winkeln">
+					<f i="055-1.png" l="Messung der Geradheit" />
+					<f i="055-2.png" l="Messung der Parallelität" />
+					<f i="055-T1_auf.swf" l="Toleranzen bei Geraden, ebenen Flächen und Winkeln" />
+					<f i="055-T1.png" l="Toleranzen bei Geraden, ebenen Flächen und Winkeln" />
+					<f i="056-1.png" l="Geradheits- und Ebenheitsprüfung" />
+					<f i="056-2.png" l="Ebenheitsprüfung" />
+					<f i="056-3.png" l="Ebenheitsprüfung" />
+					<f i="056-4.png" l="Parallelitätsprüfung" />
+					<f i="056-5.png" l="Richtwaage und Neigungsmessgerät" />
+					<f i="057-1.png" l="Universalwinkelmesser" />
+					<f i="057-2.png" l="Winkelanzeigen" />
+					<f i="057-3_auf.swf" l="Universalwinkelmesser mit Ziffernanzeige" />
+					<f i="057-3.png" l="Universalwinkelmesser mit Ziffernanzeige" />
+					<f i="057-4.png" l="Sinuslineal" />
+				</n>
+				<n l="3 Rundform-, Koaxialitäts- und Rundlaufprüfung">
+					<f i="058-1.png" l="Erfassen der Rundheitsabweichung von Gleichdicken" />
+					<f i="058-T1_auf.swf" l="Rundform-, Orts- und Lauftoleranzen" />
+					<f i="058-T1.png" l="Rundform-, Orts- und Lauftoleranzen" />
+					<f i="059-1.png" l="Tolerierung und Prüfung von Rundlauf und Koaxialität" />
+					<f i="059-2.png" l="Zusammenhänge zwischen Rundheit, Rundlauf und Koaxialität" />
+					<f i="060-1.png" l="Formmessgerät" />
+					<f i="060-2.png" l="Auswerteverfahren der Rundheitsprüfung" />
+					<f i="060-T1_auf.swf" l="Messen von Form- und Lagemerkmalen" />
+					<f i="060-T1.png" l="Messen von Form- und Lagemerkmalen" />
+					<f i="061-1.png" l="Ausgleichsgerade durch drei Mittelpunkte" />
+					<f i="061-2.png" l="Rundlaufmessung" />
+					<f i="061-3.png" l="Gesamtrundlauf und Gesamtplanlauf" />
+					<f i="061-4.png" l="Messprotokoll der Koaxialität" />
+					<f i="062-1.png" l="Grafische Profildarstellung zur Zylindrizitätsmessung" />
+					<f i="062-2.png" l="Tolerierung einer Planfläche" />
+					<f i="062-3.png" l="Drehteil" />
+					<f i="062-T1.png" l="Form- und Lagetoleranzen" />
+					<f i="063-1.png" l="Rundlauftoleranz" />
+					<f i="063-2.png" l="Rundlauftoleranz" />
+				</n>
+				<n l="4 Gewindeprüfung">
+					<f i="063-3_auf.swf" l="Bestimmungsgrößen eines Gewindes" />
+					<f i="063-3.png" l="Bestimmungsgrößen eines Gewindes" />
+					<f i="063-4.png" l="Gewindeschablonen" />
+					<f i="064-1.png" l="Kegel-Kimme-Methode" />
+					<f i="064-2.png" l="Dreidraht-Methode" />
+					<f i="064-3.png" l="Optische Gewindemessung" />
+					<f i="064-4.png" l="Steigungsfehler" />
+					<f i="064-5.png" l="Gewinde-Grenzlehrdorn" />
+					<f i="064-6.png" l="Gewinde-Lehrringe" />
+					<f i="064-7.png" l="Gewinde-Grenzrachenlehre" />
+				</n>
+				<n l="5 Kegelprüfung">
+					<f i="065-1.png" l="Kegelmaße" />
+					<f i="065-2.png" l="Kegellehrdorn und Kegellehrhülse" />
+					<f i="065-3.png" l="Kegelmessung" />
+					<f i="065-4.png" l="Zylinder" />
+					<f i="065-5.png" l="Rundheit einer Buchse" />
+				</n>
+			</n>
+			<n l="7 Practice your English">
+				<f i="066-1.png" l="Solar-Messschieber" />
+				<f i="066-1-E.png" l="Solar-Vernier Caliper" />
+			</n>
+		</n>
+		<n l="2 Qualitätsmanagement">
+			<f i="067-1.png" l="Bereiche des Qualitätsmanagements" />
+			<n l="1 Arbeitsbereiche des QM">
+				<f i="067-2.png" l="Planung, Lenkung und Sicherung im Entstehungsprozess eines Produktes" />
+				<f i="067-3.png" l="Qualitätskreis mit ineinander greifenden Tätigkeiten zur Erreichung der Produktqualität" />
+			</n>
+			<n l="2 Die Normenreihe DIN EN ISO 9000">
+				<f i="068-1.png" l="Normen zum Qualitätsmanagement (ISO-9000-Familie)" />
+			</n>
+			<n l="3 Qualitätsforderungen">
+				<f i="068-2_auf.swf" l="Grundsätze des Qualitätsmanagements" />
+				<f i="068-2.png" l="Grundsätze des Qualitätsmanagements" />
+			</n>
+			<n l="4 Qualitätsmerkmale und Fehler">
+				<f i="069-1.png" l="Zehnerregel der Fehlerkosten" />
+				<f i="069-2.png" l="Fehlerzunahme durch Weitergabe fehlerhafter Teile in der Fertigungslinie" />
+				<f i="069-T1.png" l="Arten von Qualitätsmerkmalen" />
+			</n>
+			<n l="5 Werkzeuge des Qualitätsmanagements">
+				<f i="070-1.png" l="Flussdiagramm einer Bauteilfertigung" />
+				<f i="070-2.png" l="Fehlersammelkarte einer Bauteilzuführeinrichtung" />
+				<f i="070-3.png" l="Pareto-Analyse der Fehlerzahlen einer Bauteilzuführeinrichtung" />
+				<f i="071-1.png" l="Ursache-Wirkungs-Diagramm für vorzeitigen Zahnflankenverschleiß (unvollständig)" />
+				<f i="071-2_auf.swf" l="Baumdiagramm zur Kundenzufriedenheit" />
+				<f i="071-2.png" l="Baumdiagramm zur Kundenzufriedenheit" />
+				<f i="071-3.png" l="Beispiele für Korrelationsdiagramme" />
+				<f i="071-4.png" l="Matrixdiagramm zur Entscheidungsfindung beim Kauf eines Wandkrans" />
+				<f i="072-1.png" l="Verlaufsdiagramm einer Bolzenfertigung" />
+				<f i="072-2.png" l="Strichliste einer Bolzenfertigung" />
+				<f i="072-3.png" l="Histogramm einer Bolzenfertigung" />
+				<f i="072-4.png" l="Verteilungskurve einer Bolzenfertigung" />
+			</n>
+			<n l="6 Qualitätslenkung">
+				<f i="073-1.png" l="Qualitätslenkung zur Fehlervermeidung" />
+				<f i="073-2.png" l="Prozessregelung beim Schleifen" />
+				<f i="073-T1_auf.swf" l="5 M-Einflüsse auf die Streuung von Merkmalswerten" />
+				<f i="073-T1.png" l="5 M-Einflüsse auf die Streuung von Merkmalswerten" />
+			</n>
+			<n l="7 Qualitätssicherung">
+				<f i="074-T1.png" l="Prüfplan" />
+				<f i="075-1.png" l="Verteilung von Kugeln am Galton’schen Brett" />
+				<f i="075-2.png" l="Häufigkeiten in Normalverteilung" />
+				<f i="075-3.png" l="Mischverteilungen" />
+				<f i="076-1.png" l="Kennwerte der Normalverteilung" />
+				<f i="076-2.png" l="Standardabweichung einer Stichprobe (beurteilende Statistik)" />
+				<f i="077-1.png" l="Modell der Stichprobenprüfung (induktive Statistik)" />
+			</n>
+			<n l="8 Maschinenfähigkeit">
+				<f i="078-1.png" l="Maschinenfähigkeitsindex Cm" />
+				<f i="078-2.png" l="Maschinenfähigkeitsindex Cmk" />
+				<f i="079-1.png" l="Roboter-Lackieranlage" />
+				<f i="079-2.png" l="Berechnung der Klassenweite w" />
+				<f i="079-3.png" l="Berechnung der Maschinenfähigkeit" />
+				<f i="080-1.png" l="Analyse der Stichprobe mithilfe des Wahrscheinlichkeitsnetzes" />
+			</n>
+			<n l="9 Prozessfähigkeit">
+				<f i="081-1.png" l="Prozessfähigkeit" />
+				<f i="081-2.png" l="Beispiele für Prozessfähigkeitskennwerte" />
+				<f i="081-3.png" l="Matrix möglicher Prozesszustände" />
+			</n>
+			<n l="10 Statistische Prozessregelung mit Qualitätsregelkarten">
+				<f i="082-1_auf.swf" l="Qualitätsregelkarte für Mittelwerte (x--Karte) und Verteilung der Mittelwerte" />
+				<f i="082-1.png" l="Qualitätsregelkarte für Mittelwerte (x--Karte) und Verteilung der Mittelwerte" />
+				<f i="083-1.png" l="Urwertkarte für D = 10 mm ± 0,1 mm" />
+				<f i="083-2.png" l="Median-Spannweitenkarte (x~-R-Karte)" />
+				<f i="083-3.png" l="Mittelwert-Standardabweichungskarte (x--s-Karte)" />
+				<f i="084-1.png" l="Beurteilungsregeln" />
+				<f i="084-2.png" l="Spezielle Prozessverläufe" />
+			</n>
+			<n l="11 Auditierung und Zertifizierung">
+				<f i="085-1.png" l="Auditarten" />
+				<f i="085-2_auf.swf" l="Ablaufschema einer Zertifizierung" />
+				<f i="085-2.png" l="Ablaufschema einer Zertifizierung" />
+			</n>
+			<n l="12 Kontinuierlicher Verbesserungsprozess: Mitarbeiter optimieren Prozesse">
+				<f i="086-1.png" l="Fortschritt durch große Sprünge und kleine Schritte" />
+				<f i="086-T1_auf.swf" l="Gegenüberstellung von Innovationen und kontinuierlicher Verbesserung" />
+				<f i="086-T1.png" l="Gegenüberstellung von Innovationen und kontinuierlicher Verbesserung" />
+			</n>
+			<n l="13 Practice your English">
+				<f i="087-1.png" l="Kundenbewertung der Qualität am Beispiel von Pkws" />
+				<f i="087-1-E.png" l="Customer rating of the quality of cars" />
+				<f i="087-2.png" l="Qualitätswerkzeuge" />
+				<f i="087-2-E.png" l="Quality tools" />
+				<f i="087-3.png" l="Normalverteilung von Messwerten" />
+				<f i="087-3-E.png" l="Normal distribution of values" />
+				<f i="087-4.png" l="Fähigkeitsuntersuchungen und QRK" />
+				<f i="087-4-E.png" l="Capability study and quality control chart" />
+			</n>
+		</n>
+		<n l="3 Fertigungstechnik">
+			<n l="1 Arbeitssicherheit">
+				<f i="089-1.png" l="Zeichen der gewerblichen Berufsgenossenschaften" />
+				<f i="089-2_auf.swf" l="Gebotszeichen" />
+				<f i="089-2.png" l="Gebotszeichen" />
+				<f i="089-3_auf.swf" l="Verbotszeichen" />
+				<f i="089-3.png" l="Verbotszeichen" />
+				<f i="090-1_auf.swf" l="Warnzeichen" />
+				<f i="090-1.png" l="Warnzeichen" />
+				<f i="090-2_auf.swf" l="Rettungszeichen" />
+				<f i="090-2.png" l="Rettungszeichen" />
+			</n>
+			<n l="2 Gliederung der Fertigungsverfahren">
+				<f i="091-1.png" l="Hauptgruppen der Fertigungsverfahren" />
+				<f i="091-2.png" l="Urformen (Gießen)" />
+				<f i="091-3.png" l="Umformen (Tiefziehen)" />
+				<f i="092-1.png" l="Trennen (Fräsen)" />
+				<f i="092-2.png" l="Fügen (Verschrauben)" />
+				<f i="092-3.png" l="Beschichten (Elektrotauchlackieren)" />
+				<f i="092-4.png" l="Ändern der Stoffeigenschaft (Härten)" />
+			</n>
+			<n l="3 Gießen">
+				<f i="093-1.png" l="Zylinderkurbelgehäuse eines V8-Dieselmotors" />
+				<n l="1 Formen und Modelle">
+					<f i="093-2.png" l="Modellmaße für ein Gussstück aus einer Al-Legierung" />
+					<f i="093-T1.png" l="Schwindmaße" />
+					<f i="093-T2.png" l="Übersicht über Form- und Gießverfahren" />
+				</n>
+				<n l="2 Gießen in verlorene Formen">
+					<f i="094-1.1.png" l="Werkstückzeichnung" />
+					<f i="094-1.2_auf.swf" l="Modell (zweiteilig)" />
+					<f i="094-1.2.png" l="Modell (zweiteilig)" />
+					<f i="094-1.3.png" l="Kernkasten (zweiteilig)" />
+					<f i="094-1.4.png" l="Ausgeformter Kern" />
+					<f i="094-1.5_auf.swf" l="Eingeformtes Modellunterteil" />
+					<f i="094-1.5.png" l="Eingeformtes Modellunterteil" />
+					<f i="094-1.6_auf.swf" l="Eingeformtes Modelloberteil" />
+					<f i="094-1.6.png" l="Eingeformtes Modelloberteil" />
+					<f i="094-1.7_auf.swf" l="Abgießen" />
+					<f i="094-1.7.png" l="Abgießen" />
+					<f i="094-1.8_auf.swf" l="Ausgeformtes Gussstück" />
+					<f i="094-1.8.png" l="Ausgeformtes Gussstück" />
+					<f i="094-1.png" l="Herstellung eines Gussstücks mit Dauermodell" />
+					<f i="095-1.png" l="Vakuumformen" />
+					<f i="095-2.png" l="Maskenformen" />
+					<f i="096-1-z1_auf.swf" l="Modellherstellung + Montage" />
+					<f i="096-1-z1.png" l="Modellherstellung + Montage" />
+					<f i="096-1-z2_auf.swf" l="Tauchen + Bestreuen" />
+					<f i="096-1-z2.png" l="Tauchen + Bestreuen" />
+					<f i="096-1-z3_auf.swf" l="Schalenbildung durch mehrmaliges Tauchen und Bestreuen + Ausschmelzen und Brennen" />
+					<f i="096-1-z3.png" l="Schalenbildung durch mehrmaliges Tauchen und Bestreuen + Ausschmelzen und Brennen" />
+					<f i="096-1-z4_auf.swf" l="Gießen + Abtrennen" />
+					<f i="096-1-z4.png" l="Gießen + Abtrennen" />
+					<f i="096-1.png" l="Feingießen" />
+					<f i="096-2.png" l="Vollformgießen" />
+				</n>
+				<n l="3 Gießen in Dauerformen">
+					<f i="097-1_auf.swf" l="Warmkammer-Druckgießen" />
+					<f i="097-1.png" l="Warmkammer-Druckgießen" />
+					<f i="097-2_auf.swf" l="Kaltkammer-Druckgießen" />
+					<f i="097-2.png" l="Kaltkammer-Druckgießen" />
+					<f i="097-T1.png" l="Anwendung und Vor- und Nachteile wichtiger Form- und Gießverfahren" />
+				</n>
+				<n l="5 Gussfehler">
+					<f i="098-1.png" l="Gussfehler" />
+				</n>
+				<n l="6 Formgebung der Kunststoffe">
+					<f i="099-1_auf.swf" l="Extrusionsanlage zur Fertigung von Hohlprofilen" />
+					<f i="099-1.png" l="Extrusionsanlage zur Fertigung von Hohlprofilen" />
+					<f i="099-2_auf.swf" l="Dreizonenschnecke im Plastifizierzylinder" />
+					<f i="099-2.png" l="Dreizonenschnecke im Plastifizierzylinder" />
+					<f i="099-3_auf.swf" l="Folienherstellung durch Blasextrudieren" />
+					<f i="099-3.png" l="Folienherstellung durch Blasextrudieren" />
+					<f i="100-1_auf.swf" l="Extrusionsblasen von Hohlkörpern" />
+					<f i="100-1.png" l="Extrusionsblasen von Hohlkörpern" />
+					<f i="100-2_auf.swf" l="Spritzgießmaschine" />
+					<f i="100-2.png" l="Spritzgießmaschine" />
+					<f i="101-1_auf.swf" l="Arbeitsablauf beim Spritzgießen" />
+					<f i="101-1.png" l="Arbeitsablauf beim Spritzgießen" />
+					<f i="101-2.png" l="Synchrone Arbeitsabläufe in der Plastifizier- und Schließeinheit" />
+					<f i="102-1.png" l="Gefüge in einem Spritzgussteil" />
+					<f i="102-2.png" l="Werkzeuginnendruck und beeinflusste Größen beim Spritzgießvorgang" />
+					<f i="102-3.png" l="Spritzgießmaschine für Elastomere" />
+					<f i="103-1_auf.swf" l="Arbeitsgänge beim Formpressen" />
+					<f i="103-1.png" l="Arbeitsgänge beim Formpressen" />
+					<f i="103-2.png" l="Schäumen von Polyurethanblöcken" />
+				</n>
+				<n l="7 Weiterverarbeitung der Halbzeuge und Fertigteile">
+					<f i="104-1.png" l="Vakuumtiefziehen" />
+					<f i="104-2.png" l="Schraubverbindungen" />
+					<f i="104-3.png" l="Schnappverbindungen" />
+					<f i="104-4.png" l="Gerätechassis mit eingegossenen Achsen und Lagern" />
+					<f i="104-5.png" l="Verklebter Autohimmel aus PUR-Integralschaum" />
+					<f i="105-1_auf.swf" l="Heißgasschweißen" />
+					<f i="105-1.png" l="Heißgasschweißen" />
+					<f i="105-2_auf.swf" l="Heizelement-Schweißverfahren" />
+					<f i="105-2.png" l="Heizelement-Schweißverfahren" />
+					<f i="105-3_auf.swf" l="Reibschweißen" />
+					<f i="105-3.png" l="Reibschweißen" />
+					<f i="105-4.png" l="Ultraschallschweißen" />
+				</n>
+			</n>
+			<n l="4 Umformen">
+				<f i="106-1.png" l="Plastische Verformung beim Umformen" />
+				<f i="106-2_auf.swf" l="Umformbereiche im Spannungs-Dehnungs- Diagramm" />
+				<f i="106-2.png" l="Umformbereiche im Spannungs-Dehnungs-Diagramm" />
+				<f i="106-3.png" l="Umformverfahren (Beispiele)" />
+				<f i="107-1.png" l="Aus Biegeteilen hergestelltes Werkstück" />
+				<f i="107-2_auf.swf" l="Neutrale Faser beim Biegen" />
+				<f i="107-2.png" l="Neutrale Faser beim Biegen" />
+				<f i="107-3.png" l="Berechnung der gestreckten Länge bei großen Biegeradien" />
+				<f i="107-4.png" l="Berechnung der gestreckten Länge bei kleinen Biegeradien" />
+				<f i="108-1.png" l="Halter" />
+				<f i="108-2_auf.swf" l="Biegestempelradius und Überbiegungswinkel" />
+				<f i="108-2.png" l="Biegestempelradius und Überbiegungswinkel" />
+				<f i="108-T1.png" l="Ausgleichswerte v für Biegewinkel a = 90°" />
+				<f i="108-T2.png" l="Mindestbiegeradien" />
+				<f i="109-1_auf.swf" l="Schwenkbiegen" />
+				<f i="109-1.png" l="Schwenkbiegen" />
+				<f i="109-2.png" l="Rohr-Biegevorrichtung" />
+				<f i="109-3.png" l="Abkanten mit Beispielen" />
+				<f i="109-T1.png" l="Rückfederungsfaktoren kR" />
+				<f i="110-1_auf.swf" l="Tiefziehen" />
+				<f i="110-1.png" l="Tiefziehen" />
+				<f i="110-2.png" l="Werkstoffverteilung beim Tiefziehen" />
+				<f i="110-3.png" l="Ziehstufen" />
+				<f i="110-T1.png" l="Ziehspalt w beim Tiefziehen" />
+				<f i="111-1_auf.swf" l="Hydromechanisches Tiefziehen" />
+				<f i="111-1.png" l="Hydromechanisches Tiefziehen" />
+				<f i="111-T1.png" l="Erreichbare Ziehverhältnisse b" />
+				<f i="111-T2.png" l="Fehler beim Tiefziehen" />
+				<f i="112-1.png" l="Hydromechanisch tiefgezogene Werkstücke" />
+				<f i="112-2.png" l="Durchziehen eines Rohres" />
+				<f i="112-3.png" l="Drücken einer Hohlform" />
+				<f i="113-1.png" l="Prinzip des Innenhochdruckumformens am Beispiel eines T-Stückes" />
+				<f i="113-2.png" l="Abgaskrümmer für Sechszylinder" />
+				<f i="113-3.png" l="Vorderradträger für Pkw (Fertigungsstufen)" />
+				<f i="114-1.png" l="Gesenkgeschmiedeter Achsschenkel" />
+				<f i="114-2.png" l="Schmiedebereich unlegierter Stähle" />
+				<f i="114-3_auf.swf" l="Schmiedegesenk mit Werkstück" />
+				<f i="114-3.png" l="Schmiedegesenk mit Werkstück" />
+				<f i="115-1.png" l="Eindrückverfahren" />
+				<f i="115-2.png" l="Strangpressen" />
+				<f i="115-3_auf.swf" l="Rückwärts-Fließpressen" />
+				<f i="115-3.png" l="Rückwärts-Fließpressen" />
+				<f i="115-4.png" l="Fließgepresste Werkstücke" />
+				<f i="116-T1.png" l="Einteilung, Kenngrößen, Eigenschaften und Einsatzgebiete der  Umformmaschinen" />
+			</n>
+			<n l="5 Schneiden">
+				<f i="117-1.png" l="Blechstreifen mit Werkstücken vor dem Abschneiden" />
+				<f i="117-2_auf.swf" l="Vorgang beim Scherschneiden" />
+				<f i="117-2.png" l="Vorgang beim Scherschneiden" />
+				<f i="117-3.png" l="Trennen durch Nibbeln" />
+				<f i="117-4_auf.swf" l="Tafelschere" />
+				<f i="117-4.png" l="Tafelschere" />
+				<f i="118-1.png" l="Berechnung der Schneidkraft" />
+				<f i="118-2.png" l="Blechbedarf" />
+				<f i="118-3.png" l="Schneidspalt" />
+				<f i="118-T1.png" l="Größe des Schneidspaltes" />
+				<f i="119-1.png" l="Schneidwerkzeug ohne Führung" />
+				<f i="119-2_auf.swf" l="Schneidwerkzeug mit Plattenführung" />
+				<f i="119-2.png" l="Schneidwerkzeug mit Plattenführung" />
+				<f i="119-3.png" l="Schneidwerkzeug mit Säulenführung" />
+				<f i="119-4.png" l="Säulenführungen" />
+				<f i="120-1.png" l="Einverfahren-Schneidwerkzeug" />
+				<f i="120-2.png" l="Folgeschneidwerkzeug" />
+				<f i="120-3.png" l="Gesamtschneidwerkzeug" />
+				<f i="121-1.png" l="Gesamtschneidwerkzeug" />
+				<f i="121-2.png" l="Folgeverbundwerkzeug" />
+				<f i="122-1_auf.swf" l="Autogenes Brennschneiden" />
+				<f i="122-1.png" l="Autogenes Brennschneiden" />
+				<f i="122-2.png" l="Fehler beim Brennschneiden" />
+				<f i="122-T1.png" l="Autogenes Brennschneiden" />
+				<f i="123-1.png" l="Plasma-Schmelzschneiden" />
+				<f i="123-2.png" l="Schnittfugen beim Autogen-, Plasma- und Laserstrahlschneiden" />
+				<f i="123-T1.png" l="Plasma-Schmelzschneiden" />
+				<f i="124-1_auf.swf" l="Laserstrahl-Schmelzschneiden" />
+				<f i="124-1.png" l="Laserstrahl-Schmelzschneiden" />
+				<f i="124-2.png" l="Mit Laserstrahl geschnittene Werkstücke" />
+				<f i="124-T1.png" l="Laserstrahlschneiden" />
+				<f i="125-1.png" l="NC-Brennschneidmaschine" />
+				<f i="125-2.png" l="Schachtelplan" />
+				<f i="125-T1.png" l="Wasserstrahl-Schneiden" />
+			</n>
+			<n l="6 Spanende Fertigung">
+				<f i="126-1.png" l="Keilform der Werkzeugschneide" />
+				<f i="126-2_auf.swf" l="Flächen und Winkel am Schneidkeil" />
+				<f i="126-2.png" l="Flächen und Winkel am Schneidkeil" />
+				<f i="126-T1.png" l="Größe und Winkel am Schneidkeil" />
+				<f i="127-1.png" l="Anreißwerkzeuge (Auswahl)" />
+				<f i="127-2.png" l="Anreißen auf der Anreißplatte" />
+				<f i="128-1_auf.swf" l="Wirkungsweise des Sägeblatts" />
+				<f i="128-1.png" l="Wirkungsweise des Sägeblatts" />
+				<f i="128-2.png" l="Zahnteilung des Sägeblatts" />
+				<f i="128-3.png" l="Freischneiden des Sägeblatts" />
+				<f i="128-T1_auf.swf" l="Zahnteilung beim Sägen von verschiedenen Werkstoffen" />
+				<f i="128-T1.png" l="Zahnteilung beim Sägen von verschiedenen Werkstoffen" />
+				<f i="129-1.png" l="Verwendung der Bügelsäge" />
+				<f i="129-2.png" l="Einstreichsäge" />
+				<f i="129-3.png" l="Handbandsäge" />
+				<f i="129-4.png" l="Stichsäge" />
+				<f i="129-5.png" l="Handkreissäge für die Metallbearbeitung" />
+				<f i="130-1.png" l="Flachfeile" />
+				<f i="130-2.png" l="Gehauene und gefräste Zähne" />
+				<f i="130-3.png" l="Querschnittsformen der Feilen" />
+				<f i="130-4.png" l="Hiebarten" />
+			</n>
+			<n l="7 Fertigen mit Werkzeugmaschinen">
+				<n l="1 Schneidstoffe">
+					<f i="131-1.png" l="Beanspruchung von Schneidwerkzeugen" />
+					<f i="131-2.png" l="Verschleißfestigkeit und Zähigkeit von Schneidstoffen" />
+					<f i="132-1.png" l="Eigenschaften und Einsatzgebiete von Schnellarbeitsstahl" />
+					<f i="132-2.png" l="Eigenschaften und Einsatzgebiete von Hartmetall" />
+					<f i="132-T1.png" l="Einteilung der Hartmetalle" />
+					<f i="133-1.png" l="Eigenschaften und Einsatzgebiete von Schneidkeramik" />
+					<f i="133-2.png" l="Eigenschaften und Einsatzgebiete von kubischem Bornitrid" />
+					<f i="133-T1.png" l="Eigenschaften und Einsatzgebiete von Cermets" />
+					<f i="134-1.png" l="Eigenschaften und Einsatzgebiete von Diamant" />
+					<f i="134-2.png" l="Werkzeuge mit verschiedenen Beschichtungen" />
+					<f i="134-3.png" l="Mehrlagige Beschichtung von HM" />
+					<f i="134-4.png" l="Anteile der Schneidstoffe" />
+				</n>
+				<n l="2 Kühlschmierstoffe">
+					<f i="135-1_auf.swf" l="Aufgaben und Wirkungen von Kühlschmiermitteln" />
+					<f i="135-1.png" l="Aufgaben und Wirkungen von Kühlschmiermitteln" />
+					<f i="135-2.png" l="Kühlschmierung mit Emulsion" />
+					<f i="135-3.png" l="Kühl- und Schmierwirkung von Kühlschmierstoffen" />
+					<f i="136-1.png" l="Wirkung von EP-Zusätzen" />
+					<f i="136-T1.png" l="Auswahl des Kühlschmierstoffes" />
+					<f i="136-T2.png" l="Beeinflussung der Eigenschaften durch Zusätze im Kühlschmierstoff" />
+					<f i="137-1.png" l="Anteil der Kühlschmierkosten an den Gesamtherstellkosten" />
+					<f i="137-2.png" l="Minimalmengenschmierung beim Fräsen mit einem Fräskopf" />
+					<f i="137-3.png" l="Innere Zufuhr des Schmiermittels" />
+					<f i="137-4.png" l="Äußere Zufuhr des Schmiermittels" />
+				</n>
+				<n l="3 Sägen">
+					<f i="138-1.png" l="Bügelsägemaschine" />
+					<f i="138-2.png" l="Bandsägemaschine" />
+					<f i="138-3.png" l="Zahnformen von Sägebändern" />
+					<f i="138-4.png" l="NC-gesteuerte Vorschubbewegung" />
+				</n>
+				<n l="4 Bohren, Senken, Reiben">
+					<f i="139-1_auf.swf" l="Fertigungsverfahren Bohren, Senken, Reiben" />
+					<f i="139-1.png" l="Fertigungsverfahren Bohren, Senken, Reiben" />
+					<f i="139-2.png" l="Kräfte und Bewegungen beim Bohren" />
+					<f i="139-T1.png" l="Schnittwertempfehlungen für beschichtete Spiralbohrer aus HSS bei Bohrtiefen bis 5 ® Bohrerdurchmesser" />
+					<f i="140-1_auf.swf" l="Schneidteil am Spiralbohrer" />
+					<f i="140-1.png" l="Schneidteil am Spiralbohrer" />
+					<f i="140-T1.png" l="Bohrbedingungen" />
+					<f i="140-T2.png" l="Spiralbohrertypen" />
+					<f i="141-1.png" l="Kontrollgrößen für Spiralbohrer" />
+					<f i="141-T1.png" l="Anschliffformen bei Spiralbohrern" />
+					<f i="141-T2.png" l="Schleiffehler beim Spiralbohrer" />
+					<f i="142-1.png" l="Bohrer mit gelöteten und geklemmten Wendeschneidplatten, auswechselbaren Bohrerspitzen und Vollhartmetallbohrer" />
+					<f i="142-T1.png" l="Ursachen von Verschleißproblemen bei HM-Bohrern" />
+					<f i="143-T1.png" l="Bohrerauswahl (Auszug)" />
+					<f i="143-T2.png" l="Optimieren der Spanform" />
+					<f i="143-T3.png" l="Maßnahmen bei Bohrproblemen" />
+					<f i="144-1.png" l="Zentrierbohrung mit Zentrierbohrer" />
+					<f i="144-2.png" l="NC-Anbohrer" />
+					<f i="144-3.png" l="Mehrstufenbohrer" />
+					<f i="144-4.png" l="Bohrwerkzeugsystem" />
+					<f i="144-5.png" l="Aufbohrer (Spiralsenker)" />
+					<f i="144-6.png" l="Zweischneidiges Aufbohrwerkzeug" />
+					<f i="144-7.png" l="Einschneiden-Feinbohrkopf" />
+					<f i="145-1.png" l="Tiefloch-Spiralbohrer" />
+					<f i="145-2.png" l="Einlippen-Tiefbohrer" />
+					<f i="145-3.png" l="BTA-Tiefbohrverfahren" />
+					<f i="146-1.png" l="Gewindebohren" />
+					<f i="146-2_auf.swf" l="Schneidteil bei Gewindebohrer" />
+					<f i="146-2.png" l="Schneidteil bei Gewindebohrer" />
+					<f i="146-3.png" l="Spanbildung und Abscherung" />
+					<f i="146-4.png" l="Gewindebohren auf Maschinen" />
+					<f i="147-1.png" l="Spannuten amGewindebohrer" />
+					<f i="147-2_auf.swf" l="3-teiliger Gewindebohrer" />
+					<f i="147-2.png" l="3-teiliger Gewindebohrer" />
+					<f i="147-3.png" l="Maschinengewindebohrer" />
+					<f i="147-4.png" l="Gewindeformer" />
+				</n>
+				<n l="5 Senken">
+					<f i="148-1_auf.swf" l="Kegelsenker" />
+					<f i="148-1.png" l="Kegelsenker" />
+					<f i="148-2.png" l="Flachsenker mit auswechselbarem Führungszapfen" />
+					<f i="148-3.png" l="Rückwärtssenker mit festem Plattensitz" />
+					<f i="148-T1.png" l="Maßnahmen bei Senkproblemen" />
+				</n>
+				<n l="6 Reiben">
+					<f i="149-1.png" l="Anschnitt einer Reibahle" />
+					<f i="149-2.png" l="Reibzugabe bei Metallen" />
+					<f i="149-3_auf.swf" l="Handreibahle 25 H8" />
+					<f i="149-3.png" l="Handreibahle 25 H8" />
+					<f i="149-4.png" l="Ungleiche Zahnteilung einer Reibahle" />
+					<f i="149-T1.png" l="Anwendung von Reibahlen" />
+					<f i="150-1.png" l="Maschinenreibahle" />
+					<f i="150-2.png" l="Aufsteckreibahle mit Halter und Morsekegelschaft" />
+					<f i="150-3.png" l="Extrem ungleich geteilte Maschinenreibahle" />
+					<f i="150-4.png" l="Nachstellbare Reibahlen" />
+					<f i="150-5.png" l="Reibahlen mit Führungsleisten" />
+				</n>
+				<n l="7 Drehen">
+					<f i="151-1.png" l="Drehteile" />
+					<f i="151-2.png" l="Lage der Bearbeitungsstelle beim Drehen" />
+					<f i="151-T1.png" l="Drehverfahren" />
+					<f i="152-1.png" l="Spanungsgrößen beim Drehen" />
+					<f i="152-2_auf.swf" l="Flächen und Schneiden am Drehwerkzeug" />
+					<f i="152-2.png" l="Flächen und Schneiden am Drehwerkzeug" />
+					<f i="152-3_auf.swf" l="Schneidenecke" />
+					<f i="152-3.png" l="Schneidenecke" />
+					<f i="152-4.png" l="Einfluss des Eckenradius" />
+					<f i="152-5.png" l="Eckenradius beim Schlichten" />
+					<f i="153-1.png" l="Neigungswinkel" />
+					<f i="153-2.png" l="Einstellwinkel beim Konturdrehen" />
+					<f i="153-T1.png" l="Merkmale und Anwendung verschiedener Schneidkantenausführungen" />
+					<f i="153-T2.png" l="Einstellwinkel bei verschiedenen Bearbeitungen" />
+					<f i="154-1.png" l="Spanbildung" />
+					<f i="154-2.png" l="Spanarten" />
+					<f i="154-3.png" l="Spanformen" />
+					<f i="155-1.png" l="Eingesinterte Spanleitstufen" />
+					<f i="155-2_auf.swf" l="Günstige Spanformbereiche" />
+					<f i="155-2.png" l="Günstige Spanformbereiche" />
+					<f i="155-3.png" l="Einstellwinkel beim Formdrehen" />
+					<f i="156-1.png" l="Verschleißursachen" />
+					<f i="156-2.png" l="Bildung von Aufbauschneiden" />
+					<f i="156-3.png" l="Beschichtetes Werkzeug" />
+					<f i="156-4.png" l="Verschleißarten" />
+					<f i="157-1.png" l="Verschleißarten (Maßstab ca. 50 : 1)" />
+					<f i="157-T1.png" l="Maßnahmen bei Verschleißproblemen" />
+					<f i="158-1_auf.swf" l="Werkzeughalter für verschiedene Drehbearbeitungen" />
+					<f i="158-1.png" l="Werkzeughalter für verschiedene Drehbearbeitungen" />
+					<f i="158-2.png" l="Schneidrichtung" />
+					<f i="158-3.png" l="Auswahl des Eckenwinkels" />
+					<f i="158-4.png" l="Maximale Schnitttiefe" />
+					<f i="159-1.png" l="Gebräuchliche Spannsysteme" />
+					<f i="159-2.png" l="Bezeichnungssystem für Wendeschneidplatten" />
+					<f i="160-1.png" l="Drehzahlschaubild einer Drehmaschine" />
+					<f i="160-T1.png" l="Richtwerte für die Vorbearbeitung von Stahl (Längsdrehen und Ausdrehen)" />
+					<f i="160-T2.png" l="Richtwerte für die Fertigbearbeitung von Stahl (Längsdrehen und Ausdrehen)" />
+					<f i="161-1.png" l="Drehen mit runder Schneidplatte" />
+					<f i="161-2.png" l="Schnittbreite und Schnitttiefe" />
+					<f i="161-3.png" l="Schnitttiefe und Vorschub" />
+					<f i="161-T1.png" l="Erreichbare Rautiefe in Abhängigkeit von Eckenradius und Vorschub" />
+					<f i="162-1.png" l="Aktivkraft beim Drehen" />
+					<f i="162-2.png" l="Zerspankraft beim Drehen" />
+					<f i="162-3_auf.swf" l="Größe und Form des Spanungsquerschnitts" />
+					<f i="162-3.png" l="Größe und Form des Spanungsquerschnitts" />
+					<f i="162-T1.png" l="Richtwerte für die spez. Schnittkraft kc beim Drehen" />
+					<f i="163-1.png" l="Drehen von Rechts- und Linksgewinde" />
+					<f i="163-2.png" l="Wendeschneidplatten" />
+					<f i="163-3.png" l="Neigungswinkel" />
+					<f i="163-4.png" l="Erzeugung des Flankenfreiwinkels" />
+					<f i="163-5.png" l="Wechseln der Zwischenlage" />
+					<f i="163-T1.png" l="Anzahl der Arbeitsgänge beim Drehen von Außengewinden" />
+					<f i="164-1.png" l="Abdrängung der Bohrstange" />
+					<f i="164-2_auf.swf" l="Auskraglänge von Bohrstangen" />
+					<f i="164-2.png" l="Auskraglänge von Bohrstangen" />
+					<f i="164-3.png" l="Einstech- und Abstechdrehen" />
+					<f i="164-4.png" l="Stechdrehwerkzeug zum Einstechen und Längsdrehen" />
+					<f i="164-5.png" l="Einstellwinkel der Abstechplatte" />
+					<f i="165-1.png" l="Hartdrehen einer Bohrung" />
+					<f i="165-2.png" l="Hartdrehen mit Keramik und BN" />
+					<f i="165-3.png" l="Eingriffsgrößen und Eckenradius" />
+					<f i="165-4.png" l="Schutzfase an der Schneidkante" />
+					<f i="166-1_auf.swf" l="Fehlerhafte Höhenlage des Werkzeuges beim Querdrehen" />
+					<f i="166-1.png" l="Fehlerhafte Höhenlage des Werkzeuges beim Querdrehen" />
+					<f i="166-2_auf.swf" l="Dreibackenfutter" />
+					<f i="166-2.png" l="Dreibackenfutter" />
+					<f i="166-3_auf.swf" l="Bewegung der Spannbacken" />
+					<f i="166-3.png" l="Bewegung der Spannbacken" />
+					<f i="166-4.png" l="Kraftspannfutter mit Fliehkraftausgleich" />
+					<f i="166-5.png" l="Formfehler durch Spannung" />
+					<f i="167-1_auf.swf" l="Zugspannzange" />
+					<f i="167-1.png" l="Zugspannzange" />
+					<f i="167-2_auf.swf" l="Druckspannzange" />
+					<f i="167-2.png" l="Druckspannzange" />
+					<f i="167-3_auf.swf" l="Spannkopf" />
+					<f i="167-3.png" l="Spannkopf" />
+					<f i="167-4_auf.swf" l="Stirnmitnehmer" />
+					<f i="167-4.png" l="Stirnmitnehmer" />
+					<f i="168-1_auf.swf" l="Arten von Drehmaschinen" />
+					<f i="168-1.png" l="Arten von Drehmaschinen" />
+					<f i="168-2_auf.swf" l="Hauptbaugruppen einer Drehmaschine" />
+					<f i="168-2.png" l="Hauptbaugruppen einer Drehmaschine" />
+					<f i="169-1_auf.swf" l="Universaldrehmaschine" />
+					<f i="169-1.png" l="Universaldrehmaschine" />
+					<f i="169-2.png" l="Werkzeugschlitten" />
+					<f i="170-1_auf.swf" l="CNC-Drehmaschine" />
+					<f i="170-1.png" l="CNC-Drehmaschine" />
+					<f i="170-2.png" l="Butzenloses Abstechen" />
+					<f i="170-3.png" l="Bearbeitungsmöglichkeiten mit angetriebenen Werkzeugen" />
+				</n>
+				<n l="8 Fräsen">
+					<f i="171-1.png" l="Konturfräsen" />
+					<f i="171-2.png" l="Zerspangrößen beim Nutenfräsen" />
+					<f i="171-T1.png" l="Richtwerte für vc in m/min und fz in mm für Fräser mit Hartmetallschneiden" />
+					<f i="171-T2.png" l="Erhöhung des empfohlenen Vorschubes je Zahn fz beim Nutenfräsen in  Abhängigkeit von der Schnitttiefe ae" />
+					<f i="172-1_auf.swf" l="Axiale Schnitttiefe ap und radiale Fräsbreite ae beim Stirnfräsen" />
+					<f i="172-1.png" l="Axiale Schnitttiefe ap und radiale Fräsbreite ae beim Stirnfräsen" />
+					<f i="172-2_auf.swf" l="Axiale Schnitttiefe ap und radiale Fräsbreite ae beim Umfangsfräsen" />
+					<f i="172-2.png" l="Axiale Schnitttiefe ap und radiale Fräsbreite ae beim Umfangsfräsen" />
+					<f i="172-3.png" l="Axiale Schnitttiefe ap und Fräsbreite ae beim symmetrischen Stirnplanfräsen" />
+					<f i="172-4.png" l="Eingriffswinkel fs" />
+					<f i="173-T1-1_auf.swf" l="Schaftfräser" />
+					<f i="173-T1-1.png" l="Schaftfräser" />
+					<f i="173-T1-2_auf.swf" l="Aufsteckfräser" />
+					<f i="173-T1-2.png" l="Aufsteckfräser" />
+					<f i="173-T1-3_auf.swf" l="Fräswerkzeuge mit Wendeschneidplatten" />
+					<f i="173-T1-3.png" l="Fräswerkzeuge mit Wendeschneidplatten" />
+					<f i="173-T1.png" l="Fräswerkzeuge" />
+					<f i="174-1.png" l="HSS-Schruppfräser mit Spanteiler" />
+					<f i="174-2_auf.swf" l="Schneidkantenverlauf" />
+					<f i="174-2.png" l="Schneidkantenverlauf" />
+					<f i="174-3.png" l="Fräser zur Bearbeitung von Aluminium mit DP-Schneidplatten" />
+					<f i="174-T1.png" l="Werkzeug-Anwendungsgruppen" />
+					<f i="175-1.png" l="Fräserposition und Schneidenkontakt" />
+					<f i="175-T1.png" l="Werkzeugverschleiß" />
+					<f i="176-1_auf.swf" l="Mängel der Steilkegelaufnahme" />
+					<f i="176-1.png" l="Mängel der Steilkegelaufnahme" />
+					<f i="176-2.png" l="Hohlschaftkegelaufnahme" />
+					<f i="176-3.png" l="Aufsteck-Fräserdorn für Fräser mit Längs- oder Quernut" />
+					<f i="176-4_auf.swf" l="Frässpindel mit Fräserdorn und Gegenlager" />
+					<f i="176-4.png" l="Frässpindel mit Fräserdorn und Gegenlager" />
+					<f i="176-5.png" l="Fräserspannfutter für Fräser mit Zylinderschaft" />
+					<f i="177-1_auf.swf" l="Formfräsen mit bohrfähigen Schaftfräsern" />
+					<f i="177-1.png" l="Formfräsen mit bohrfähigen Schaftfräsern" />
+					<f i="177-2_auf.swf" l="Formfräsen mit Plan- und Kopierfräsern mit runden Wendeschneidplatten" />
+					<f i="177-2.png" l="Formfräsen mit Plan- und Kopierfräsern mit runden Wendeschneidplatten" />
+					<f i="177-T1_auf.swf" l="Fräsverfahren" />
+					<f i="177-T1.png" l="Fräsverfahren" />
+					<f i="178-1_auf.swf" l="Gegenlauf und Gleichlauf beim Umfangsfräsen" />
+					<f i="178-1.png" l="Gegenlauf und Gleichlauf beim Umfangsfräsen" />
+					<f i="178-2_auf.swf" l="Gegenlauf und Gleichlauf beim Stirnfräsen" />
+					<f i="178-2.png" l="Gegenlauf und Gleichlauf beim Stirnfräsen" />
+					<f i="178-3.png" l="Winkelabweichung beim Gegenlauf- und Gleichlauffräsen durch elastische Formänderung des Schaftfräsers beim 90°-Eckfräsen oder Konturfräsen" />
+					<f i="178-4.png" l="Entstehung von Konturabweichungen beim Gleichlauffräsen durch Formänderungen an Schaftfräser und Werkstück" />
+					<f i="179-T1.png" l="Wahl der Fräserart und der Schneidplatte" />
+					<f i="179-T2.png" l="Wahl der Schneidplattengeometrie" />
+					<f i="179-T3.png" l="Wahl der Fräserteilung" />
+					<f i="180-1_auf.swf" l="Durchmesser und Position des Fräsers" />
+					<f i="180-1.png" l="Durchmesser und Position des Fräsers" />
+					<f i="180-2.png" l="Einfluss der Fräserposition zum Werkstück" />
+					<f i="180-T1_auf.swf" l="Wahl von Plan- und Eckfräsern mit weiter und enger Teilung" />
+					<f i="180-T1.png" l="Wahl von Plan- und Eckfräsern mit weiter und enger Teilung" />
+					<f i="181-1_auf.swf" l="Anwendungsbereich einer Wendeschneidplatte" />
+					<f i="181-1.png" l="Anwendungsbereich einer Wendeschneidplatte" />
+					<f i="181-2.png" l="Vorfräsen und Fertigfräsen mit Wendeschneidplatten" />
+					<f i="181-3.png" l="Oberfläche nach dem Fräsen mit Planfasenplatte und Breitschlichtplatte" />
+					<f i="182-T1_auf.swf" l="Maßnahmen bei Fräsproblemen" />
+					<f i="182-T1.png" l="Maßnahmen bei Fräsproblemen" />
+					<f i="183-1.png" l="Schnittgeschwindigkeitsbereiche für das Hochgeschwindigkeitsfräsen" />
+					<f i="183-2.png" l="Leistungsmerkmale in Abhängigkeit von der Schnittgeschwindigkeit" />
+					<f i="183-3.png" l="Dünnwandige Aluminiumspirale" />
+					<f i="183-T1.png" l="Anwendungsgebiete der Hochgeschwindigkeitsbearbeitung" />
+					<f i="184-1.png" l="Schmiedegesenk eines Gabelschlüssels (Hartbearbeitung)" />
+					<f i="184-2.png" l="Spritzgießform (Drehschalter)" />
+					<f i="184-3.png" l="HSC-Bearbeitungszentrum" />
+					<f i="184-4.png" l="HSC-Fräsen im Formenbau" />
+					<f i="185-1.png" l="Universalfräsmaschine mit Universal-Aufspanntisch" />
+					<f i="185-2.png" l="Bauweise der Universalfräsmaschine mit starrem Winkeltisch" />
+					<f i="185-T1.png" l="Technische Daten aus der Maschinenkarte" />
+					<f i="186-1.png" l="Universal-Aufspanntisch und Fräskopf in horizontaler Spindellage (um 90° geschwenkt)" />
+					<f i="186-2.png" l="NC-Rundtisch, manuell schwenkbar" />
+					<f i="186-3.png" l="Werkzeugwechsler" />
+					<f i="186-4.png" l="Bettfräsmaschine und Fräs-Bohr-Zentrum" />
+					<f i="187-1.png" l="Laserbearbeitung auf einer Fräsmaschine" />
+					<f i="187-2.png" l="Lenkung des Laserstrahls über Spiegel" />
+					<f i="187-3.png" l="Spritzgießform (Modelleisenbahn)" />
+				</n>
+				<n l="9 Schleifen">
+					<f i="188-1.png" l="Schleifbeispiele" />
+					<f i="188-2.png" l="Spanbildung bei Schleifwerkzeugen" />
+					<f i="188-T1.png" l="Schleifmittelarten" />
+					<f i="189-1.png" l="Verschleißformen" />
+					<f i="189-2.png" l="Kornarten" />
+					<f i="189-T1.png" l="Einsatz der Körnungen" />
+					<f i="189-T2.png" l="Bindung der Scheifkörper" />
+					<f i="190-1.png" l="Gefüge und Kontaktlänge der Schleifscheibe" />
+					<f i="190-2.png" l="Gefügekennziffer" />
+					<f i="190-3_auf.swf" l="Schema + Beispiel" />
+					<f i="190-3.png" l="Schema + Beispiel" />
+					<f i="190-T1.png" l="Härte von Schleifkörpern" />
+					<f i="190-T2_auf.swf" l="Schleifkörper" />
+					<f i="190-T2.png" l="Schleifkörper" />
+					<f i="191-1.png" l="Statisches Auswuchten" />
+					<f i="191-2.png" l="Abrichten" />
+					<f i="191-3.png" l="Abrichtwerkzeuge" />
+					<f i="191-4.png" l="Aufspannen von Schleifscheiben" />
+					<f i="191-5.png" l="Sicherheit am Schleifbock" />
+					<f i="192-1.png" l="Einflüsse und Schleifergebnisse" />
+					<f i="192-2_auf.swf" l="Zerspangrößen beim Schleifen" />
+					<f i="192-2.png" l="Zerspangrößen beim Schleifen" />
+					<f i="192-T1.png" l="Zerspangrößen in Abhängigkeit vom Schleifverfahren" />
+					<f i="192-T2.png" l="Zulässige erhöhte Arbeitsgeschwindigkeiten" />
+					<f i="193-1.png" l="Kontaktlänge in Abhängigkeit vom Schleif verfahren" />
+					<f i="193-2.png" l="Schleifschäden durch Erwärmung der Randzone" />
+					<f i="193-T1.png" l="Geschwindigkeitsverhältnis q (herkömmliches Schleifen)" />
+					<f i="194-1.png" l="Schliffbild beim Seiten-Planschleifen" />
+					<f i="194-2.png" l="Einfluss von Quervorschub und Zustellung beim Planschleifen" />
+					<f i="194-T1_auf.swf" l="Einteilung der Schleifverfahren" />
+					<f i="194-T1.png" l="Einteilung der Schleifverfahren" />
+					<f i="194-T2.png" l="Richtwerte zum Schleifen von Stahl und Gusseisen mit Korund oder Siliciumcarbid" />
+					<f i="195-1.png" l="Flach- und Profilschleifmaschine" />
+					<f i="195-2.png" l="CNC-Profilschleifen" />
+					<f i="195-T1.png" l="Vergleich Pendelschleifen – Tiefschleifen (Vollschnittschleifen)" />
+					<f i="196-1.png" l="Planschleifen" />
+					<f i="196-2.png" l="Schleifen einer Nut" />
+					<f i="196-3.png" l="Vorschubgeschwindigkeit über dem Vorschubweg" />
+					<f i="197-1.png" l="Längsschleifen" />
+					<f i="197-2.png" l="Einstechschleifen" />
+					<f i="197-3.png" l="Innen-Rundschleifen" />
+					<f i="197-4.png" l="Spitzenlosschleifen" />
+					<f i="198-1_auf.swf" l="Außen-Rundschleifmaschine" />
+					<f i="198-1.png" l="Außen-Rundschleifmaschine" />
+					<f i="198-2.png" l="Verfahrbewegungen an einer CNC-Rundschleifmaschine" />
+					<f i="198-3.png" l="CNC-Doppelspindel-Schleifeinheit" />
+					<f i="198-4.png" l="Profilschleifen" />
+					<f i="198-5.png" l="Bahngesteuertes Profilieren" />
+					<f i="199-1.png" l="Einstechschleifen" />
+					<f i="199-2.png" l="Bohrungsschleifen" />
+					<f i="199-3.png" l="Längsschleifen" />
+					<f i="199-4.png" l="Einstechschleifen" />
+				</n>
+				<n l="10 Räumen">
+					<f i="200-1.png" l="Schneidengeometrie eines Räumwerkzeuges" />
+					<f i="200-2.png" l="Räumdorn" />
+					<f i="200-3.png" l="Räumnadel" />
+					<f i="200-4.png" l="Räumplatte beim Planräumen" />
+					<f i="200-5.png" l="Einige durch Räumen gefertigte Profile" />
+					<f i="201-1.png" l="Waagerecht-Außenräummaschine" />
+					<f i="201-2.png" l="Senkrecht-Innenräummaschine" />
+					<f i="201-3.png" l="Prinzipieller Aufbau eines Räumwerkzeuges" />
+				</n>
+				<n l="11 Feinbearbeitung">
+					<f i="202-1.png" l="Feinbearbeitung einer Kolbenlaufbahn" />
+					<f i="202-2.png" l="Einfluss der Rautiefe auf den Verschleiß von Laufflächen" />
+					<f i="202-3.png" l="Durch Schleifen geschädigte Randzone" />
+					<f i="202-T1.png" l="Qualitätsanforderungen bei Motoren" />
+					<f i="203-1.png" l="Typische Langhub-Honbeispiele" />
+					<f i="203-2_auf.swf" l="Bewegungen und Oberfläche beim Langhubhonen" />
+					<f i="203-2.png" l="Bewegungen und Oberfläche beim Langhubhonen" />
+					<f i="203-3_auf.swf" l="Zustellung und Hubbewegung der Honahle" />
+					<f i="203-3.png" l="Zustellung und Hubbewegung der Honahle" />
+					<f i="203-4.png" l="Einfluss des Honleistenüberlaufes auf die Bohrungsform" />
+					<f i="204-1.png" l="Einfluss der Honzeit auf Werkstoffabtrag, Honsteinabrieb und Rautiefe" />
+					<f i="204-2.png" l="Verfahren des Kurzhubhonens" />
+					<f i="204-3_auf.swf" l="Bewegungen beim Kurzhubhonen" />
+					<f i="204-3.png" l="Bewegungen beim Kurzhubhonen" />
+					<f i="204-4.png" l="Oberfläche und Kreisform beim Kurzhub honen" />
+					<f i="205-1.png" l="Läppvorgang" />
+					<f i="205-2.png" l="Abhängigkeit des Werkstoffabtrags von Korngröße und Anpressdruck" />
+					<f i="205-3.png" l="Planläppen auf einer Einscheiben- Läppmaschine" />
+					<f i="205-4.png" l="Läppen mit einer Druckplatte" />
+					<f i="206-1.png" l="Verstellung der Abrichtringe bei Ebenheits abweichungen" />
+					<f i="206-2.png" l="Zweischeiben-Läppmaschine" />
+					<f i="206-3.png" l="Planparallelläppen von Teilen einer Zahnradpumpe" />
+					<f i="207-1.png" l="Flachhonen mit „Pellets“" />
+					<f i="207-2.png" l="Außenrundläppen auf einer Zweischeiben-Läppmaschine" />
+					<f i="207-3.png" l="Vorbearbeitete und geläppte Düsennadel" />
+					<f i="207-4.png" l="Auf Einscheiben- und Zweischeiben-Läppmaschinen geläppte Teile" />
+				</n>
+				<n l="12 Funkenerosives Abtragen">
+					<f i="208-1_auf.swf" l="Verfahren des funkenerosiven Abtragens" />
+					<f i="208-1.png" l="Verfahren des funkenerosiven Abtragens" />
+					<f i="208-2_auf.swf" l="Aufbau einer Senkerodieranlage" />
+					<f i="208-2.png" l="Aufbau einer Senkerodieranlage" />
+					<f i="208-3.png" l="Abtragvorgang" />
+					<f i="209-1.png" l="Zeitlicher Verlauf der Entladung" />
+					<f i="209-2_auf.swf" l="Einstellwerte beim funkenerosiven Abtragen" />
+					<f i="209-2.png" l="Einstellwerte beim funkenerosiven Abtragen" />
+					<f i="209-3.png" l="Formabweichungen beim Senkerodieren" />
+					<f i="209-4.png" l="Gefügeänderungen an erodierter Werkstückoberfläche" />
+					<f i="210-1.png" l="Grafitelektrode mit erodiertem Schmiedegesenk" />
+					<f i="210-2.png" l="Kupferelektrode in einem Planetär-Erodiergerät" />
+					<f i="210-3.png" l="Planetärerodieren eines Innenvierkantes" />
+					<f i="210-4.png" l="Bahngesteuertes Erodieren" />
+					<f i="211-1_auf.swf" l="Drahterodiermaschine" />
+					<f i="211-1.png" l="Drahterodiermaschine" />
+					<f i="211-2.png" l="Strangpresswerkzeug, hergestellt durch Draht erodieren" />
+				</n>
+				<n l="13 Vorrichtungen und Spannelemente an Werkzeugmaschinen">
+					<f i="212-1_auf.swf" l="Spannvorrichtung" />
+					<f i="212-1.png" l="Spannvorrichtung" />
+					<f i="212-2.png" l="Dreipunktauflage" />
+					<f i="213-1_auf.swf" l="Spanneisen" />
+					<f i="213-1.png" l="Spanneisen" />
+					<f i="213-2.png" l="Verstellbare Spannunterlagen" />
+					<f i="213-3.png" l="Stütz- und Richtelemente" />
+					<f i="213-4.png" l="Flachspanner" />
+					<f i="214-1.png" l="Kniehebelspanner" />
+					<f i="214-2.png" l="Schnellspanner" />
+					<f i="214-3.png" l="Exzenterspanner" />
+					<f i="214-4.png" l="Spannen ohne pendelnde Auflagen" />
+					<f i="214-5.png" l="Pendelnde Auflagen" />
+					<f i="215-1.png" l="Maschinenschraubstock" />
+					<f i="215-2.png" l="Hochdruckspindel" />
+					<f i="215-3.png" l="Magnetisches Spannen" />
+					<f i="215-4.png" l="Spannen mit beweglichen Magnetpolen" />
+					<f i="216-1.png" l="Elektrohydraulisches Pumpenaggregat" />
+					<f i="216-2.png" l="Hydraulische Spannzylinder" />
+					<f i="216-3.png" l="Schwenkspanner" />
+					<f i="217-1.png" l="Elemente eines Vorrichtungsbaukastens" />
+					<f i="217-2.png" l="Nutsystem" />
+					<f i="217-3.png" l="Bohrungssystem" />
+					<f i="218-1.png" l="Passbohrung in Gewindebohrung" />
+					<f i="218-2.png" l="Passbohrung neben Gewindebohrung" />
+				</n>
+				<n l="14 Fertigungsbeispiel Spannpratze">
+					<f i="219-1.png" l="Hydraulische Spannelemente" />
+					<f i="219-2.png" l="Spannpratze" />
+					<f i="219-3.png" l="Stückliste zum hydraulischen Spannelement" />
+					<f i="220-1.png" l="Arbeitsplan (Auszug)" />
+					<f i="220-2.png" l="Ablängen des Rohteiles" />
+					<f i="220-3.png" l="Drehzahl-Diagramm" />
+					<f i="220-T1.png" l="Schnittwerte für HSS-Sägeblätter" />
+					<f i="221-1.png" l="Fräsen der Außenflächen" />
+					<f i="221-2.png" l="Fräsen von Nut und Langloch" />
+					<f i="221-T1.png" l="Schnittwerte für Walzenstrirnfräser vc in m/min, fz in mm" />
+					<f i="221-T2.png" l="Schnittwerte für Schaftfräser" />
+					<f i="222-1.png" l="Gewindebohren M12" />
+					<f i="222-T1.png" l="Schnittwerte für HSS-Spiralbohrer" />
+					<f i="222-T2.png" l="Schnittwerte für HSS-Gewindebohrer" />
+				</n>
+			</n>
+			<n l="8 Fügen">
+				<f i="223-1_auf.swf" l="Kreissägewelle mit Lagerung" />
+				<f i="223-1.png" l="Kreissägewelle mit Lagerung" />
+				<n l="1 Fügeverfahren">
+					<f i="223-2.png" l="Drehmomentübertragung durch Formschluss" />
+					<f i="223-3.png" l="Reibungskraft FR" />
+					<f i="224-1.png" l="Sägeblatt" />
+					<f i="224-2.png" l="Keilverbindung" />
+					<f i="224-3.png" l="Feste und bewegliche Verbindungen" />
+					<f i="224-4.png" l="Lösbare Verbindungen" />
+					<f i="224-5.png" l="Trennen einer unlösbaren Verbindung" />
+					<f i="225-T1-1_auf.swf" l="Formschlüssiges Fügen durch ineinander passende Formen" />
+					<f i="225-T1-1.png" l="Formschlüssiges Fügen durch ineinander passende Formen" />
+					<f i="225-T1-2_auf.swf" l="Kraftschlüssiges Fügen durch Reibungskräfte" />
+					<f i="225-T1-2.png" l="Kraftschlüssiges Fügen durch Reibungskräfte" />
+					<f i="225-T1-3_auf.swf" l="Vorgespannt formschlüssiges Fügen durch Kraft- und Formschluss" />
+					<f i="225-T1-3.png" l="Vorgespannt formschlüssiges Fügen durch Kraft- und Formschluss" />
+					<f i="225-T1-4_auf.swf" l="Stoffschlüssiges Fügen durch Kohäsions- und Adhäsionskräfte" />
+					<f i="225-T1-4.png" l="Stoffschlüssiges Fügen durch Kohäsions- und Adhäsionskräfte" />
+					<f i="225-T1.png" l="Übersicht über wichtige Fügeverfahren" />
+				</n>
+				<n l="2 Press- und Schnappverbindungen">
+					<f i="226-1_auf.swf" l="Pressverbindung durch Längseinpressen" />
+					<f i="226-1.png" l="Pressverbindung durch Längseinpressen" />
+					<f i="226-2.png" l="Pressverbindung durch Schrumpfen" />
+					<f i="226-3.png" l="Pressverbindung durch Kühlen" />
+					<f i="227-1.png" l="Hydraulisch hergestellte Pressverbindung" />
+					<f i="227-2.png" l="Bauformen von Schnappverbindungen" />
+					<f i="227-3.png" l="Arten von Schnappverbindungen" />
+					<f i="227-4.png" l="Schnappverbindungen mit Befestigungselementen" />
+				</n>
+				<n l="3 Kleben">
+					<f i="228-1.png" l="Klebeverbindungen" />
+					<f i="228-2.png" l="Kräfte bei Klebeverbindungen" />
+					<f i="228-3.png" l="Ausführung von Klebeverbindungen" />
+					<f i="228-4_auf.swf" l="Beanspruchung von Klebeverbindungen" />
+					<f i="228-4.png" l="Beanspruchung von Klebeverbindungen" />
+					<f i="229-T1.png" l="Reaktionsklebstoffe" />
+				</n>
+				<n l="4 Löten">
+					<f i="230-1.png" l="Löten eines Kupferrohres" />
+					<f i="230-2_auf.swf" l="Benetzungsformen beim Löten" />
+					<f i="230-2.png" l="Benetzungsformen beim Löten" />
+					<f i="230-3_auf.swf" l="Legierungsbildung durch Diffusion" />
+					<f i="230-3.png" l="Legierungsbildung durch Diffusion" />
+					<f i="230-4_auf.swf" l="Lötspalt und Lötfuge" />
+					<f i="230-4.png" l="Lötspalt und Lötfuge" />
+					<f i="231-1_auf.swf" l="Steighöhe des Lotes in Abhängigkeit von der Breite des Lötspaltes" />
+					<f i="231-1.png" l="Steighöhe des Lotes in Abhängigkeit von der Breite des Lötspaltes" />
+					<f i="231-2_auf.swf" l="Kapillarwirkung beim Löten" />
+					<f i="231-2.png" l="Kapillarwirkung beim Löten" />
+					<f i="231-3_auf.swf" l="Zinn-Blei-Zustandsschaubild" />
+					<f i="231-3.png" l="Zinn-Blei-Zustandsschaubild" />
+					<f i="232-1_auf.swf" l="Wichtige Löttemperaturen für das Lot L-Ag30Cd und das Flussmittel FH10" />
+					<f i="232-1.png" l="Wichtige Löttemperaturen für das Lot L-Ag30Cd und das Flussmittel FH10" />
+					<f i="232-2.png" l="Lötverfahren und Form der Lötstelle" />
+					<f i="232-T1.png" l="Lötverfahren und Arbeitstemperatur" />
+					<f i="233-1_auf.swf" l="Flammlöten" />
+					<f i="233-1.png" l="Flammlöten" />
+					<f i="233-2_auf.swf" l="Kolbenlöten" />
+					<f i="233-2.png" l="Kolbenlöten" />
+					<f i="233-3.png" l="Lotformteile" />
+					<f i="233-T1.png" l="Weichlote für Schwermetalle (Beispiele)" />
+					<f i="234-1.png" l="Wirkungsweise des Flussmittels FH10" />
+					<f i="234-T1.png" l="Hartlote für Schwermetalle (Beispiele)" />
+					<f i="235-1.png" l="Lötbeispiel" />
+					<f i="235-T1.png" l="Flussmittel zum Weichlöten (Beispiele)" />
+				</n>
+				<n l="5 Schweißen">
+					<f i="236-1.png" l="Schweißen einer Naht" />
+					<f i="236-T1.png" l="Einteilung der Schweißverfahren nach DIN EN ISO 4063 (Auswahl)" />
+					<f i="237-1_auf.swf" l="Stoßarten beim Schweißen und Löten" />
+					<f i="237-1.png" l="Stoßarten beim Schweißen und Löten" />
+					<f i="237-2_auf.swf" l="Schweißnahtformen" />
+					<f i="237-2.png" l="Schweißnahtformen" />
+					<f i="237-3_auf.swf" l="Bezeichnungen bei Schweißnähten am Beispiel einer dicken V-Naht" />
+					<f i="237-3.png" l="Bezeichnungen bei Schweißnähten am Beispiel einer dicken V-Naht" />
+					<f i="237-4.png" l="Schweißpositionen" />
+					<f i="238-1_auf.swf" l="Anlage zum Lichtbogenhandschweißen" />
+					<f i="238-1.png" l="Anlage zum Lichtbogenhandschweißen" />
+					<f i="238-2_auf.swf" l="Moderne elektronische Schweißstromquelle mit Inverter-Technologie, Blockschaltbild" />
+					<f i="238-2.png" l="Moderne elektronische Schweißstromquelle mit Inverter-Technologie, Blockschaltbild" />
+					<f i="238-3.png" l="Strom-Spannungs-Kennlinien konventioneller und elektronischer Schweißstromquellen" />
+					<f i="238-T1.png" l="Leerlaufspannungen" />
+					<f i="239-1_auf.swf" l="Abschmelzvorgang einer Stabelektrode" />
+					<f i="239-1.png" l="Abschmelzvorgang einer Stabelektrode" />
+					<f i="239-2.png" l="Lichtbogenhandschweißen" />
+					<f i="239-3_auf.swf" l="Bezeichnung der Stabelektroden (Beispiel)" />
+					<f i="239-3.png" l="Bezeichnung der Stabelektroden (Beispiel)" />
+					<f i="239-T1.png" l="Umhüllungsgrundtypen von Stabelektroden" />
+					<f i="240-1_auf.swf" l="Einfluss der Blaswirkung auf den Lichtbogen" />
+					<f i="240-1.png" l="Einfluss der Blaswirkung auf den Lichtbogen" />
+					<f i="240-2_auf.swf" l="Schweißlagen" />
+					<f i="240-2.png" l="Schweißlagen" />
+					<f i="240-3.png" l="Führung der Stabelektrode bei einer Steignaht" />
+					<f i="241-1_auf.swf" l="Schweißanlage zum MIG- und MAG-Schweißen" />
+					<f i="241-1.png" l="Schweißanlage zum MIG- und MAG-Schweißen" />
+					<f i="241-T1.png" l="Schutzgasschweißverfahren" />
+					<f i="241-T2.png" l="Arten und Anwendung der Schutzgase" />
+					<f i="242-1_auf.swf" l="WIG-Schweißbrenner" />
+					<f i="242-1.png" l="WIG-Schweißbrenner" />
+					<f i="242-2_auf.swf" l="Lichtbogen beim WIG-Schweißen" />
+					<f i="242-2.png" l="Lichtbogen beim WIG-Schweißen" />
+					<f i="242-T1.png" l="Lichtbogenarten" />
+					<f i="243-1.png" l="Stromverlauf beim WIG-Schweißen mit pulsierendem Gleichstrom" />
+					<f i="243-2.png" l="WIG-geschweißtes Bauteil" />
+					<f i="243-3.png" l="Plasma-Schweißen" />
+					<f i="244-1_auf.swf" l="Gasschweißanlage" />
+					<f i="244-1.png" l="Gasschweißanlage" />
+					<f i="244-2_auf.swf" l="Druckminderer" />
+					<f i="244-2.png" l="Druckminderer" />
+					<f i="244-T1_auf.swf" l="Anschlüsse der Druckgasflaschen und Kennfarbe der Flaschenschulter" />
+					<f i="244-T1.png" l="Anschlüsse der Druckgasflaschen und Kennfarbe der Flaschenschulter" />
+					<f i="245-1_auf.swf" l="Acetylen-Sauerstoff-Flamme" />
+					<f i="245-1.png" l="Acetylen-Sauerstoff-Flamme" />
+					<f i="245-2.png" l="Nach-links-Schweißung" />
+					<f i="245-3.png" l="Nach-rechts-Schweißung" />
+					<f i="246-1.png" l="Laserstrahlschweißen" />
+					<f i="246-2.png" l="Lasergeschweißte Lenkspindel eines Pkw" />
+					<f i="246-3.png" l="Elektronenstrahlschweißanlage" />
+					<f i="246-4.png" l="Tiefschweißung in Stahl durch Elektronenstrahlschweißen" />
+					<f i="247-1_auf.swf" l="Punktschweißen" />
+					<f i="247-1.png" l="Punktschweißen" />
+					<f i="247-2_auf.swf" l="Buckelschweißen" />
+					<f i="247-2.png" l="Buckelschweißen" />
+					<f i="247-3_auf.swf" l="Rollennahtschweißen" />
+					<f i="247-3.png" l="Rollennahtschweißen" />
+					<f i="247-4.png" l="Reibschweißen (schematisch)" />
+					<f i="248-1.png" l="Schnitt durch eine Kehlnaht" />
+					<f i="248-2.png" l="Prüfen von Schweißproben durch Biegen" />
+					<f i="248-T1.png" l="Einsatz der verschiedenen Schweißverfahren" />
+				</n>
+			</n>
+			<n l="9 Generative Fertigungsverfahren">
+				<f i="249-1.png" l="Prinzip der generativen Fertigungsverfahren" />
+				<f i="250-1.png" l="Stereolithografie eines Formteils" />
+				<f i="250-2.png" l="Extrusionsverfahren" />
+				<f i="250-3.png" l="3D-Printing" />
+				<f i="251-1.png" l="Selektives Laser-Schmelzen" />
+				<f i="251-2.png" l="Werkzeugreparatur durch Selektives Schmelzen" />
+				<f i="251-3.png" l="Hüftpfanne aus TiAI6V4 für die Medizintechnik" />
+			</n>
+			<n l="10 Beschichten">
+				<f i="252-1.png" l="Kontinuierliches Phosphatieren
+von Pkw- Karosserien
+durch Tauchen" />
+				<f i="252-2.png" l="Sprühlackieren einer
+Pkw-Rohkarosserie" />
+				<f i="253-T1.png" l="Spritz- und Sprühverfahren" />
+				<f i="254-T1.png" l="Beschichten mit Metallen" />
+				<f i="255-T1.png" l="Beschichtungen mit besonderen Eigenschaften" />
+			</n>
+			<n l="11 Fertigungsbetrieb und Umweltschutz">
+				<f i="256-1.png" l="Entsorgung bei der spanenden Fertigung" />
+				<f i="257-1.png" l="Reinigungsanlage für verschmutzte Werkstücke" />
+				<f i="257-2.png" l="Pulverlackier-Durchlaufanlage" />
+				<f i="257-3.png" l="Abluft-Reinigungsanlage eines Fertigungsbetriebes" />
+				<f i="258-1.png" l="Reinigungsanlage für Abwässer aus Metallbetrieben" />
+			</n>
+			<n l="12 Practice your English">
+				<f i="259-1.png" l="Baugruppen einer Drehmaschine" />
+				<f i="259-1-E.png" l="Components of a lathe" />
+				<f i="259-2.png" l="Schneiden und Flächen am Schneidkeil" />
+				<f i="259-2-E.png" l="Cutting edges and surfaces of a cutting" />
+				<f i="259-3.png" l="Fertigungszeichnung Kolben" />
+				<f i="259-3-E.png" l="Technical drawing piston" />
+			</n>
+		</n>
+		<n l="4 Verbundwerkstoffe">
+			<n l="1 Innerer Aufbau">
+				<f i="261-1_auf.swf" l="Einteilung der Werkstoffe in Werkstoffgruppen" />
+				<f i="261-1.png" l="Einteilung der Werkstoffe in Werkstoffgruppen" />
+				<f i="261-2.png" l="Werkstücke aus Eisenwerkstoffen" />
+				<f i="261-3.png" l="Bauteile aus Nichteisen-Metallen (NE-Metallen)" />
+				<f i="262-1.png" l="Bauteile aus nichtmetallischen Werkstoffen" />
+				<f i="262-2.png" l="Bauteile aus Verbundwerkstoffen" />
+				<f i="262-3.png" l="Vom Rohstoff zum Werkstück" />
+				<f i="262-4.png" l="Hilfsstoffe und Energien" />
+			</n>
+			<n l="2 Auswahl und Eigenschaften der Werkstoffe">
+				<f i="263-1_auf.swf" l="Werkstoffe der Bauteile einer Bohrmaschine" />
+				<f i="263-1.png" l="Werkstoffe der Bauteile einer Bohrmaschine" />
+				<f i="263-T1.png" l="Technische Aufgabe des Werkstoffs und Werkstoffauswahl" />
+				<f i="264-1_auf.swf" l="Thermische Längenausdehnung" />
+				<f i="264-1.png" l="Thermische Längenausdehnung" />
+				<f i="264-2.png" l="Wärmeleitfähigkeit" />
+				<f i="264-T1.png" l="Dichte von Stoffen" />
+				<f i="264-T2.png" l="Schmelztemperaturen" />
+				<f i="264-T3.png" l="Elektrische Leitfähigkeit in Prozent der Leitfähigkeit von Kupfer" />
+				<f i="265-1.png" l="Elastizität eines Sägeblatts" />
+				<f i="265-2.png" l="Plastizität eines Bleistabes" />
+				<f i="265-3.png" l="Elastisch-plastische Verformung eines Stabstahls" />
+				<f i="265-4.png" l="Bestimmung der Härte" />
+				<f i="265-5.png" l="Zug- und Druckbeanspruchung" />
+				<f i="266-1.png" l="Weitere Beanspruchungsarten" />
+				<f i="266-2.png" l="Probestab, unbelastet und unter Zugbeanspruchung" />
+				<f i="266-3.png" l="Verschleiß an Gleitflächen" />
+				<f i="267-1.png" l="Fertigungstechnische Eigenschaften" />
+				<f i="267-2.png" l="Korrosionsverhalten" />
+				<f i="268-1.png" l="Verzunderung" />
+				<f i="268-2.png" l="Recycling-Material" />
+				<f i="268-3.png" l="Absaugung von Gasen" />
+			</n>
+			<n l="3 Innerer Aufbau der Metalle">
+				<f i="269-1.png" l="Metalloberfläche und innerer Aufbau" />
+				<f i="269-2.png" l="Entstehung der Metallbindung (Beispiel Eisen)" />
+				<f i="269-3.png" l="Stromleitung in einem Metalldraht" />
+				<f i="270-1.png" l="Plastische Verformung eines Kristalls durch Verschieben einer Metallatomlage" />
+				<f i="270-2_auf.swf" l="Kristallgittertypen" />
+				<f i="270-2.png" l="Kristallgittertypen" />
+				<f i="271-1.png" l="Baufehler im Metallkristall" />
+				<f i="271-2_auf.swf" l="Abkühlungskurve und kristalline Vorgänge in einer Metallschmelze" />
+				<f i="271-2.png" l="Abkühlungskurve und kristalline Vorgänge in einer Metallschmelze" />
+				<f i="272-1.png" l="Sichtbarmachen eines Schliffbildes" />
+				<f i="272-2.png" l="Kornformen bei Metallen" />
+				<f i="273-1.png" l="Gefüge mit unterschiedlichen Korngrößen" />
+				<f i="273-2.png" l="Innerer Aufbau eines reinen Metalls" />
+				<f i="273-3.png" l="Innerer Aufbau einer Kristallgemisch-Legierung" />
+				<f i="273-4.png" l="Innerer Aufbau einer Mischkristall-Legierung" />
+			</n>
+			<n l="4 Stähle und Eisen-Gusswerkstoffe">
+				<f i="274-1_auf.swf" l="Eigenschaften der Stähle und Eisen-Gusswerkstoffe am Beispiel eines Getriebemotors" />
+				<f i="274-1.png" l="Eigenschaften der Stähle und Eisen-Gusswerkstoffe am Beispiel eines Getriebemotors" />
+				<f i="274-2_auf.swf" l="Roheisengewinnung im Hochofen" />
+				<f i="274-2.png" l="Roheisengewinnung im Hochofen" />
+				<f i="275-1_auf.swf" l="Stahlherstellung nach dem Sauerstoffaufblas-Verfahren sowie dem kombinierten Blasverfahren" />
+				<f i="275-1.png" l="Stahlherstellung nach dem Sauerstoffaufblas-Verfahren sowie dem kombinierten Blasverfahren" />
+				<f i="276-1_auf.swf" l="Elektrostahl-Verfahren im Lichtbogenofen" />
+				<f i="276-1.png" l="Elektrostahl-Verfahren im Lichtbogenofen" />
+				<f i="276-2_auf.swf" l="Unberuhigt und beruhigt vergossene Stahlblöcke" />
+				<f i="276-2.png" l="Unberuhigt und beruhigt vergossene Stahlblöcke" />
+				<f i="276-3.png" l="Vakuum-Entgasung" />
+				<f i="276-4.png" l="Elektro-Schlacke-Umschmelzverfahren" />
+				<f i="277-1.png" l="Stranggussanlage" />
+				<f i="277-2_auf.swf" l="Übersicht über die Stahlherstellung" />
+				<f i="277-2.png" l="Übersicht über die Stahlherstellung" />
+				<f i="278-1.png" l="Aufbau von Kurznamen" />
+				<f i="278-T1.png" l="Hauptsymbole für Kurznamen von Stählen nach Verwendung und Eigenschaften (Auswahl)" />
+				<f i="278-T2.png" l="Zusatzsymbole für Kurznamen der Stähle für den Stahlbau (Auswahl)" />
+				<f i="279-1_auf.swf" l="Kurznamenbildung legierter Stähle, jedes Legierungselement &lt; 5 %" />
+				<f i="279-1.png" l="Kurznamenbildung legierter Stähle, jedes Legierungselement &lt; 5 %" />
+				<f i="279-2_auf.swf" l="Kurznamenbildung legierter Stähle, mindestens ein Legierungselement &gt; 5 %" />
+				<f i="279-2.png" l="Kurznamenbildung legierter Stähle, mindestens ein Legierungselement &gt; 5 %" />
+				<f i="279-T1.png" l="Haupt- und Zusatzsymbole unlegierter Stähle mit Benennung nach chemischer Zusammensetzung" />
+				<f i="279-T2.png" l="Multiplikationsfaktoren" />
+				<f i="280-T1.png" l="Zusatzsymbole für Stahlerzeugnisse (Auswahl)" />
+				<f i="280-T2.png" l="Stahlgruppen-Nummern (Auswahl)" />
+				<f i="281-T1.png" l="Grenzwerte der Legierungselemente für unlegierte Stähle" />
+				<f i="282-1.png" l="Geschweißtes Pressengestell aus Feinkornbaustahl" />
+				<f i="282-2.png" l="Drehteile aus Automatenstahl" />
+				<f i="282-3.png" l="Zahnräder aus Einsatzstahl" />
+				<f i="283-1.png" l="Turbinenlaufrad aus warmfestem Stahl" />
+				<f i="283-2.png" l="Selbsttragender Karosserierahmen aus mikrolegiertem Stahlblech (1,5 bis 2 mm dick)" />
+				<f i="283-3.png" l="Spritzgießform für Pkw-Scheibenwischer-Getriebe aus Kaltarbeitsstahl" />
+				<f i="283-4.png" l="Schmiedegesenk für Ringschlüssel aus Warmarbeitsstahl" />
+				<f i="284-T1_auf.swf" l="Handelsformen der Stähle (Beispiele)" />
+				<f i="284-T1.png" l="Handelsformen der Stähle (Beispiele)" />
+				<f i="285-T1.png" l="Legierungs- und Begleitelemente bei Stählen und Eisen-Gusswerkstoffen" />
+				<f i="286-1_auf.swf" l="Kupolofen" />
+				<f i="286-1.png" l="Kupolofen" />
+				<f i="286-2_auf.swf" l="Induktions-Tiegelofen" />
+				<f i="286-2.png" l="Induktions-Tiegelofen" />
+				<f i="287-1_auf.swf" l="Kurznamen der Gusseisenwerkstoffe nach DIN EN 1560" />
+				<f i="287-1.png" l="Kurznamen der Gusseisenwerkstoffe nach DIN EN 1560" />
+				<f i="288-1.png" l="Gefüge von Gusseisen mit Lamellengrafit" />
+				<f i="288-2.png" l="Gehäuse einer Filterpresse aus EN-GJL-250" />
+				<f i="288-3_auf.swf" l="Gefüge der verschiedenen Eisen-Gusswerkstoffe" />
+				<f i="288-3.png" l="Gefüge der verschiedenen Eisen-Gusswerkstoffe" />
+				<f i="289-1.png" l="Pkw-Radträger aus Gusseisen mit Kugelgrafit" />
+				<f i="289-2.png" l="Gefüge von entkohlend geglühtem Temperguss" />
+				<f i="289-3.png" l="Installationsteile aus entkohlend geglühtem Temperguss" />
+				<f i="290-1.png" l="Kaplan-Laufrad, Schaufeln und Nabe aus GX5CrNi13-4" />
+				<f i="290-T1_auf.swf" l="Stahlgusssorten mit Beispielen" />
+				<f i="290-T1.png" l="Stahlgusssorten mit Beispielen" />
+				<f i="290-T2.png" l="Kohlenstoffgehalt der Stähle und Eisen-Gusswerkstoffe" />
+			</n>
+			<n l="5 Nichteisenmetalle (NE-Metalle)">
+				<f i="291-1.png" l="Pressgeschmiedete Pkw-Felgen aus einer AlMgSi-Knetlegierung" />
+				<f i="291-2.png" l="Karosserierahmen eines hochwertigen Pkw’s aus verschiedenen Al-Legierungen" />
+				<f i="291-3.png" l="Motorblock aus einer Al-Gusslegierung" />
+				<f i="291-T1.png" l="Einteilung der NE-Metalle" />
+				<f i="292-1.png" l="Bootskörper aus meerwasserfester Al-Legierung EN-AW 5083 (Mg4,5Mn0,7)" />
+				<f i="292-2_auf.swf" l="Kurzname einer Al-Knetlegierung" />
+				<f i="292-2.png" l="Kurzname einer Al-Knetlegierung" />
+				<f i="292-3.png" l="Gehäuse einer Kettensäge aus Magnesium-Druckguss" />
+				<f i="292-4.png" l="Schaufelkranz eines Jet-Triebwerks aus der Titanlegierung TiAl6V4" />
+				<f i="293-1.png" l="Kurzname einer Schwermetalllegierung" />
+				<f i="293-2.png" l="Numerischer Kurzname einer Kupferlegierung" />
+				<f i="293-3.png" l="Kupferleitungen für die Stromleitung" />
+				<f i="293-4.png" l="Drehteile aus Kupfer-Zink-Legierungen" />
+				<f i="294-1.png" l="Lagerschalen für Gelenklager und Gelenkkopf aus der CuSn-Legierung CuSn8P" />
+				<f i="294-2.png" l="Kalotten-Lagerschalen aus G-CuSn12Pb in Stahlgehäuse" />
+				<f i="294-3.png" l="Pumpengehäuse aus CuSnZn-Gusslegierung" />
+				<f i="294-4.png" l="Teile aus CuNi-Legierungen" />
+				<f i="295-1.png" l="Chemieapparat aus einer korrosionsbeständigen Nickellegierung NiCu30Fe" />
+				<f i="295-T1.png" l="Schmelzpunkt und Verwendung der Legierungs-Schwermetalle" />
+			</n>
+			<n l="6 Sinterwerkstoffe">
+				<f i="296-1_auf.swf" l="Fertigung von Sinter-Formteilen aus Metallpulver" />
+				<f i="296-1.png" l="Fertigung von Sinter-Formteilen aus Metallpulver" />
+				<f i="296-2.png" l="Nachbehandlungsverfahren für Sinterteile" />
+				<f i="297-1.png" l="Filter aus Sinterbronze" />
+				<f i="297-2.png" l="Wartungsfreie Sinter-Gleitlager" />
+				<f i="297-3.png" l="Sinterstahl-Formteile für Maschinen und Geräte" />
+				<f i="297-4.png" l="Durch Sintern hergestellte Spezialwerkstoffe" />
+			</n>
+			<n l="7 Keramische Werkstoffe">
+				<f i="298-1.png" l="Bauteile aus keramischen Werkstoffen" />
+				<f i="298-2.png" l="Keramik-Hochleistungsbremsscheibe für einen Sportwagen" />
+				<f i="298-3.png" l="Keramik-Lagerschale in einem Pleuel" />
+				<f i="298-4_auf.swf" l="Herstellung keramischer Werkstoffe" />
+				<f i="298-4.png" l="Herstellung keramischer Werkstoffe" />
+				<f i="299-1.png" l="Heizleiterträger aus technischem Porzellan" />
+				<f i="299-2.png" l="Fräser-Schneidplatten aus Aluminiumoxid-Keramik" />
+				<f i="299-3.png" l="Gleitringe aus Siliciumcarbid SiC" />
+				<f i="299-4.png" l="Wälzlager aus Siliciumnitrid Si3N4" />
+				<f i="299-5.png" l="Keramik-beschichtete Bauteile aus Stahl" />
+			</n>
+			<n l="8 Wärmebehandlung der Stähle">
+				<f i="300-1_auf.swf" l="Gefügearten von Eisenwerkstoffen mit unterschiedlichem Kohlenstoffgehalt" />
+				<f i="300-1.png" l="Gefügearten von Eisenwerkstoffen mit unterschiedlichem Kohlenstoffgehalt" />
+				<f i="301-1_auf.swf" l="Eisen-Kohlenstoff-Zustandsdiagramm (mit den Gefügebereichen kohlenstoffhaltiger Eisenwerkstoffe)" />
+				<f i="301-1.png" l="Eisen-Kohlenstoff-Zustandsdiagramm (mit den Gefügebereichen kohlenstoffhaltiger Eisenwerkstoffe)" />
+				<f i="302-1_auf.swf" l="Stahlecke des Fe-C-Zustandsdiagramms" />
+				<f i="302-1.png" l="Stahlecke des Fe-C-Zustandsdiagramms" />
+				<f i="302-2.png" l="Gitter- und Gefügeänderung eines Stahls mit 0,8 % Kohlenstoff bei 723 °C" />
+				<f i="303-1_auf.swf" l="Glühtemperaturen unlegierter Stähle, eingezeichnet im Fe-C-Zustandsdiagramm" />
+				<f i="303-1.png" l="Glühtemperaturen unlegierter Stähle, eingezeichnet im Fe-C-Zustandsdiagramm" />
+				<f i="303-2.png" l="Rekristallisationsglühen" />
+				<f i="303-3.png" l="Weichglühen" />
+				<f i="303-4.png" l="Normalglühen (Rückfeinen)" />
+				<f i="304-1_auf.swf" l="Temperaturverlauf beim Härten" />
+				<f i="304-1.png" l="Temperaturverlauf beim Härten" />
+				<f i="304-2.png" l="Gehärtete Werkstücke" />
+				<f i="304-3.png" l="Gefügeumwandlung beim Abschrecken" />
+				<f i="305-1.png" l="Härte- und Anlasstemperaturen unlegierter Stähle im Fe-C-Zustandsdiagramm" />
+				<f i="305-2_auf.swf" l="Richtiges Eintauchen beim Abschrecken" />
+				<f i="305-2.png" l="Richtiges Eintauchen beim Abschrecken" />
+				<f i="306-1_auf.swf" l="Abkühlungskurven" />
+				<f i="306-1.png" l="Abkühlungskurven" />
+				<f i="306-2.png" l="Schnitt durch ein Zahnrad aus gehärtetem, unlegiertem Stahl" />
+				<f i="306-3.png" l="Härteverzug" />
+				<f i="306-4.png" l="Entstehung von Härteverzug und Härterissen" />
+				<f i="307-1.png" l="Temperatur-Zeit-Folge-Schaubild für die Wärmebehandlung von Werkzeugstählen" />
+				<f i="307-2.png" l="Anlassschaubild verschiedener Stähle" />
+				<f i="307-T1.png" l="Wärmebehandlungstemperaturen in °C" />
+				<f i="308-1.png" l="Vergütete Bauteile" />
+				<f i="308-2_auf.swf" l="Temperaturverlauf beim Vergüten" />
+				<f i="308-2.png" l="Temperaturverlauf beim Vergüten" />
+				<f i="308-3.png" l="Vergütungsschaubild des Stahls C45E" />
+				<f i="308-4.png" l="Gefüge nach dem Härten und Anlassen" />
+				<f i="309-1.png" l="Vergütungsschaubilder verschiedener Stähle" />
+				<f i="309-2.png" l="Bauteile mit gehärteter Randzone und zähem Kern" />
+				<f i="309-3_auf.swf" l="Induktionshärten" />
+				<f i="309-3.png" l="Induktionshärten" />
+				<f i="309-T1.png" l="Wärmebehandlungstemperaturen einiger Vergütungsstähle in °C" />
+				<f i="310-1_auf.swf" l="Wärmebehandlungstemperaturen einiger Vergütungsstähle in °C" />
+				<f i="310-1.png" l="Flammhärten einer Führungsbahn" />
+				<f i="310-2_auf.swf" l="Arbeitsablauf beim Einsatzhärten" />
+				<f i="310-2.png" l="Arbeitsablauf beim Einsatzhärten" />
+				<f i="311-1.png" l="Verschiedene Einsatz-Härteverfahren" />
+				<f i="311-T1.png" l="Wärmebehandlungstemperaturen einiger Einsatzstähle in °C" />
+				<f i="312-1.png" l="Spannpratze" />
+				<f i="312-2.png" l="Vergütungsschaubild des Stahls C45E" />
+			</n>
+			<n l="9 Kunststoffe">
+				<f i="313-T1_auf.swf" l="Typische Eigenschaften und Verwendungen der Kunststoffe" />
+				<f i="313-T1.png" l="Typische Eigenschaften und Verwendungen der Kunststoffe" />
+				<f i="314-1.png" l="Vorgänge im Molekülbereich bei der Herstellung von Kunststoffen" />
+				<f i="314-2.png" l="Polymerisation" />
+				<f i="314-3.png" l="Polykondensation" />
+				<f i="314-4.png" l="Polyaddition" />
+				<f i="315-1_auf.swf" l="Thermoplaste" />
+				<f i="315-1.png" l="Thermoplaste" />
+				<f i="315-2_auf.swf" l="Duroplaste" />
+				<f i="315-2.png" l="Duroplaste" />
+				<f i="315-3_auf.swf" l="Elastomere" />
+				<f i="315-3.png" l="Elastomere" />
+				<f i="316-1.png" l="Typische Verwendung von Polyethylen" />
+				<f i="316-2.png" l="Typische Verwendung von PVC" />
+				<f i="316-3.png" l="Typische Verwendung von Polystyrol" />
+				<f i="316-4.png" l="Typische Verwendung von Polycarbonat" />
+				<f i="317-1.png" l="Verwendung von Polymerblends" />
+				<f i="317-2.png" l="Typische Verwendung von Polyamiden" />
+				<f i="317-3.png" l="Typische Verwendung von Acrylglas" />
+				<f i="317-4.png" l="Typische Verwendung von PTFE" />
+				<f i="317-5.png" l="Bauteile aus POM" />
+				<f i="317-6.png" l="Typische Verwendung von PBT" />
+				<f i="318-1.png" l="Verwendung verstärkter UP-Harze" />
+				<f i="318-2.png" l="Typische Verwendung von Epoxidharz" />
+				<f i="318-3.png" l="Anwendung von Polyurethanharzen" />
+				<f i="319-1.png" l="Typische Verwendung von SBR-Gummi" />
+				<f i="319-2.png" l="Dichtungen aus Silikon-Gummi" />
+				<f i="319-3.png" l="Bauteile aus thermoplastischen Polyurethan-Elastomeren" />
+				<f i="319-4.png" l="Spannungs-Dehnungs-Diagramm verschiedener Kunststoffe" />
+				<f i="320-1.png" l="Temperaturabhängigkeit des E-Moduls (Steifigkeit) verschiedener Kunststoffe" />
+				<f i="320-2.png" l="Wärmebeständigkeit von Kunststoffen" />
+			</n>
+			<n l="10 Verbundwerkstoffe">
+				<f i="321-1.png" l="Bauteile aus Verbundwerkstoffen" />
+				<f i="321-2_auf.swf" l="Verbundwerkstoffarten" />
+				<f i="321-2.png" l="Verbundwerkstoffarten" />
+				<f i="322-1.png" l="Lkw-Motorhaube aus GFK" />
+				<f i="322-2.png" l="Faseranordnung und Verstärkungsrichtungen" />
+				<f i="322-3.png" l="Rotorflügel einer Windkraftanlage aus CFK" />
+				<f i="323-1.png" l="Kontinuierliches Laminieren von Vorlaminat" />
+				<f i="323-2.png" l="Warm-Formpressen eines Armaturenträgers" />
+				<f i="323-3.png" l="Faserharzspritzen eines Laminats" />
+				<f i="323-4.png" l="Laminieren eines Flugzeug-Leitwerks" />
+				<f i="323-5.png" l="Nasswickeln eines Flugzeugtanks" />
+				<f i="324-1.png" l="Elektro-Reihenklemme aus Kunststoff-Pressmasse" />
+				<f i="324-2.png" l="Drehmaschinengestell aus Polymerbeton" />
+				<f i="324-3.png" l="Schleifkörper aus Hartstoffkörnern und Bindung" />
+				<f i="324-4.png" l="Wendeschneidplatten aus Carbidkörnern und Cobalt" />
+				<f i="324-5.png" l="Zahnstangentrieb (Modell)" />
+				<f i="324-6.png" l="Chemieapparat" />
+				<f i="325-1.png" l="Bimetall-Spiralen" />
+				<f i="325-2.png" l="Pkw-Stoßfänger mit Verbundstruktur" />
+				<f i="325-3.png" l="Karosserie eines modernen Pkws aus mehreren Werkstoffen (Verbundbauweise)" />
+			</n>
+			<n l="11 Werkstoffprüfung">
+				<f i="326-1.png" l="Gebrochene Hohlwelle und mögliche werkstoffbedingte Bruchursachen" />
+				<f i="326-2_auf.swf" l="Technologische Prüfverfahren" />
+				<f i="326-2.png" l="Technologische Prüfverfahren" />
+				<f i="327-1_auf.swf" l="Universalprüfmaschine, Zugprobe" />
+				<f i="327-1.png" l="Universalprüfmaschine, Zugprobe" />
+				<f i="327-2_auf.swf" l="Verformung einer Zugprobe und Spannungs-Dehnungs-Diagramm eines Stahls mit ausgeprägter Streckgrenze (S235JR)" />
+				<f i="327-2.png" l="Verformung einer Zugprobe und Spannungs-Dehnungs-Diagramm eines Stahls mit ausgeprägter Streckgrenze (S235JR)" />
+				<f i="328-1_auf.swf" l="Spannungs-Dehnungs-Diagramm einer Aluminiumlegierung ohne ausgeprägte Streckgrenze" />
+				<f i="328-1.png" l="Spannungs-Dehnungs-Diagramm einer Aluminiumlegierung ohne ausgeprägte Streckgrenze" />
+				<f i="328-2_auf.swf" l="Spannungs-Dehnungs-Diagramm verschiedener Werkstoffe im Vergleich" />
+				<f i="328-2.png" l="Spannungs-Dehnungs-Diagramm verschiedener Werkstoffe im Vergleich" />
+				<f i="329-1.png" l="Druckversuch" />
+				<f i="329-2.png" l="Scherversuch" />
+				<f i="329-3_auf.swf" l="Kerbschlagbiegeversuch nach Charpy" />
+				<f i="329-3.png" l="Kerbschlagbiegeversuch nach Charpy" />
+				<f i="330-1_auf.swf" l="Härteprüfung nach Vickers" />
+				<f i="330-1.png" l="Härteprüfung nach Vickers" />
+				<f i="330-2_auf.swf" l="Universal-Härteprüfmaschine" />
+				<f i="330-2.png" l="Universal-Härteprüfmaschine" />
+				<f i="330-T1_auf.swf" l="Beispiel einer Härteangabe nach Vickers" />
+				<f i="330-T1.png" l="Beispiel einer Härteangabe nach Vickers" />
+				<f i="331-1.png" l="Arbeitsablauf bei der Rockwell-Härteprüfung (HRC)" />
+				<f i="331-2_auf.swf" l="Härteprüfung nach Brinell" />
+				<f i="331-2.png" l="Härteprüfung nach Brinell" />
+				<f i="331-T1_auf.swf" l="Beispiel einer Härteangabe nach Rockwell" />
+				<f i="331-T1.png" l="Beispiel einer Härteangabe nach Rockwell" />
+				<f i="332-1.png" l="Universalhärte-Prüfung" />
+				<f i="332-2.png" l="Monitorbild der Prüfkraft/Eindringtiefen-Diagramme von Stahl und Kupfer" />
+				<f i="332-T1_auf.swf" l="Beispiel einer Härteangabe nach Brinell" />
+				<f i="332-T1.png" l="Beispiel einer Härteangabe nach Brinell" />
+				<f i="332-T2_auf.swf" l="Beispiel einer Martenshärteangabe" />
+				<f i="332-T2.png" l="Beispiel einer Martenshärteangabe" />
+				<f i="333-1.png" l="Mobile Härteprüfung" />
+				<f i="333-2_auf.swf" l="Anwendungsbereiche und Vergleich der Härtewerte verschiedener Härteprüfverfahren" />
+				<f i="333-2.png" l="Anwendungsbereiche und Vergleich der Härtewerte verschiedener Härteprüfverfahren" />
+				<f i="333-T1_auf.swf" l="Vergleich der Härteprüfverfahren" />
+				<f i="333-T1.png" l="Vergleich der Härteprüfverfahren" />
+				<f i="334-1_auf.swf" l="Dauerbruchfläche einer Welle" />
+				<f i="334-1.png" l="Dauerbruchfläche einer Welle" />
+				<f i="334-2_auf.swf" l="Dauerschwingmaschine" />
+				<f i="334-2.png" l="Dauerschwingmaschine" />
+				<f i="334-3_auf.swf" l="Bereiche der Schwingbeanspruchung" />
+				<f i="334-3.png" l="Bereiche der Schwingbeanspruchung" />
+				<f i="334-4_auf.swf" l="Wöhlerkurve eines legierten Stahls" />
+				<f i="334-4.png" l="Wöhlerkurve eines legierten Stahls" />
+				<f i="335-1.png" l="Betriebslasten-Prüfung eines Baggerarms" />
+				<f i="335-2_auf.swf" l="Ultraschallprüfung" />
+				<f i="335-2.png" l="Ultraschallprüfung" />
+				<f i="336-1_auf.swf" l="Röntgenstrahlen-Prüfung" />
+				<f i="336-1.png" l="Röntgenstrahlen-Prüfung" />
+				<f i="336-2.png" l="Magnetpulververfahren" />
+				<f i="336-3.png" l="Gefügebilder ohne Vergrößerung" />
+				<f i="336-4.png" l="Mikroskopische Gefügebilder" />
+				<f i="337-1.png" l="Verformungsverhalten verschiedener Kunststoffe im Spannungs-Dehnungs-Diagramm" />
+				<f i="337-2.png" l="Prüfung der Vicat-Erweichungstemperatur" />
+			</n>
+			<n l="12 Umweltproblematik der Werk- und Hilfsstoffe">
+				<f i="338-1.png" l="Sortenreines Sammeln von Metallabfällen" />
+				<f i="338-T1.png" l="Energieverbrauch in kWh zur Erzeugung von 1 t Werkstoff" />
+				<f i="339-1.png" l="Metallabfälle und Altgeräteschrott" />
+				<f i="339-2.png" l="Stoffströme in einem metallverarbeitenden Betrieb und Verfahren beim Metall-Recycling" />
+				<f i="339-3.png" l="Kunststoff-Recycling (Beispiel)" />
+			</n>
+			<n l="13 Practice your English">
+				<f i="340-1.png" l="Einteilung der Werkstoffe" />
+				<f i="340-1-E.png" l="Classification of materials" />
+			</n>
+		</n>
+		<n l="5 Maschinentechnik">
+			<n l="1 Einteilung der Maschinen">
+				<f i="342-1_auf.swf" l="Die Maschine als technisches System am Beispiel einer Drehmaschine" />
+				<f i="342-1.png" l="Die Maschine als technisches System am Beispiel einer Drehmaschine" />
+				<f i="342-2.png" l="Das technische System Kraftmaschine am Beispiel eines Pkw-Motors" />
+				<f i="343-1_auf.swf" l="Arbeit und Energie" />
+				<f i="343-1.png" l="Arbeit und Energie" />
+				<f i="343-2.png" l="Energiefluss beim Elektromotor" />
+				<f i="344-1.png" l="Energieumwandlung beim Elektromotor" />
+				<f i="345-1.png" l="Energieumwandlung beim Ottomotor" />
+				<f i="345-2.png" l="Energieumwandlung bei hydraulischen Kraftmaschinen" />
+				<f i="345-3.png" l="Energieumwandlung beim Druckluft-Schrauber" />
+				<f i="346-1.png" l="Die Arbeitsmaschine als technisches System" />
+				<f i="346-2.png" l="Stoffbilanz an einer Werkzeugmaschine" />
+				<f i="347-1.png" l="Krananlagen einer Fertigungshalle" />
+				<f i="347-2.png" l="Transportsystem für Werkstücke" />
+				<f i="347-3.png" l="Pumpen- bzw. Verdichterbauarten" />
+				<f i="348-1.png" l="Extruder zum Urformen von Kunststoffen" />
+				<f i="348-2.png" l="Schmiedepresse zum Umformen von Schmiedeteilen" />
+				<f i="348-3.png" l="Drehmaschine zum Spanen" />
+				<f i="348-4.png" l="Wärmebehandlungs-Durchlaufofen zum Härten" />
+				<f i="349-1.png" l="Die Datenverarbeitungsanlage als technisches System" />
+				<f i="349-2.png" l="Aufbau von Datenverarbeitungsanlagen aus Komponenten" />
+				<f i="349-3.png" l="Datenverarbeitungsgeräte im Betrieb" />
+			</n>
+			<n l="2 Funktionseinheiten von Maschinen und Geräten">
+				<f i="350-1.png" l="Untergliederung einer Bohrmaschine in Baueinheiten mit Teilfunktionen" />
+				<f i="351-T1.png" l="Grundfunktionen bei Maschinen und dazu verwendete Bauelemente (Beispiele" />
+				<f i="352-1_auf.swf" l="CNC-Schrägbett-Drehmaschine und ihre Funktionseinheiten" />
+				<f i="352-1.png" l="CNC-Schrägbett-Drehmaschine und ihre Funktionseinheiten" />
+				<f i="352-2.png" l="Antriebseinheit (Elektromotor) für die Hauptspindel und Motoren-Steuereinheit" />
+				<f i="352-3.png" l="Energieübertragungseinheiten" />
+				<f i="353-1.png" l="Arbeitseinheit einer Drehmaschine" />
+				<f i="353-2.png" l="Stütz- und Trageinheit einer CNC-Schrägbett-Drehmaschine" />
+				<f i="353-3.png" l="Verbindungseinheiten einer Drehmaschine" />
+				<f i="353-4.png" l="Funktionseinheiten Regeln und Steuern, Umweltschutz, Entsorgung und Arbeitssicherheit" />
+				<f i="354-1.png" l="Klimazentrale einer Fertigungshalle mit den einzelnen Funktionseinheiten" />
+				<f i="355-1.png" l="Vollkapselung einer CNC-Drehmaschine" />
+				<f i="355-2.png" l="Bedienfeld einer Pressensteuerung" />
+				<f i="355-3.png" l="Sicherheitseinrichtungen an Pressen" />
+				<f i="356-1.png" l="Grenztaster am Verfahrweg der X-Achse" />
+				<f i="356-2.png" l="Sicherheitskupplung" />
+				<f i="356-3.png" l="Monitorbild beim Schutzzonen-Setzen" />
+				<f i="356-4.png" l="Schaltschrank einer Werkzeugmaschine" />
+			</n>
+			<n l="3 Funktionseinheiten zum Verbinden">
+				<n l="1 Gewinde">
+					<f i="357-1_auf.swf" l="Schraubenlinie" />
+					<f i="357-1.png" l="Schraubenlinie" />
+					<f i="357-2_auf.swf" l="Bezeichnungen am Gewinde" />
+					<f i="357-2.png" l="Bezeichnungen am Gewinde" />
+					<f i="357-3.png" l="Befestigungs- und Bewegungsgewinde" />
+					<f i="357-4.png" l="Nicht selbsthemmendes Gewinde" />
+					<f i="357-5.png" l="Selbsthemmendes Gewinde" />
+					<f i="358-1_auf.swf" l="Metrisches ISO-Gewinde" />
+					<f i="358-1.png" l="Metrisches ISO-Gewinde" />
+					<f i="358-2.png" l="Rohrgewinde (zylindrisch)" />
+					<f i="358-3_auf.swf" l="Trapezgewinde" />
+					<f i="358-3.png" l="Trapezgewinde" />
+					<f i="358-4_auf.swf" l="Sägengewinde" />
+					<f i="358-4.png" l="Sägengewinde" />
+					<f i="358-5.png" l="Ein- und zweigängiges Gewinde" />
+				</n>
+				<n l="2 Schraubenverbindungen">
+					<f i="359-1_auf.swf" l="Schraubenverbindungen" />
+					<f i="359-1.png" l="Schraubenverbindungen" />
+					<f i="359-2_auf.swf" l="Bezeichnungen an einer Sechskantschraube" />
+					<f i="359-2.png" l="Bezeichnungen an einer Sechskantschraube" />
+					<f i="359-3_auf.swf" l="Kopfformen von Schrauben" />
+					<f i="359-3.png" l="Kopfformen von Schrauben" />
+					<f i="360-1.png" l="Stiftschraube" />
+					<f i="360-2.png" l="Dehnschraube" />
+					<f i="360-3.png" l="Passschraube" />
+					<f i="360-4_auf.swf" l="Gewindestifte" />
+					<f i="360-4.png" l="Gewindestifte" />
+					<f i="360-5_auf.swf" l="Blech- und Bohrschraube" />
+					<f i="360-5.png" l="Blech- und Bohrschraube" />
+					<f i="360-6_auf.swf" l="Fließbohrschraube" />
+					<f i="360-6.png" l="Fließbohrschraube" />
+					<f i="361-1.png" l="Kraftverteilung auf die Gewindegänge" />
+					<f i="361-2.png" l="Gewindeeinsätze" />
+					<f i="361-T1_auf.swf" l="Muttern" />
+					<f i="361-T1.png" l="Muttern" />
+					<f i="362-1.png" l="Kennzeichnung der Festigkeitsklassen bei Schrauben und Muttern" />
+					<f i="362-T1.png" l="Zuordnung der Festigkeitsklassen von Schrauben zum Werkstoff der Fügeteile" />
+					<f i="362-T2.png" l="Festigkeitsklassen von Muttern" />
+					<f i="363-1_auf.swf" l="Setzsicherungen" />
+					<f i="363-1.png" l="Setzsicherungen" />
+					<f i="363-2.png" l="Losdrehsicherungen" />
+					<f i="363-3_auf.swf" l="Verliersicherungen" />
+					<f i="363-3.png" l="Verliersicherungen" />
+					<f i="364-1_auf.swf" l="Schraubenschlüssel" />
+					<f i="364-1.png" l="Schraubenschlüssel" />
+					<f i="364-2_auf.swf" l="Schraubendreher" />
+					<f i="364-2.png" l="Schraubendreher" />
+					<f i="364-3.png" l="Elektronischer Messschlüssel" />
+					<f i="364-4.png" l="Impulsschrauber" />
+					<f i="364-5.png" l="Ultraschallgesteuertes Anziehen" />
+					<f i="365-1.png" l="Anziehdrehmoment" />
+					<f i="365-2.png" l="Auswirkung der Vorspannkraft" />
+					<f i="365-T1.png" l="Vorspannkräfte und Anziehdrehmomente für Schaftschrauben" />
+					<f i="366-1.png" l="Kräfte an einer Schraube" />
+					<f i="366-2.png" l="Drehmomente an einer Schraubenverbindung" />
+					<f i="366-3.png" l="Schraubenverbindung mit auftretender Betriebskraft" />
+				</n>
+				<n l="3 Stiftverbindungen">
+					<f i="367-1.png" l="Passstifte" />
+					<f i="367-2.png" l="Zylinderstifte" />
+					<f i="367-3.png" l="Kegelstifte" />
+					<f i="367-4.png" l="Kerbstifte" />
+					<f i="368-1.png" l="Montierter Zylinderstift" />
+					<f i="368-2.png" l="Gefährdete Stiftquerschnitte" />
+					<f i="368-T1.png" l="Zulässige Flächenpressung bei schwellender Belastung (Erfahrungswerte)" />
+				</n>
+				<n l="4 Nietverbindungen">
+					<f i="369-1.png" l="Airbus mit vernieteter Außenkontur" />
+					<f i="369-2_auf.swf" l="Nietarten" />
+					<f i="369-2.png" l="Nietarten" />
+					<f i="369-3_auf.swf" l="Hammernieten" />
+					<f i="369-3.png" l="Hammernieten" />
+					<f i="369-4.png" l="Taumelnieten" />
+					<f i="370-1_auf.swf" l="Blindnieten" />
+					<f i="370-1.png" l="Blindnieten" />
+					<f i="370-2_auf.swf" l="Stanznieten mit Halbhohlniet" />
+					<f i="370-2.png" l="Stanznieten mit Halbhohlniet" />
+					<f i="370-3_auf.swf" l="Stanznieten mit Vollniet" />
+					<f i="370-3.png" l="Stanznieten mit Vollniet" />
+					<f i="370-4.png" l="Durchsetzfügen" />
+				</n>
+				<n l="5 Welle-Nabe-Verbindungen">
+					<f i="371-1.png" l="Passfeder-Verbindung" />
+					<f i="371-2_auf.swf" l="Formen von Passfedern" />
+					<f i="371-2.png" l="Formen von Passfedern" />
+					<f i="371-3.png" l="Keilwellen-Profile" />
+					<f i="371-4.png" l="Keilwellen-Verbindung" />
+					<f i="372-1.png" l="Zahnwellen-Verbindung" />
+					<f i="372-2.png" l="Polygon-Profile" />
+					<f i="372-3.png" l="Polygonwellen-Verbindung in einem Schaltgetriebe" />
+					<f i="372-4.png" l="Keilverbindung" />
+					<f i="372-5.png" l="Stirnzahn-Verbindung" />
+					<f i="373-1.png" l="Kreiskeil-Verbindung" />
+					<f i="373-2.png" l="Ringfeder-Spannverbindungen" />
+					<f i="373-3.png" l="Druckhülse" />
+					<f i="373-4.png" l="Sternscheiben-Verbindung" />
+					<f i="373-5.png" l="Spannbuchse" />
+					<f i="374-1_auf.swf" l="Formschlüssige Wellensicherungen" />
+					<f i="374-1.png" l="Formschlüssige Wellensicherungen" />
+					<f i="374-2_auf.swf" l="Kraftschlüssige Wellensicherungen" />
+					<f i="374-2.png" l="Kraftschlüssige Wellensicherungen" />
+				</n>
+			</n>
+			<n l="4 Funktionseinheiten zum Stützen und Tragen">
+				<n l="1 Reibung und Schmierstoffe">
+					<f i="375-1.png" l="Werkzeugmaschinenspindel" />
+					<f i="375-2.png" l="Durch Schmierstoff getrennte Gleitflächen" />
+					<f i="375-3.png" l="Wirksame Kräfte" />
+					<f i="375-T1.png" l="Reibungszahlen" />
+					<f i="376-1.png" l="Festkörperreibung" />
+					<f i="376-2.png" l="Mischreibung" />
+					<f i="376-3.png" l="Flüssigkeitsreibung" />
+					<f i="376-4.png" l="Gleitreibung" />
+					<f i="376-5.png" l="Rollreibung" />
+					<f i="376-6.png" l="Wälzreibung" />
+					<f i="377-1.png" l="Abhängigkeit der Viskosität von der Temperatur" />
+					<f i="377-2.png" l="Schmierspalt mit Festschmierstoff" />
+					<f i="377-3.png" l="Unterschiedliche Schmierstoffarten an einer Drehmaschine (Erläuterung weiterer Kurzzeichen siehe Tabelllenbuch)" />
+					<f i="377-T1.png" l="Festschmierstoffe" />
+				</n>
+				<n l="2 Lager">
+					<f i="378-1_auf.swf" l="Gleitlager und Wälzlager" />
+					<f i="378-1.png" l="Gleitlager und Wälzlager" />
+					<f i="378-2_auf.swf" l="Radiallager und Axiallager" />
+					<f i="378-2.png" l="Radiallager und Axiallager" />
+					<f i="378-3_auf.swf" l="Druckverteilung im Schmierkeil" />
+					<f i="378-3.png" l="Druckverteilung im Schmierkeil" />
+					<f i="378-4_auf.swf" l="Hydrodynamisches Mehrflächengleitlager" />
+					<f i="378-4.png" l="Hydrodynamisches Mehrflächengleitlager" />
+					<f i="378-5.png" l="Axialgleitlager mit Kippsegmenten" />
+					<f i="379-1.png" l="Hydrostatisches Radiallager" />
+					<f i="379-2.png" l="Hydrostatisches Axiallager" />
+					<f i="379-3.png" l="Automatischer Schmierstoffgeber" />
+					<f i="379-4.png" l="Wartungsfreies Sinterlager" />
+					<f i="379-5.png" l="Aufbau eines wartungsfreien Gleitlagers" />
+					<f i="380-1.png" l="Mehrschichtgleitlager" />
+					<f i="380-2.png" l="Projizierte Fläche" />
+					<f i="380-T1.png" l="Zulässige Flächenpressung" />
+					<f i="381-1_auf.swf" l="Bezeichnungen am Wälzlager" />
+					<f i="381-1.png" l="Bezeichnungen am Wälzlager" />
+					<f i="381-2_auf.swf" l="Wälzkörper" />
+					<f i="381-2.png" l="Wälzkörper" />
+					<f i="381-3.png" l="Erwärmung von Wälz lagern" />
+					<f i="381-T1.png" l="Vergleich von Werkstoffeigenschaften" />
+					<f i="382-1_auf.swf" l="Wälzlagerarten" />
+					<f i="382-1.png" l="Wälzlagerarten" />
+					<f i="382-2_auf.swf" l="Fest- und Loslager" />
+					<f i="382-2.png" l="Fest- und Loslager" />
+					<f i="382-3.png" l="Gegenseitige Führung" />
+					<f i="382-4.png" l="Schwimmende Lagerung" />
+					<f i="383-1.png" l="Umlaufverhältnisse" />
+					<f i="383-2.png" l="Radial- und Axialluft" />
+					<f i="383-3.png" l="Lagerung mit Vorspannung" />
+					<f i="383-4.png" l="Montage mit Presshülsen" />
+					<f i="383-5.png" l="Montage mit hydraulischer Presse" />
+					<f i="384-1.png" l="Spann- und Abziehhülse" />
+					<f i="384-2.png" l="Hydraulikverfahren" />
+					<f i="384-3.png" l="Ausbau eines Wälzlagers" />
+					<f i="384-4.png" l="Ölbadschmierung" />
+					<f i="384-5.png" l="Ölumlaufschmierung" />
+					<f i="385-1.png" l="Lagerung einer Pumpenwelle" />
+					<f i="386-1.png" l="Radial-Magnetlager" />
+					<f i="386-2.png" l="Regelkreis eines Magnetlagers" />
+					<f i="386-3.png" l="Axial-Magnetlager" />
+					<f i="386-4.png" l="Magnetgelagerte Werkzeugspindel" />
+				</n>
+				<n l="3 Führungen">
+					<f i="387-1_auf.swf" l="Schienenführung" />
+					<f i="387-1.png" l="Schienenführung" />
+					<f i="387-2_auf.swf" l="Flachführung" />
+					<f i="387-2.png" l="Flachführung" />
+					<f i="387-3_auf.swf" l="Kombinierte V-Flach-Führung" />
+					<f i="387-3.png" l="Kombinierte V-Flach-Führung" />
+					<f i="387-4_auf.swf" l="Schwalbenschwanzführung" />
+					<f i="387-4.png" l="Schwalbenschwanzführung" />
+					<f i="387-5.png" l="Rundführung bei einer Radialbohrmaschine" />
+					<f i="388-1_auf.swf" l="Montierte Wälzführung" />
+					<f i="388-1.png" l="Montierte Wälzführung" />
+					<f i="388-2.png" l="Wälzkörper-Rückführung" />
+					<f i="388-3.png" l="Verdrehfeste Kugelführung" />
+					<f i="388-4.png" l="Wälzführung mit Laufrollen" />
+					<f i="389-1.png" l="Kunststoffbeschichtete Schlittenführung" />
+					<f i="389-2.png" l="Prinzip der hydrostatischen Führung" />
+					<f i="389-3.png" l="Hydrostatische Schlittenführung" />
+				</n>
+				<n l="4 Dichtungen">
+					<f i="390-1.png" l="Abdichtung der Kolbenstange eines Hydraulikzylinders" />
+					<f i="390-2.png" l="Flachdichtung" />
+					<f i="390-3.png" l="Flüssige Dichtung" />
+					<f i="390-4_auf.swf" l="Kolbendichtung" />
+					<f i="390-4.png" l="Kolbendichtung" />
+					<f i="390-5_auf.swf" l="Stopfbuchse mit Dachmanschetten" />
+					<f i="390-5.png" l="Stopfbuchse mit Dachmanschetten" />
+					<f i="390-T1_auf.swf" l="Dichtungsarten" />
+					<f i="390-T1.png" l="Dichtungsarten" />
+					<f i="391-1_auf.swf" l="Nutring und Abstreifer" />
+					<f i="391-1.png" l="Nutring und Abstreifer" />
+					<f i="391-2_auf.swf" l="Radial-Wellendichtring" />
+					<f i="391-2.png" l="Radial-Wellendichtring" />
+					<f i="391-3_auf.swf" l="Gleitringdichtung" />
+					<f i="391-3.png" l="Gleitringdichtung" />
+					<f i="391-4.png" l="Axiale Labyrinthdichtung zur Abdichtung eines Pendelkugellagers" />
+					<f i="391-5.png" l="Radiale Labyrinthdichtung zur Abdichtung eines Rillenkugellagers" />
+				</n>
+				<n l="5 Federn">
+					<f i="392-1.png" l="Luftfeder in einer Textilbearbeitungsmaschine" />
+					<f i="392-2_auf.swf" l="Kennlinienverlauf von Federn" />
+					<f i="392-2.png" l="Kennlinienverlauf von Federn" />
+					<f i="392-3_auf.swf" l="Federhärte und Federkennlinie" />
+					<f i="392-3.png" l="Federhärte und Federkennlinie" />
+					<f i="392-4.png" l="Schraubenfedern" />
+					<f i="393-1.png" l="Schraubendrehfeder" />
+					<f i="393-2.png" l="Drehstabfeder" />
+					<f i="393-3.png" l="Tellerfedern" />
+					<f i="393-4.png" l="Schraubentellerfeder" />
+					<f i="393-5.png" l="Ringfedern" />
+					<f i="393-6.png" l="Gummifedern" />
+				</n>
+			</n>
+			<n l="5 Funktionseinheiten zur Energieübertragung">
+				<n l="1 Wellen und Achsen">
+					<f i="394-1.png" l="Beanspruchung einer Welle" />
+					<f i="394-2.png" l="Durchmesserübergänge an Wellen" />
+					<f i="394-3.png" l="Kreissägewelle" />
+					<f i="394-4.png" l="Getriebewelle" />
+					<f i="395-1.png" l="Arbeitsspindel einer Drehmaschine" />
+					<f i="395-2.png" l="Feststehende Achse eines Kranlaufrades" />
+					<f i="395-3.png" l="Gelenk mit Gelenkbolzen" />
+					<f i="395-4.png" l="Umlaufende Achse eines Schienenfahrzeuges" />
+				</n>
+				<n l="2 Kupplungen">
+					<f i="396-1_auf.swf" l="Einsatz von Kupplungen" />
+					<f i="396-1.png" l="Einsatz von Kupplungen" />
+					<f i="396-2_auf.swf" l="Bauarten von Kupplungen" />
+					<f i="396-2.png" l="Bauarten von Kupplungen" />
+					<f i="396-3.png" l="Scheibenkupplung" />
+					<f i="396-4.png" l="Schalenkupplung mit Kegelhülse" />
+					<f i="397-1.png" l="Bogenzahnkupplung" />
+					<f i="397-2.png" l="Topfgelenk" />
+					<f i="397-3.png" l="Kreuzgelenk an einer Gelenkwelle" />
+					<f i="397-4.png" l="Elastische Kupplungen" />
+					<f i="398-1.png" l="Antriebseinheit mit Metallbalgkupplung" />
+					<f i="398-2.png" l="Metallbalgkupplung mit Spannringnabe" />
+					<f i="398-3.png" l="Metallbalgkupplung mit Spreizkonus und Klemmnabe" />
+					<f i="398-4.png" l="Klauenkupplung" />
+					<f i="399-1.png" l="Einscheibenkupplung" />
+					<f i="399-2_auf.swf" l="Lamellenkupplungen" />
+					<f i="399-2.png" l="Lamellenkupplungen" />
+					<f i="399-3.png" l="Brechbolzenkupplung" />
+					<f i="400-1.png" l="Rutschkupplung" />
+					<f i="400-2.png" l="Durchrastkupplung" />
+					<f i="400-3.png" l="Schaltverhalten einer Durchrastkupplung" />
+					<f i="400-4.png" l="Freilaufkupplung" />
+				</n>
+				<n l="3 Riementriebe">
+					<f i="401-1_auf.swf" l="Möglichkeiten zum Spannen von Riemen" />
+					<f i="401-1.png" l="Möglichkeiten zum Spannen von Riemen" />
+					<f i="401-2.png" l="Antrieb mit einem Flachriemen" />
+					<f i="402-1.png" l="Kräfte bei Keilriemen und Flachriemen" />
+					<f i="402-2_auf.swf" l="Zahnformen" />
+					<f i="402-2.png" l="Zahnformen" />
+					<f i="402-3.png" l="Doppelzahnriemen in einem Fotokopiergerät" />
+					<f i="402-T1_auf.swf" l="Bauarten von Keilriemen" />
+					<f i="402-T1.png" l="Bauarten von Keilriemen" />
+				</n>
+				<n l="4 Kettentriebe">
+					<f i="403-1.png" l="Kettenantrieb einer Stahlprofilieranlage" />
+					<f i="403-2_auf.swf" l="Glieder- und Gelenkkette" />
+					<f i="403-2.png" l="Glieder- und Gelenkkette" />
+					<f i="403-3_auf.swf" l="Aufbau einer Rollenkette" />
+					<f i="403-3.png" l="Aufbau einer Rollenkette" />
+					<f i="403-4.png" l="Mehrfachrollenketten" />
+					<f i="404-1.png" l="Bauformen von Gelenkketten" />
+					<f i="404-2.png" l="Kettenräder" />
+					<f i="404-3.png" l="Triebanordnung" />
+				</n>
+				<n l="5 Zahnradtriebe">
+					<f i="405-1.png" l="Zahnräder in einem Getriebe" />
+					<f i="405-2.png" l="Aufgaben der Zahnräder" />
+					<f i="405-3_auf.swf" l="Zahnradabmessungen" />
+					<f i="405-3.png" l="Zahnradabmessungen" />
+					<f i="406-1.png" l="Entstehung einer Evolvente" />
+					<f i="406-2.png" l="Zahnstange mit Nullrad" />
+					<f i="406-3.png" l="Unterschneidung und Profilverschiebung" />
+					<f i="406-T1_auf.swf" l="Grundformen der Zahnradgetriebe" />
+					<f i="406-T1.png" l="Grundformen der Zahnradgetriebe" />
+					<f i="406-T2_auf.swf" l="Verzahnungsarten bei Stirnrädern" />
+					<f i="406-T2.png" l="Verzahnungsarten bei Stirnrädern" />
+					<f i="407-1_auf.swf" l="Bogenverzahnte Kegelräder" />
+					<f i="407-1.png" l="Bogenverzahnte Kegelräder" />
+					<f i="407-2.png" l="Wälzfräsen von schrägverzahnten Stirnrädern" />
+					<f i="407-3.png" l="Wälzstoßen von Stirnrädern" />
+				</n>
+			</n>
+			<n l="6 Antriebseinheiten">
+				<n l="1 Elektromotoren">
+					<f i="408-1.png" l="Motor für den Vorschubantrieb einer Werkzeugmaschine" />
+					<f i="408-2.png" l="Wirkungen auf einen stromdurchflossenen Leiter im Feld eines Dauermagneten" />
+					<f i="408-T1.png" l="Bauarten von Elektromotoren" />
+					<f i="409-1.png" l="Aufbau eines Drehstrommotors" />
+					<f i="409-2.png" l="Entstehung eines zweipoligen elektromagnetischen Drehfeldes" />
+					<f i="409-3.png" l="Leistungsschild eines Drehstrommotors" />
+					<f i="409-T1.png" l="Kenndaten eines Elektromotors" />
+					<f i="410-1_auf.swf" l="Kurzschlussläufermotor" />
+					<f i="410-1.png" l="Kurzschlussläufermotor" />
+					<f i="410-2_auf.swf" l="Betriebsverhalten von Asynchronmotoren" />
+					<f i="410-2.png" l="Betriebsverhalten von Asynchronmotoren" />
+					<f i="410-3.png" l="Stern-Dreieck-Schalter der Motorwicklungen" />
+					<f i="411-1.png" l="Prinzip des Gleichstrommotors" />
+					<f i="411-2.png" l="Fremderregter Gleichstrommotor" />
+					<f i="411-3.png" l="Handbohrmaschine mit Universalmotor" />
+					<f i="412-1.png" l="Hauptspindel- und Vorschubantriebe" />
+					<f i="412-2.png" l="Direktantrieb einer Frässpindel" />
+					<f i="412-3.png" l="Kennlinien von Hauptspindel- und Vorschubantrieben" />
+					<f i="413-1.png" l="Drehstrom-Servomotoren" />
+					<f i="413-2.png" l="Funktionsweise eines Schrittmotors" />
+					<f i="413-T1.png" l="Anforderungen an die Antriebe" />
+					<f i="414-1.png" l="Frequenzumrichter" />
+					<f i="414-2.png" l="Aufbau eines Linearmotor-Antriebs" />
+				</n>
+				<n l="2 Getriebe">
+					<f i="415-1_auf.swf" l="Schneckengetriebe" />
+					<f i="415-1.png" l="Schneckengetriebe" />
+					<f i="415-2_auf.swf" l="Einstufiges Zahnradgetriebe" />
+					<f i="415-2.png" l="Einstufiges Zahnradgetriebe" />
+					<f i="416-1.png" l="Einstufiges Zahnrädergetriebe" />
+					<f i="416-2.png" l="Getriebe als Blockschaltbild" />
+					<f i="416-3.png" l="Fahrantrieb eines Kranes" />
+					<f i="417-1.png" l="Schieberäder-Getriebe" />
+					<f i="417-2.png" l="Kupplungs-Getriebe" />
+					<f i="417-3.png" l="Spindelantrieb einer Drehmaschine" />
+					<f i="418-1.png" l="Getriebemotor" />
+					<f i="418-2_auf.swf" l="Bezeichnungen und Drehbewegungen bei Planetengetrieben" />
+					<f i="418-2.png" l="Bezeichnungen und Drehbewegungen bei Planetengetrieben" />
+					<f i="418-3.png" l="Planetengetriebe" />
+					<f i="419-1_auf.swf" l="Harmonic-Drive-Getriebe" />
+					<f i="419-1.png" l="Harmonic-Drive-Getriebe" />
+					<f i="419-2.png" l="Drehbewegung bei einem Harmonic-Drive-Getriebe" />
+					<f i="419-3_auf.swf" l="Reibrad-Getriebe" />
+					<f i="419-3.png" l="Reibrad-Getriebe" />
+					<f i="419-4.png" l="Zugmittel kraftschlüssiger Getriebe" />
+					<f i="420-1.png" l="Breitkeilriemen-Getriebe" />
+					<f i="420-2.png" l="Schieberäder-Getriebe" />
+					<f i="420-3.png" l="Hauptspindel-Antrieb" />
+					<f i="420-4.png" l="Kennlinie des Hauptspindel-Antriebes" />
+				</n>
+				<n l="3 Linearantriebe">
+					<f i="421-1.png" l="Handhabungsgerät an einer Spritzgieß maschine" />
+					<f i="421-2_auf.swf" l="Konstruktiver Aufbau des Förderbandes" />
+					<f i="421-2.png" l="Konstruktiver Aufbau des Förderbandes" />
+					<f i="421-3.png" l="Förderband" />
+					<f i="422-1.png" l="Kugelgewindetrieb" />
+					<f i="422-2_auf.swf" l="Antrieb der Z-Achse einer NC-Fräsmaschine" />
+					<f i="422-2.png" l="Antrieb der Z-Achse einer NC-Fräsmaschine" />
+				</n>
+			</n>
+			<n l="7 Practice your English">
+				<f i="423-1.png" l="Untergliederung der konventionellen Drehmaschine in Funktionseinheiten" />
+				<f i="423-1-E.png" l="Individual functional units of a conventional lathe" />
+			</n>
+		</n>
+		<n l="6 Elektrotechnik">
+			<n l="1 Der elektrische Stromkreis">
+				<f i="424-1.png" l="Elektrischer Stromkreis" />
+				<f i="424-2.png" l="Spannung und Strom" />
+				<f i="424-3.png" l="Gleich- und Wechselspannung" />
+				<f i="424-T1.png" l="Spannungsquellen" />
+				<f i="425-1.png" l="Messen von Spannung und Strom" />
+				<f i="425-T1_auf.swf" l="Stromstärken verschiedener Verbraucher" />
+				<f i="425-T1.png" l="Stromstärken verschiedener Verbraucher" />
+				<f i="425-T2_auf.swf" l="Wirkungen des elektrischen Stromes" />
+				<f i="425-T2.png" l="Wirkungen des elektrischen Stromes" />
+				<f i="426-1.png" l="Stromkreise mit kleinem und großem Widerstand" />
+				<f i="426-2.png" l="Ohm’sches Gesetz als Diagramm" />
+				<f i="426-T1.png" l="Spezifischer elektrischer Widerstand ρ" />
+				<f i="426-T2.png" l="Temperaturkoeffizient alpha" />
+			</n>
+			<n l="2 Schaltung von Widerständen">
+				<f i="427-1.png" l="Stromkreis mit in Reihe geschalteten Widerständen" />
+				<f i="427-2.png" l="Reihenschaltung von zwei Widerständen" />
+				<f i="428-1.png" l="Stromkreis mit Parallelschaltung von zwei Widerständen" />
+			</n>
+			<n l="3 Stromarten">
+				<f i="429-1.png" l="Zeitlicher Verlauf der Stromstärke bei verschiedenen Stromarten" />
+				<f i="429-2.png" l="Anschluss einer Lampe über eine Schukosteckdose an das Wechselstromnetz" />
+				<f i="429-3_auf.swf" l="Generator für Dreiphasen-Wechselstrom mit Fünfleiternetz" />
+				<f i="429-3.png" l="Generator für Dreiphasen-Wechselstrom mit Fünfleiternetz" />
+			</n>
+			<n l="4 Elektrische Leistung und elektrische Arbeit">
+				<f i="430-1.png" l="Leistungsschild eines Gleichstrommotors" />
+				<f i="430-2.png" l="Leistung bei Gleichstrom im Stromkreis mit ohmschen Verbraucher" />
+				<f i="430-3.png" l="Leistung bei Drehstrom im Stromkreis mit drei ohmschen Verbrauchern" />
+				<f i="430-4.png" l="Leistung bei Wechselstrom mit ohmschen und induktivem Verbraucher" />
+				<f i="430-5.png" l="Leistung bei Drehstrom mit ohmschen und induktivem Verbraucher" />
+			</n>
+			<n l="5 Überstrom-Schutzeinrichtungen">
+				<f i="431-1.png" l="Schmelzeinsatz einer Schraubsicherung" />
+				<f i="431-2.png" l="Leitungsschutzschalter (geöffnet)" />
+				<f i="431-3.png" l="Motorschutzschalter eines Drehstrommotors" />
+			</n>
+			<n l="6 Fehler an elektrischen Anlagen">
+				<f i="432-1_auf.swf" l="Kurzschluss, Erdschluss, Leiterschluss, Körperschluss" />
+				<f i="432-1.png" l="Kurzschluss, Erdschluss, Leiterschluss, Körperschluss" />
+				<f i="432-2_auf.swf" l="Berührungsspannung" />
+				<f i="432-2.png" l="Berührungsspannung" />
+				<f i="432-3.png" l="Fehlerstromkreis" />
+				<f i="432-T1.png" l="Sicherheitsregeln bei Anlagen oder Maschinen, die unter Spannung stehen" />
+			</n>
+			<n l="7 Schutzmaßnahmen bei elektrischen Maschinen">
+				<f i="433-1.png" l="Schutzleiter PE des Leitungsnetzes" />
+				<f i="433-2.png" l="Schutzkontaktstecker und Schutzleiter im Gerät" />
+				<f i="433-3.png" l="Schutztrennung mit Transformator" />
+				<f i="433-T1.png" l="Symbole für Schutzmaßnahmen" />
+				<f i="434-1.png" l="FI-Schutzschalter" />
+				<f i="434-T1.png" l="IP-Schutzarten elektrischer Betriebsmittel" />
+				<f i="434-T2_auf.swf" l="Bildzeichen für IP-Schutzarten" />
+				<f i="434-T2.png" l="Bildzeichen für IP-Schutzarten" />
+			</n>
+			<n l="8 Hinweise für den Umgang mit Elektrogeräten">
+				<f i="435-1.png" l="Prüf- und Schutzzeichen für Elektrogeräte" />
+				<f i="435-2.png" l="Industrie-Steckverbindungen" />
+				<f i="435-3.png" l="Elektrischer Anschluss eines Motors" />
+			</n>
+			<n l="9 Practice your English">
+				<f i="436-1.png" l="Elektrischer Stromkreis" />
+				<f i="436-1-E.png" l="Electrical Circuit" />
+				<f i="436-2.png" l="Schaltplan eines Magnetventils" />
+				<f i="436-2-E.png" l="Circuit of a magnetic valve" />
+				<f i="436-3.png" l="VDE-Prüfzeichen" />
+				<f i="436-3-E.png" l="VDE-test mark" />
+			</n>
+		</n>
+		<n l="7 Montage, Inbetriebnahme, Instandhaltung">
+			<n l="1 Montagetechnik">
+				<f i="438-1.png" l="Montagegerechte Konstruktion" />
+				<f i="438-2.png" l="Montageplanung" />
+				<f i="438-3.png" l="Baugruppe Exzenterpressen-Stößel" />
+				<f i="438-4.png" l="Endmontierte Exzenterpresse" />
+				<f i="439-1.png" l="Unverzweigter Montageablauf" />
+				<f i="439-2.png" l="Verzweigter Montageablauf" />
+				<f i="439-3.png" l="Taktstraßenmontage" />
+				<f i="439-4.png" l="Periodische Gruppenmontage" />
+				<f i="439-5.png" l="Stationäre Montage einer Spindelschlagpresse" />
+				<f i="440-1_auf.swf" l="Druckluftzylinder – Gesamtzeichnung und Stückliste" />
+				<f i="440-1.png" l="Druckluftzylinder – Gesamtzeichnung und Stückliste" />
+				<f i="441-1.png" l="Baugruppe A" />
+				<f i="441-2.png" l="Baugruppe B" />
+				<f i="441-3.png" l="Baugruppe C" />
+				<f i="442-1_auf.swf" l="Kegelradgetriebe – Gesamtzeichnung und Stückliste" />
+				<f i="442-1.png" l="Kegelradgetriebe – Gesamtzeichnung und Stückliste" />
+				<f i="443-1.png" l="Baugruppe A" />
+				<f i="443-T1.png" l="Montageplan für Baugruppe A" />
+				<f i="444-1.png" l="Baugruppe B" />
+				<f i="445-1.png" l="Kegelradgetriebe (Schnitt)" />
+			</n>
+			<n l="2 Inbetriebnahme">
+				<f i="446-1.png" l="Schrittweiser Entwicklungsablauf einer Fertigungsanlage" />
+				<f i="447-1.png" l="Transport einer Fräsmaschine" />
+				<f i="447-2.png" l="Aufstellplan einer Fräsmaschine" />
+				<f i="447-3.png" l="Ausrichten einer Drehmaschine" />
+				<f i="448-1.png" l="Funktionsplan der Inbetriebnahme von Maschinen und Anlagen" />
+				<f i="448-2.png" l="Elektrische Baugruppe" />
+				<f i="448-3.png" l="Elektropneumatische Baugruppe" />
+				<f i="449-1.png" l="Hydraulische Baugruppe einer Anlage" />
+				<f i="449-2.png" l="Mechanische Baugruppe (Sicherheitskupplung)" />
+				<f i="449-3.png" l="Monitorbild eines Fehlerdiagnosesystems" />
+				<f i="450-1.png" l="Maschinenkarte (Vorderseite)" />
+			</n>
+			<n l="3 Instandhaltung">
+				<f i="451-1_auf.swf" l="Überblick über die Teilbereiche der Instandhaltung" />
+				<f i="451-1.png" l="Überblick über die Teilbereiche der Instandhaltung" />
+				<f i="452-1.png" l="Verschleißkurve allgemein" />
+				<f i="452-2.png" l="Verschleißkurve einer Wendeschneidplatte" />
+				<f i="452-3.png" l="Abbau des Abnutzungsvorrats" />
+				<f i="452-4.png" l="Abnutzungsvorrat durch Instandsetzung oder Verbesserung" />
+				<f i="453-T1_auf.swf" l="Instandhaltungskonzepte" />
+				<f i="453-T1.png" l="Instandhaltungskonzepte" />
+				<f i="454-1.png" l="Kontrolle des Einstellmaßes bei einem Werkzeughalter" />
+				<f i="454-2.png" l="Qualitätsregelkarte" />
+				<f i="454-3.png" l="Wendeschneidplatte mit Verschleiß- und Temperatursensoren" />
+				<f i="455-1.png" l="Bohrmaschine mit Werkzeugspanner" />
+				<f i="455-2.png" l="Antriebsmotor mit eingerissenem Keilriemen" />
+				<f i="455-3.png" l="Schrägbettmaschine" />
+				<f i="456-1.png" l="Abbau des Abnutzungsvorrats, ohne Wartung und mit Wartung" />
+				<f i="456-T1.png" l="Wartungsarbeiten" />
+				<f i="457-1.png" l="Wartungs- und Inspektionsplan eines Bearbeitungszentrums" />
+				<f i="457-T1.png" l="Wartungsarbeiten an einem Bearbeitungszentrum" />
+				<f i="458-T1.png" l="Schmierarbeiten und Schmierstoffe (für das Bearbeitungszentrum Seite 457)" />
+				<f i="458-T2.png" l="Wartungsliste einer Hydraulikanlage (Ausschnitt)" />
+				<f i="459-1.png" l="Erstinspektionsprotokoll an einer Senkrecht-Bohrmaschine" />
+				<f i="459-2.png" l="Inspektionsintervalle während der Lebensdauer eines technischen Systems" />
+				<f i="459-3.png" l="Beispiel für die Erstellung eines Inspektionsplans und deren Umsetzung" />
+				<f i="460-1.png" l="Ausrüstung zur Schwingungsanalyse mit Softwareanzeige im Display" />
+				<f i="460-2.png" l="Vergleich von Frequenzverläufen bei Lagern" />
+				<f i="460-3.png" l="Ermüdungsschaden der Außenringlauffläche eines Kegelrollenlagers" />
+				<f i="460-T1_auf.swf" l="Einfache Inspektionsmöglichkeiten" />
+				<f i="460-T1.png" l="Einfache Inspektionsmöglichkeiten" />
+				<f i="461-1.png" l="Verschleißmechanismen der Tribologie" />
+				<f i="461-2.png" l="EDV-Verwaltung von Inspektionsdaten" />
+				<f i="461-3.png" l="Maßnahmen bei der Instandsetzung" />
+				<f i="461-4.png" l="Ablaufschema einer Instandsetzung" />
+				<f i="462-1.png" l="Anordnungszeichnung zum Abbau des Gehäuses" />
+				<f i="462-2.png" l="Austausch des Zahnriemens am Handneigungsgelenk des Gelenkroboters" />
+				<f i="462-3.png" l="Einstellung der Riemenspannung" />
+				<f i="462-T1_auf.swf" l="Durchbiegung" />
+				<f i="462-T1.png" l="Durchbiegung" />
+				<f i="463-1.png" l="Datenerfassungsfenster einer Störungsliste" />
+				<f i="463-2.png" l="Stillstandszeiten der Baugruppen des Bearbeitungszentrums" />
+				<f i="463-3.png" l="Stillstandszeiten der Bauelemente des Palettenwechslers" />
+				<f i="463-T1.png" l="Baugruppenliste eines CNC-Bearbeitungszentrums mit zusätzlicher Werkstückhandhabung" />
+				<f i="464-1.png" l="Ablaufschema einer Fehlersuche" />
+				<f i="464-2.png" l="Hydraulikplan zum Spannsystem" />
+			</n>
+			<n l="4 Korrosion und Korrosionsschutz">
+				<f i="465-1.png" l="Durch Korrosion zerstörtes Bauteil" />
+				<f i="465-2.png" l="Rost auf blankem Stahl" />
+				<f i="465-3.png" l="Vorgänge bei elektrochemischer Sauerstoffkorrosion" />
+				<f i="465-4_auf.swf" l="Galvanisches Element" />
+				<f i="465-4.png" l="Galvanisches Element" />
+				<f i="466-1.png" l="Spannungsreihe der Metalle" />
+				<f i="466-2.png" l="Korrosionselemente" />
+				<f i="466-3.png" l="Verzunderte Schmiedestücke" />
+				<f i="467-1.png" l="Gleichmäßige Flächenkorrosion" />
+				<f i="467-2.png" l="Mulden- und Lochkorrosion" />
+				<f i="467-3.png" l="Kontaktkorrosion" />
+				<f i="467-4.png" l="Spaltkorrosion" />
+				<f i="467-5.png" l="Belüftungskorrosion" />
+				<f i="467-6.png" l="Selektive Korrosion" />
+				<f i="467-7.png" l="Spannungsrisskorrosion" />
+				<f i="468-1.png" l="Korrosionsschutzgerechte Gestaltung" />
+				<f i="468-T1_auf.swf" l="Korrosionsverhalten der metallischen Stoffe" />
+				<f i="468-T1.png" l="Korrosionsverhalten der metallischen Stoffe" />
+				<f i="469-1.png" l="Klarlack-geschützte Werkzeuge und Bauteile" />
+				<f i="469-2.png" l="Mit Korrosionsschutzöl geschützte Säulenführung" />
+				<f i="469-3.png" l="Phosphatierter Werkzeugrevolver" />
+				<f i="470-1.png" l="Beschichtete Blechverkleidung" />
+				<f i="470-2.png" l="Vollverzinkter Pkw-Karosserierahmen aus Stahl" />
+				<f i="470-3.png" l="Korrosionsschutz mit Fremdstromanoden" />
+				<f i="470-4.png" l="Anodisch oxidierte Aluminiumfelge" />
+			</n>
+			<n l="5 Schadensanalyse und Schadensvermeidung">
+				<f i="471-1.png" l="Gebrochene Getriebewelle" />
+				<f i="471-2.png" l="Schema der Schadensanalyse" />
+				<f i="471-3.png" l="Mögliche Schadensursachen" />
+				<f i="472-T1_auf.swf" l="Schadensfälle und mögliche Ursachen" />
+				<f i="472-T1.png" l="Schadensfälle und mögliche Ursachen" />
+			</n>
+			<n l="6 Beanspruchung und Festigkeit der Bauelemente">
+				<f i="473-T1_auf.swf" l="Beanspruchungsarten" />
+				<f i="473-T1.png" l="Beanspruchungsarten" />
+				<f i="474-1_auf.swf" l="Belastungsarten" />
+				<f i="474-1.png" l="Belastungsarten" />
+				<f i="474-2.png" l="Kraftlinienverlauf im gekerbten Zugstab" />
+				<f i="474-3.png" l="Spannungsverlauf im Zugstab bei unterschiedlicher Kerbenform" />
+				<f i="474-4.png" l="Kraftlinienverlauf bei Entlastungskerben" />
+			</n>
+			<n l="7 Practice your English">
+				<f i="475-1.png" l="Entstehung von Verschmutzungen in einem Hydrauliksystem" />
+				<f i="475-1-E.png" l="Formation of contamination in hydraulic systems" />
+				<f i="475-2.png" l="Passungsspiel an Hydropumpen" />
+				<f i="475-2-E.png" l="Fit clearance of hydro pumps" />
+				<f i="475-3.png" l="Festlegung der Ölreinheitsklasse" />
+				<f i="475-3-E.png" l="Determination of the level of contamination" />
+				<f i="475-4.png" l="Empfohlene Reinheitsklassen" />
+				<f i="475-4-E.png" l="Recommended purity levels" />
+			</n>
+		</n>
+		<n l="8 Automatisierungstechnik">
+			<n l="1 Steuern und Regeln">
+				<f i="477-1_auf.swf" l="Beispiel einer Steuerung" />
+				<f i="477-1.png" l="Beispiel einer Steuerung" />
+				<f i="477-2.png" l="Hydraulische Spanneinrichtung" />
+				<f i="478-1.png" l="Verknüpfungssteuerung" />
+				<f i="478-2.png" l="Zeitabhängige Ablaufsteuerung" />
+				<f i="478-3.png" l="Prozessabhängige Ablaufsteuerung" />
+				<f i="478-4.png" l="Verbindungs- und speicherprogrammierte Steuerungen" />
+				<f i="479-1.png" l="Drehzahlregelung beim Drehen" />
+				<f i="479-2_auf.swf" l="Blockschaltbild eines Regelkreises" />
+				<f i="479-2.png" l="Blockschaltbild eines Regelkreises" />
+				<f i="479-3_auf.swf" l="Lageregelkreis eines Vorschubantriebes" />
+				<f i="479-3.png" l="Lageregelkreis eines Vorschubantriebes" />
+				<f i="480-1.png" l="Unstetiger Regler einer Ofenheizung" />
+				<f i="480-2_auf.swf" l="Regelverhalten eines Zweipunktreglers" />
+				<f i="480-2.png" l="Regelverhalten eines Zweipunktreglers" />
+				<f i="480-3.png" l="Stetiger Regler" />
+				<f i="480-4.png" l="P-Verhalten" />
+				<f i="481-1.png" l="I-Verhalten" />
+				<f i="481-2.png" l="I-Regler" />
+				<f i="481-3.png" l="D-Verhalten" />
+				<f i="481-4.png" l="PID-Verhalten" />
+				<f i="482-1.png" l="Proportional-Wegeventil mit PID-Regler" />
+				<f i="482-2.png" l="Drehzahlregelung eines Hydromotors" />
+				<f i="482-T1.png" l="Bildzeichen der Steuerungs- und Regelungstechnik" />
+			</n>
+			<n l="2 Grundlagen und Grundelemente von Steuerungen">
+				<f i="483-1.png" l="Steuerung einer Sortiereinrichtung" />
+				<f i="483-2_auf.swf" l="Baugruppen von Steuerungen" />
+				<f i="483-2.png" l="Baugruppen von Steuerungen" />
+				<f i="484-1.png" l="Analoges Signal" />
+				<f i="484-2.png" l="Digitales Signal" />
+				<f i="484-3.png" l="Binäres Signal" />
+				<f i="484-T1.png" l="Aufbau einer Steuerung (EVA-Prinzip)" />
+				<f i="484-T2.png" l="Bauelemente der Signalverarbeitung einer Steuerung" />
+				<f i="485-1.png" l="0–1-Signal am Eingang einer SPS" />
+				<f i="485-2.png" l="Signaldarstellungen" />
+				<f i="485-3.png" l="Signalgeber in der Steuerungstechnik" />
+				<f i="485-4.png" l="Pneumatische Ventile als Tast- und Stellschalter" />
+				<f i="485-5.png" l="Korrekte Betätigung eines Grenztasters" />
+				<f i="486-1.png" l="Pneumatische UND-Verknüpfung von drei Eingangssignalen" />
+				<f i="486-2.png" l="Vereinfachte Zweihandbedienung" />
+				<f i="486-T1_auf.swf" l="UND-Verknüpfung" />
+				<f i="486-T1.png" l="UND-Verknüpfung" />
+				<f i="487-1_auf.swf" l="UND-Verknüpfung von 3 Eingangssignalen" />
+				<f i="487-1.png" l="UND-Verknüpfung von 3 Eingangssignalen" />
+				<f i="487-2_auf.swf" l="ODER-Verknüpfung von 3 Eingangssignalen" />
+				<f i="487-2.png" l="ODER-Verknüpfung von 3 Eingangssignalen" />
+				<f i="487-T1_auf.swf" l="ODER-Verknüpfung" />
+				<f i="487-T1.png" l="ODER-Verknüpfung" />
+				<f i="488-1.png" l="NICHT-Funktion bei der Überwachung einer elektrischen Leitung" />
+				<f i="488-2_auf.swf" l="Logikplan und Wertetabelle für die Steuerung der Sortierweiche" />
+				<f i="488-2.png" l="Logikplan und Wertetabelle für die Steuerung der Sortierweiche" />
+				<f i="488-T1_auf.swf" l="NICHT-Verknüpfung" />
+				<f i="488-T1.png" l="NICHT-Verknüpfung" />
+			</n>
+			<n l="3 Pneumatische Steuerungen">
+				<n l="1 Baugruppen pneumatischer Anlagen">
+					<f i="489-1_auf.swf" l="Bildliche Darstellung und Schaltplan einer Pneumatikanlage" />
+					<f i="489-1.png" l="Bildliche Darstellung und Schaltplan einer Pneumatikanlage" />
+				</n>
+				<n l="2 Bauelemente der Pneumatik">
+					<f i="490-1.png" l="Entstehung des Druckes" />
+					<f i="490-2_auf.swf" l="Absoluter Druck und Überdruck" />
+					<f i="490-2.png" l="Absoluter Druck und Überdruck" />
+					<f i="490-3.png" l="Drücke bei einer pneumatischen Presse" />
+					<f i="490-4_auf.swf" l="Bauarten von Verdichtern" />
+					<f i="490-4.png" l="Bauarten von Verdichtern" />
+					<f i="491-1_auf.swf" l="Druckluftverteilung" />
+					<f i="491-1.png" l="Druckluftverteilung" />
+					<f i="491-2_auf.swf" l="Aufbereitungseinheit" />
+					<f i="491-2.png" l="Aufbereitungseinheit" />
+					<f i="491-3_auf.swf" l="Einfachwirkender Zylinder" />
+					<f i="491-3.png" l="Einfachwirkender Zylinder" />
+					<f i="491-4_auf.swf" l="Doppeltwirkender Zylinder mit beidseitiger einstellbarer Endlagendämpfung" />
+					<f i="491-4.png" l="Doppeltwirkender Zylinder mit beidseitiger einstellbarer Endlagendämpfung" />
+					<f i="492-1.png" l="Platzbedarf von Zylindern" />
+					<f i="492-2.png" l="Bauarten kolbenstangenloser Zylinder" />
+					<f i="492-3_auf.swf" l="Kolbenkräfte bei Zylindern" />
+					<f i="492-3.png" l="Kolbenkräfte bei Zylindern" />
+					<f i="492-4.png" l="Kolbenkräfte beim Ausfahren und Einfahren" />
+					<f i="493-1_auf.swf" l="Druckluft-Lamellenmotor" />
+					<f i="493-1.png" l="Druckluft-Lamellenmotor" />
+					<f i="493-2.png" l="Automatische Montage- und Bearbeitungsmaschine" />
+					<f i="494-1.png" l="Darstellung von Wegeventilen" />
+					<f i="494-2_auf.swf" l="Schaltzeichen von Wegeventilen" />
+					<f i="494-2.png" l="Schaltzeichen von Wegeventilen" />
+					<f i="494-3_auf.swf" l="Betätigungsarten von Ventilen" />
+					<f i="494-3.png" l="Betätigungsarten von Ventilen" />
+					<f i="495-1.png" l="Direkte Steuerung eines Druckluftmotors" />
+					<f i="495-2.png" l="Indirekte Steuerung eines Druckluftzylinders" />
+					<f i="495-3.png" l="Rückschlagventil" />
+					<f i="495-4.png" l="Wechselventil" />
+					<f i="495-5_auf.swf" l="Steuerung einer Schiebetür von zwei Stellen aus" />
+					<f i="495-5.png" l="Steuerung einer Schiebetür von zwei Stellen aus" />
+					<f i="496-1.png" l="Schnellentlüftungsventil" />
+					<f i="496-2.png" l="Zweidruckventil" />
+					<f i="496-3.png" l="UND-Verknüpfung" />
+					<f i="496-4.png" l="Drosselventile" />
+					<f i="496-5.png" l="Drosselrückschlagventil" />
+					<f i="496-6.png" l="Pneumatischer Greifer mit Drosseln" />
+					<f i="497-1.png" l="Zeitverzögerungsventil" />
+					<f i="497-2.png" l="Zeitabhängige Steuerung" />
+					<f i="497-3.png" l="Zeitdiagramm der Einschaltverzögerung" />
+					<f i="497-4.png" l="Zeitdiagramm der Ausschaltverzögerung" />
+					<f i="498-1.png" l="Druckbegrenzungsventil" />
+					<f i="498-2_ani.swf" l="Druckregelventil" />
+					<f i="498-2.png" l="Druckregelventil" />
+				</n>
+				<n l="3 Schaltpläne pneumatischer Steuerungen">
+					<f i="499-1_auf.swf" l="Aufbau pneumatischer Schaltpläne am Beispiel einer Hubeinrichtung" />
+					<f i="499-1.png" l="Aufbau pneumatischer Schaltpläne am Beispiel einer Hubeinrichtung" />
+					<f i="499-2.png" l="Kennzeichnungsschlüssel" />
+					<f i="499-T1.png" l="Kennbuchstaben der Bauteile" />
+					<f i="499-T2.png" l="Beispiele für die Bezeichnung von Bauteilen in Schaltplänen" />
+				</n>
+				<n l="4 Systematischer Schaltplanentwurf">
+					<f i="500-T1.png" l="Steuerungsarten" />
+					<f i="500-1.png" l="Schwenktüre mit Zylinderantrieb" />
+					<f i="500-2.png" l="Funktionsplan (Logikplan)" />
+					<f i="500-3.png" l="Pneumatischer Schaltplan — Türöffnung und Schließung" />
+					<f i="501-1.png" l="Beispiel eines GRAFCET" />
+					<f i="501-2.png" l="Elemente eines GRAFCET" />
+					<f i="501-3.png" l="Beispiele zum Strukturteil" />
+					<f i="502-1.png" l="Darstellung von Aktionen" />
+					<f i="502-2.png" l="Beispiele für kontinuierlich wirkende Aktionen" />
+					<f i="502-3.png" l="Beispiele für speichernd wirkende Aktionen" />
+					<f i="503-1_auf.swf" l="Technologieschema der Hubeinrichtung" />
+					<f i="503-1.png" l="Technologieschema der Hubeinrichtung" />
+					<f i="503-2.png" l="GRAFCET der Hubeinrichtung" />
+					<f i="503-3.png" l="Pneumatik-Schaltplan der Hubeinrichtung" />
+					<f i="503-4.png" l="Logikplan" />
+				</n>
+				<n l="5 Beispiele pneumatischer Steuerungen">
+					<f i="504-1.png" l="Aufpressen von Sinterbuchsen" />
+					<f i="504-T1.png" l="Ausfahren" />
+					<f i="504-T2.png" l="Einfahren" />
+					<f i="504-2.png" l="Pneumatischer Druckschalter" />
+					<f i="504-3.png" l="Pneumatische Lösung mit Druckschalter" />
+					<f i="504-4.png" l="Pneumatische Lösung mit Zeitfunktion" />
+					<f i="505-1.png" l="Technologieschema der Förderanlage" />
+					<f i="505-2.png" l="GRAFCET für den Ablauf an der Förderanlage" />
+					<f i="505-3.png" l="Pneumatischer Schaltplan der Förderanlage" />
+					<f i="506-1.png" l="Technologieschema für Portallader einer Reinigungsanlage" />
+					<f i="506-2.png" l="Steuerung mit Wegeventilen mit Rollenhebel" />
+					<f i="506-3.png" l="GRAFCET für die Reinigungsanlage" />
+					<f i="506-4.png" l="Kaskadensteuerung der Reinigungsanlage" />
+				</n>
+				<n l="6 Vakuumtechnik">
+					<f i="507-1.png" l="Sauggreifer bei Blechteilehandling" />
+					<f i="507-T1.png" l="Symbole aus der Vakuumtechnik" />
+					<f i="507-2.png" l="Vakuum als Relativwert pe" />
+					<f i="507-3.png" l="Funktionsprinzip eines Ejektors" />
+					<f i="507-4.png" l="Anpressung durch Atmosphärendruck" />
+					<f i="508-1.png" l="Formen von Saugnäpfen" />
+					<f i="508-T1.png" l="Saugerformen" />
+					<f i="508-2.png" l="Haltekraft am Sauger" />
+					<f i="508-3.png" l="Vakuumschaltkreis mit Vakuumdruckschalter" />
+				</n>
+			</n>
+			<n l="4 Elektropneumatische Steuerungen">
+				<n l="1 Bauelemente elektrischer Kontaktsteuerungen">
+					<f i="509-1.png" l="Direkte Schaltung in der Elektropneumatik" />
+					<f i="509-2.png" l="Elektrische Taster (Schließer/Öffner)" />
+					<f i="509-3.png" l="Signalelemente und Sensoren" />
+					<f i="509-T1_auf.swf" l="Elektrische Schaltzeichen" />
+					<f i="509-T1.png" l="Elektrische Schaltzeichen" />
+					<f i="510-1.png" l="Grundsätzliche Aufgaben von Relais" />
+					<f i="510-2.png" l="Relais mit Schließer- und Öffnerhilfskontakten" />
+					<f i="510-3.png" l="Anschlussbezeichnung an Relais" />
+					<f i="511-1.png" l="Zeitrelais mit unterschiedlichen Zeitfunktionen" />
+					<f i="511-2.png" l="Einschalt- und ausschaltverzögertes Zeitrelais" />
+					<f i="511-3.png" l="Elektromagnetische Betätigung von 3/2-WV" />
+					<f i="511-4.png" l="5/2-Magnetimpulsventil mit Vorsteuerung" />
+				</n>
+				<n l="2 Signalelemente – Sensoren">
+					<f i="512-1.png" l="Umwandlung physikalischer Größen durch einen Sensor" />
+					<f i="512-2.png" l="Sensoren" />
+					<f i="512-3.png" l="Passiver Sensor" />
+					<f i="512-4.png" l="Aktiver Sensor (Thermoelement)" />
+					<f i="513-1.png" l="Linearpotenziometer" />
+					<f i="513-2.png" l="Drehpotenziometer" />
+					<f i="513-3.png" l="Induktiver Wegsensor" />
+					<f i="513-4.png" l="Kapazitiver Wegsensor" />
+					<f i="514-1.png" l="Sensor in Dreidrahtausführung" />
+					<f i="514-2.png" l="Schaltdifferenz" />
+					<f i="514-3.png" l="Aufbau eines induktiven Sensors" />
+					<f i="514-4.png" l="Einsatz induktiver Sensoren" />
+					<f i="514-T1.png" l="Symboldarstellung berührungsloser binärer Näherungsschalter" />
+					<f i="515-1.png" l="Bauformen kapazitiver Sensoren" />
+					<f i="515-2.png" l="Einsatz kapazitiver Sensoren" />
+					<f i="515-3.png" l="Reed-Sensoren an einem Pneumatikzylinder" />
+					<f i="515-4.png" l="Optoelektronische Sensoren" />
+					<f i="516-1.png" l="Tastbetrieb" />
+					<f i="516-2.png" l="Einweg-Schranke" />
+					<f i="516-3.png" l="Inkrementale Wegmessung" />
+					<f i="516-4.png" l="Winkelmesssensoren" />
+				</n>
+				<n l="3 Verdrahtung mit Klemmenleiste">
+					<f i="517-1.png" l="Prinzipieller Schaltschrankaufbau" />
+					<f i="517-2.png" l="Einzelklemme Nr. 12 auf Hutschiene" />
+					<f i="517-3.png" l="Steuerungsbeispiel E-Pneumatik" />
+					<f i="517-4.png" l="Klemmenbelegungsliste" />
+				</n>
+				<n l="4 Beispiele für elektropneumatische Steuerungen">
+					<f i="518-1.png" l="Technologieschema der Klebevorrichtung" />
+					<f i="518-2.png" l="GRAFCET und Pneumatikplan für die Klebevorrichtung" />
+					<f i="518-3.png" l="Stromlaufplan der Klebevorrichtung" />
+					<f i="519-1.png" l="Klemmenbelegungsliste der Klebevorrichtung" />
+					<f i="519-T1.png" l="Signal-Zeit-Diagramme von pneumatischen und elektropneumatischen Zeitfunktionen" />
+					<f i="520-1.png" l="Selbsthalteschaltung mit Relais K1" />
+					<f i="520-2.png" l="Selbsthaltung bei Verwendung eines monostabilen Stellelementes" />
+					<f i="520-T1.png" l="Selbsthaltung, dominierend löschend" />
+					<f i="521-1.png" l="Einzelschritt N in einer Taktkette" />
+					<f i="521-2.png" l="Pneumatikplan des Portalladers" />
+					<f i="521-3.png" l="Frühschließer und Spätöffner" />
+					<f i="521-4.png" l="Elektrischer Stromlaufplan für Portallader der Reinigungsanlage" />
+					<f i="522-1.png" l="NOT-AUS-Abschaltung" />
+					<f i="522-2.png" l="NOT-AUS-Schaltung" />
+					<f i="522-3.png" l="Abschaltung der Druckenergie" />
+					<f i="522-4.png" l="Einzel- und Dauerzyklus" />
+				</n>
+				<n l="5 Ventilinseln">
+					<f i="523-1.png" l="Ventilinsel – Ventilscheibe" />
+					<f i="523-2.png" l="Ventilscheibe für 5/3-Wegeventil – Mittenstellung geschlossen" />
+					<f i="523-3.png" l="Pneumatikanschlüsse an Ventilinseln" />
+					<f i="523-4.png" l="Elektrische Anschlüsse an Ventilinseln" />
+				</n>
+			</n>
+			<n l="5 Hydraulische Steuerungen">
+				<f i="524-1.png" l="Einsatz hydraulischer Antriebe in der Industrie- und Mobilhydraulik" />
+				<f i="524-2_auf.swf" l="Prinzipaufbau einer hydraulischen gesteuerten Anlage mit Schaltplan" />
+				<f i="524-2.png" l="Prinzipaufbau einer hydraulischen gesteuerten Anlage mit Schaltplan" />
+				<n l="1 Energieversorgung und Druckmittelaufbereitung">
+					<f i="525-1.png" l="Ölbehälter mit Hydraulikaggregat" />
+					<f i="525-2.png" l="Druck- und Temperaturabhängigkeit der Viskosität" />
+					<f i="525-T1.png" l="Hydraulikflüssigkeiten" />
+					<f i="526-1_auf.swf" l="Zahnradpumpen" />
+					<f i="526-1.png" l="Zahnradpumpen" />
+					<f i="526-2_auf.swf" l="Flügelzellenpumpe als Konstantpumpe" />
+					<f i="526-2.png" l="Flügelzellenpumpe als Konstantpumpe" />
+					<f i="526-3.png" l="Axialkolbenpumpe als Verstellpumpe, Schrägachsenbauart" />
+					<f i="526-4.png" l="Radialkolbenpumpe als Verstellpumpe" />
+				</n>
+				<n l="2 Arbeitselemente und Hydrospeicher">
+					<f i="527-1_auf.swf" l="Doppeltwirkender Hydrozylinder" />
+					<f i="527-1.png" l="Doppeltwirkender Hydrozylinder" />
+					<f i="527-2.png" l="Kraftübersetzung bei einer hydraulischen Presse" />
+					<f i="527-3.png" l="Kolbengeschwindigkeit beim Ausfahren und Einfahren eines Hydrozylinders" />
+					<f i="527-4.png" l="Durchflussgeschwindigkeit in Rohren" />
+					<f i="528-1.png" l="Plungerzylinder" />
+					<f i="528-2.png" l="Teleskopzylinder" />
+					<f i="528-3.png" l="Befestigungsmöglichkeiten von Hydrozylindern mit Einbaubeispielen" />
+					<f i="528-T1.png" l="Schaltzeichen der Hydrozylinder" />
+					<f i="529-1.png" l="Zahnring – Hydromotor" />
+					<f i="529-2.png" l="Kennlinie eines Zahnradmotors" />
+					<f i="529-3_auf.swf" l="Hydromechanischer Tischantrieb" />
+					<f i="529-3.png" l="Hydromechanischer Tischantrieb" />
+					<f i="530-1.png" l="Speicherkomponenten" />
+					<f i="530-2_auf.swf" l="Hydrospeicher" />
+					<f i="530-2.png" l="Hydrospeicher" />
+					<f i="530-3.png" l="Pulsation des Pumpenvolumenstroms" />
+					<f i="530-4.png" l="Steuerung mit Hydraulikspeicher" />
+				</n>
+				<n l="3 Hydraulikventile">
+					<f i="531-1.png" l="Sitz- und Längsschieberprinzip" />
+					<f i="531-2.png" l="Schaltüberdeckungen" />
+					<f i="531-3.png" l="Zylinderbewegung bei negativer Überdeckung des Kolbenschiebers" />
+					<f i="531-4.png" l="Elektromagnetisch betätigtes 4/2-Wegeventil" />
+					<f i="531-5.png" l="Hydraulisch vorgesteuertes Wegeventil" />
+					<f i="532-1.png" l="Druckbegrenzungsventil (regelnd)" />
+					<f i="532-2.png" l="Druckminderventil (regelnd)" />
+					<f i="532-3.png" l="Vorgesteuertes Druckventil" />
+					<f i="532-4_auf.swf" l="Druckventile in der Steuerung einer hydraulischen Biegevorrichtung" />
+					<f i="532-4.png" l="Druckventile in der Steuerung einer hydraulischen Biegevorrichtung" />
+					<f i="532-5.png" l="Zuschaltventil oder Folgeventil" />
+					<f i="533-1.png" l="Übersicht Sperrventile" />
+					<f i="533-2.png" l="Einsatzmöglichkeiten von Sperrventilen in hydraulischen Schaltplänen" />
+					<f i="533-3.png" l="Entsperrbares Rückschlagventil" />
+					<f i="533-4.png" l="Stromventile – Drossel-/Blendenform" />
+					<f i="534-1.png" l="Einstellbares Drosselventil" />
+					<f i="534-2.png" l="Verhalten von Drosselventilen" />
+					<f i="534-3.png" l="Prinzip 2-Wege-Stromregelventil" />
+					<f i="534-4.png" l="2-Wege-Stromregelventil mit vorgeschalteter Druckwaage" />
+					<f i="534-5.png" l="Verhalten von Stromregelventilen" />
+				</n>
+				<n l="4 Proportionalhydraulik">
+					<f i="535-1.png" l="Signalverlauf der Proportionalhydraulik" />
+					<f i="535-2.png" l="Elektronische Verstärkerkarte" />
+					<f i="535-3.png" l="Proportionalmagnet" />
+					<f i="535-4.png" l="Arbeitsweise der Proportionalmagnete" />
+					<f i="536-1.png" l="Proportionalventilarten" />
+					<f i="536-2.png" l="Proportional-Wegeventil" />
+					<f i="536-3.png" l="Proportional-Druckventil" />
+					<f i="536-4.png" l="Proportional-Stromventil" />
+				</n>
+				<n l="5 Hydraulikleitungen und Zubehör">
+					<f i="537-1.png" l="Strömungsarten" />
+					<f i="537-T1.png" l="Richtwerte Strömungsgeschwindigkeiten" />
+					<f i="537-2_auf.swf" l="Schneidringverschraubung" />
+					<f i="537-2.png" l="Schneidringverschraubung" />
+					<f i="537-3_auf.swf" l="Rohrleitungsverschraubungen" />
+					<f i="537-3.png" l="Rohrleitungsverschraubungen" />
+					<f i="537-4.png" l="Schwenkverschraubung" />
+					<f i="537-T2.png" l="Hydraulikrohre" />
+					<f i="538-1.png" l="Drehverbindung" />
+					<f i="538-2.png" l="Hydraulikschläuche und Armaturen" />
+					<f i="538-3_auf.swf" l="Verlegung von Schlauchleitungen" />
+					<f i="538-3.png" l="Verlegung von Schlauchleitungen" />
+					<f i="538-4.png" l="Schnellverschlusskupplung, betätigt" />
+				</n>
+				<n l="6 Beispiele für hydraulische Schaltungen">
+					<f i="539-1.png" l="Hydraulischer Hebe- und Absetzbehälter" />
+					<f i="539-2.png" l="Hydraulischer Schaltplan – Absetzbehälter" />
+					<f i="539-3.png" l="Bohreinheit und Weg-Zeit-Diagramm" />
+					<f i="540-1.png" l="Steuerungen der Bohreinheit mit Stromregelventil und mit Proportional-Wegeventil" />
+					<f i="540-2.png" l="Stromlaufplan zur Steuerung der Bohreinheit mit Stromregelventil" />
+					<f i="541-1.png" l="Hydraulische Presse" />
+					<f i="541-2.png" l="Druckübersetzer" />
+					<f i="541-3.png" l="Rundschalttisch" />
+					<f i="541-4.png" l="Steuerung mit Hydrospeicher" />
+				</n>
+			</n>
+			<n l="6 Speicherprogrammierbare Steuerungen">
+				<n l="1 Speicherprogrammierbare Steuerung als Kleinsteuerung (Logikmodul)">
+					<f i="542-1.png" l="Hydraulischer Spannstock" />
+					<f i="542-2.png" l="Verbindungsprogrammierte Steuerung" />
+					<f i="542-3.png" l="Speicherprogrammierbare Steuerung" />
+					<f i="542-4.png" l="Kleinsteuerung im Schaltschrank" />
+					<f i="543-1.png" l="Verdrahtung der Ein- und Ausgänge an einer Kleinsteuerung" />
+					<f i="543-2.png" l="Spannstocksteuerung in der PC-Simulation" />
+					<f i="543-3.png" l="Kontaktplan einer Kleinsteuerung" />
+					<f i="543-4.png" l="Technologieschema für eine Durchgangstüre" />
+					<f i="544-1.png" l="Pneumatikplan" />
+					<f i="544-2.png" l="Anschlussplan (Stromlaufplan)" />
+					<f i="544-3.png" l="Schaltplanlösung in FBS-Sprache/Funktionsplan" />
+					<f i="544-T1.png" l="Zuordnungsliste" />
+				</n>
+				<n l="2 Speicherprogrammierbare Steuerung als modulares Automatisierungssystem">
+					<f i="545-1_auf.swf" l="Modulares SPS-System" />
+					<f i="545-1.png" l="Modulares SPS-System" />
+					<f i="545-2.png" l="Eingabebaugruppe mit Optokoppler" />
+					<f i="545-3.png" l="Leistungsmerkmale verschiedener CPUs" />
+					<f i="545-4.png" l="Zyklische Programmbearbeitung für CPUs" />
+					<f i="545-5.png" l="Bildung der Prozessabbilder PAA/PAE" />
+					<f i="546-1.png" l="Zyklische Programmbearbeitung" />
+					<f i="546-2.png" l="Aufbau einer Steueranweisung" />
+					<f i="546-3.png" l="Byteadressen der Hardwarekonfiguration" />
+					<f i="546-4.png" l="Übersicht der Programmiersprachen" />
+					<f i="546-5.png" l="Beispiel für die Programmiersprachen" />
+					<f i="547-1.png" l="Verdrahtung einer SPS" />
+					<f i="547-2.png" l="Pneumatikplan für einen Schieber" />
+					<f i="547-3.png" l="Symboltabelle als Zuordnungsliste" />
+					<f i="547-T1.png" l="Elementare logische Grundoperationen und ihre Umsetzung in SPS-Sprachen" />
+					<f i="548-1.png" l="Verdrahtung des pneumatischen Schiebers" />
+					<f i="548-2.png" l="Hardwarekonfiguration" />
+					<f i="548-3.png" l="SPS-Programm für Schieber" />
+					<f i="548-4.png" l="Einsatz von Öffnern in Schaltungen" />
+					<f i="548-5.png" l="Einsatz von Öffnern in der SPS-Technik" />
+					<f i="548-6.png" l="Einsatz von Schließern in der SPS-Technik" />
+					<f i="549-1.png" l="Selbsthaltung von Signalen" />
+					<f i="549-2.png" l="Verdrahtung der Selbsthaltung auf SPS" />
+					<f i="549-3.png" l="Bearbeitung von AWL-Befehlen" />
+					<f i="549-T1.png" l="Selbsthalteschaltungen (Rücksetzsignal E0.1 ist ein Öffner)" />
+					<f i="549-T2.png" l="Speicherfunktionen" />
+					<f i="550-1.png" l="Technologieschema der Prägepresse" />
+					<f i="550-2.png" l="Symboltabelle für die Prägepresse" />
+					<f i="550-3.png" l="FUP-Programm für die Prägepresse" />
+					<f i="550-4.png" l="SPS-Verdrahtung der Prägepresse" />
+					<f i="550-T1.png" l="Zeitfunktionen von modularen SPS-Systemen" />
+					<f i="551-1.png" l="Technologieschema einer Farbenmischanlage" />
+					<f i="551-2.png" l="GRAFCET für Automatikbetrieb der Farbenmischanlage" />
+					<f i="551-3.png" l="Symboltabelle für Rührwerk" />
+					<f i="552-1.png" l="Funktionenaufruf im OB1" />
+					<f i="552-2.png" l="Wahl der Betriebsart, Reset und Grundstellungsabfrage in der Funktion FC1" />
+					<f i="552-3.png" l="Initialisierungsschritt und 1. Schritt „Ventile öffnen“ in Funktion FC2" />
+					<f i="553-1.png" l="Ablaufschritte „Farben rühren“ und „Farbe ablassen“ in Funktion FC2" />
+					<f i="553-2.png" l="Befehlsausgabe in der Funktion FC3" />
+					<f i="553-3.png" l="Meldungen in Funktion FC4" />
+					<f i="553-4.png" l="Verdrahtung der Ein- und Ausgänge für die Farbenmischanlage" />
+				</n>
+			</n>
+			<n l="7 Handhabungstechnik in der Automation">
+				<f i="554-1.png" l="Bauteilmontage an Autotüren mittels Handhabungseinrichtung" />
+				<f i="554-2.png" l="Symboldarstellungen von Funktionen beim Handhaben" />
+				<f i="554-3.png" l="Handhabungsfunktionen beim Beladen und Entladen einer Drehmaschine" />
+				<f i="554-4.png" l="Freiheitsgrade eines Körpers" />
+				<f i="555-1_auf.swf" l="Einteilung von Handhabungssystemen nach der Steuerungsart" />
+				<f i="555-1.png" l="Einteilung von Handhabungssystemen nach der Steuerungsart" />
+				<f i="555-2.png" l="6-achsiger Knickarmroboter" />
+				<f i="556-1_auf.swf" l="Bauarten und Einsatzbereiche von Industrierobotern" />
+				<f i="556-1.png" l="Bauarten und Einsatzbereiche von Industrierobotern" />
+				<f i="557-1.png" l="Sensoren und ihre Funktion" />
+				<f i="557-2.png" l="Drehwinkelerfassung mit Resolver" />
+				<f i="557-3.png" l="Roboter-Programmierverfahren" />
+				<f i="558-1.png" l="Steuerungspanel zur Programmerstellung eines Roboters" />
+				<f i="558-2.png" l="Übersicht über Koordinatensysteme (KoSyst) an einem Knickarmroboter" />
+				<f i="558-3.png" l="Ermittlung des TCP in Bezug auf das Flanschkoordinatensystem" />
+				<f i="559-1.png" l="Programm mit Bewegungsbefehlen" />
+				<f i="559-2.png" l="PTP- und LIN-Bewegung" />
+				<f i="559-3.png" l="CIRC-Bewegung" />
+				<f i="559-4.png" l="Überschleifen bei PTP-Bewegung" />
+				<f i="559-5.png" l="Überschleifen bei LIN- und CIRC-Bewegungen" />
+				<f i="560-1.png" l="Roboterschnittstellen" />
+				<f i="560-2.png" l="Signalabhängige Wartefunktion" />
+				<f i="560-3.png" l="Vakuum-Haltegreifer beim Waferhandling" />
+				<f i="560-4.png" l="Programmfenster für die Greiferkonfiguration" />
+				<f i="560-5.png" l="Greiferbefehle in einem Programm" />
+				<f i="561-1.png" l="Sperrgitter und Strahlenschutz bei einer Roboterschweißzelle" />
+				<f i="561-2.png" l="Sicherung der Zugangsöffnung einer Roboterzelle mit einem Laserscanner" />
+				<f i="561-3.png" l="Möglichkeiten der Absicherung des Zugangsbereiches" />
+			</n>
+			<n l="8 Practice your English">
+				<f i="562-1.png" l="Performance Levels PLr" />
+				<f i="562-1-E.png" l="Performance Levels PL" />
+				<f i="562-2.png" l="Arbeiten an Stanzen und Pressen" />
+				<f i="562-2-E.png" l="Operating punches and presses" />
+				<f i="562-3.png" l="Schaltung eines Zweihand-Steuerblocks" />
+				<f i="562-3-E.png" l="Pneumatic plan of a two-hand control block" />
+			</n>
+		</n>
+		<n l="9 Automatisierte Fertigung">
+			<n l="1 CNC-Steuerungen">
+				<n l="1 Merkmale CNC-gesteuerter Maschinen">
+					<f i="564-1.png" l="Bedienfeld einer CNC-Steuerung" />
+					<f i="564-2.png" l="Baugruppen einer CNC-Fräsmaschine" />
+					<f i="564-T1.png" l="Arten numerischer Steuerungen" />
+					<f i="565-1.png" l="Spindelantrieb mit Drehzahlregelung" />
+					<f i="565-2.png" l="Vorschubantrieb mit Kugelgewindespindel" />
+					<f i="565-3.png" l="Lageregelkreis eines Vorschubantriebes" />
+					<f i="565-4.png" l="Häufige Wegmesssysteme" />
+					<f i="566-1_auf.swf" l="Direkte Wegmessung" />
+					<f i="566-1.png" l="Direkte Wegmessung" />
+					<f i="566-2_auf.swf" l="Indirekte Wegmessung" />
+					<f i="566-2.png" l="Indirekte Wegmessung" />
+					<f i="566-3_auf.swf" l="Inkrementale und absolute Wegmessung" />
+					<f i="566-3.png" l="Inkrementale und absolute Wegmessung" />
+					<f i="567-1.png" l="Möglichkeiten der Datenein- und Datenausgabe" />
+				</n>
+				<n l="2 Koordinaten, Null- und Bezugspunkte">
+					<f i="568-1.png" l="Koordinatensysteme bei Fräsmaschinen" />
+					<f i="568-2.png" l="Bewegung von Werkzeug und Werkstück" />
+					<f i="568-3.png" l="Verfahren des Schlittens in der Z-Richtung" />
+					<f i="568-4.png" l="Koordinaten bei Drehmaschinen" />
+					<f i="569-1_auf.swf" l="Null- und Bezugspunkte an der Drehmaschine" />
+					<f i="569-1.png" l="Null- und Bezugspunkte an der Drehmaschine" />
+					<f i="569-2_auf.swf" l="Null- und Bezugspunkte an der Fräsmaschine" />
+					<f i="569-2.png" l="Null- und Bezugspunkte an der Fräsmaschine" />
+					<f i="569-3.png" l="Günstige Lage des Werkstücknullpunktes" />
+				</n>
+				<n l="3 Steuerungsarten, Korrekturen">
+					<f i="570-1.png" l="Punktsteuerung" />
+					<f i="570-2.png" l="Streckensteuerung" />
+					<f i="570-3.png" l="Bahnsteuerungen" />
+					<f i="570-4.png" l="Interpolation" />
+					<f i="570-5_auf.swf" l="Ebenenauswahl für Senkrechtfräsmaschinen" />
+					<f i="570-5.png" l="Ebenenauswahl für Senkrechtfräsmaschinen" />
+					<f i="571-1.png" l="Externe Werkzeugvermessung" />
+					<f i="571-2.png" l="Bildschirmanzeige mit Softkeys" />
+					<f i="571-3.png" l="Werkzeugkorrekturmaße" />
+					<f i="571-4.png" l="Korrekturwerte eines Drehwerkzeuges" />
+					<f i="572-1.png" l="Verfahrbewegungen einer Drehmaschine" />
+					<f i="572-2.png" l="Bestimmung der Verfahrbewegungen" />
+					<f i="572-3.png" l="Bestimmung der Nullpunktverschiebung" />
+					<f i="572-4.png" l="Ermittlung von Korrekturwerten" />
+				</n>
+				<n l="4 Erstellen von CNC-Programmen">
+					<f i="573-1_auf.swf" l="Beispiel für den Satzaufbau" />
+					<f i="573-1.png" l="Beispiel für den Satzaufbau" />
+					<f i="573-T1.png" l="Beispiel für einen Programmaufbau" />
+					<f i="573-T2.png" l="G-Funktionen (Auswahl)" />
+					<f i="573-T3.png" l="M-Funktionen (Auswahl)" />
+					<f i="574-1.png" l="Absolutbemaßung einer Platte" />
+					<f i="574-2.png" l="Inkrementalbemaßung von Bohrungen" />
+					<f i="574-T1.png" l="Gespeichert wirkende G-Funktionen" />
+					<f i="575-1.png" l="Lochkreis mit Polarkoordinaten" />
+					<f i="575-2.png" l="Werkstückkontur mit Polarkoordinaten" />
+					<f i="575-3.png" l="Kreisinterpolation" />
+					<f i="575-4_auf.swf" l="Kreisinterpolation beim Drehen und Fräsen" />
+					<f i="575-4.png" l="Kreisinterpolation beim Drehen und Fräsen" />
+					<f i="576-1.png" l="Grundplatte" />
+					<f i="576-2.png" l="Schlichten eines Wellenzapfens" />
+					<f i="576-T1.png" l="Programmausschnitt für das Herstellen der Werkstückkontur (Bild 1)" />
+					<f i="576-T2.png" l="Programmausschnitt für das Schlichten des Wellenzapfens (Bild 2)" />
+					<f i="577-1.png" l="Lochkreis" />
+					<f i="577-2.png" l="Achsbolzen" />
+					<f i="577-3.png" l="Programmierung von Kreisbögen" />
+					<f i="577-4.png" l="Grundplatte" />
+					<f i="577-5.png" l="Wellenzapfen" />
+				</n>
+				<n l="5 Zyklen und Unterprogramme">
+					<f i="578-1.png" l="Bewegungsablauf beim Bohren" />
+					<f i="578-2.png" l="Zyklusdefinition und Aufruf nach PAL" />
+					<f i="578-3.png" l="Achsbolzen mit Einstichen" />
+					<f i="578-4.png" l="Schachtelung von Unterprogrammen" />
+				</n>
+				<n l="6 Programmieren von CNC-Drehmaschinen">
+					<f i="579-1.png" l="Schalten des Revolvers bei Aufruf von T04" />
+					<f i="579-2.png" l="Schutzzone und Rückzugzyklus" />
+					<f i="579-3.png" l="Korrekturmaße bei Drehwerkzeugen" />
+					<f i="579-4.png" l="Lage des Werkzeugschneidenpunktes" />
+					<f i="580-1.png" l="Konturabweichung ohne SRK" />
+					<f i="580-2.png" l="SRK in Abhängigkeit von der Vorschubrichtung" />
+					<f i="580-3.png" l="Anstellpunkte mit aktiver SRK" />
+					<f i="580-4.png" l="Längs- und Plandrehen mit aktiver SRK" />
+					<f i="581-1.png" l="Längs- und Plandrehzyklus (Abspanzyklus)" />
+					<f i="581-2.png" l="Eingabemaske für den Abspanzyklus" />
+					<f i="581-3.png" l="Programmbeispiel für einen Abspanzyklus" />
+					<f i="581-4.png" l="Gewindedrehzyklus" />
+					<f i="581-T1.png" l="Parameter für den Abspanzyklus" />
+					<f i="582-1.png" l="Eingabemaske für den Gewindedrehzyklus" />
+					<f i="582-2.png" l="Flankenzustellung beim Gewindedrehen" />
+					<f i="582-3.png" l="Gewindezyklen für den Achsbolzen" />
+					<f i="582-4.png" l="Achsbolzen" />
+					<f i="583-1.png" l="Einfügen einer Fase" />
+					<f i="583-2.png" l="Polarkoordinaten" />
+					<f i="583-3.png" l="Doppelte Winkelangabe und Einfügen von Radien" />
+					<f i="583-4.png" l="Achsbolzen" />
+					<f i="583-5.png" l="Drehen eines Einstichs" />
+					<f i="584-1.png" l="Schraubstutzen aus Automatenstahl" />
+					<f i="584-T1.png" l="Eingesetzte Werkzeuge" />
+					<f i="584-T2.png" l="Einrichteblatt (vereinfacht)" />
+					<f i="584-T3.png" l="Teileprogramm und Unterprogramm der Kontur für Schraubstutzen, Steuerung 840D" />
+					<f i="585-T1.png" l="Teileprogramm für Schraubstutzen nach PAL (Steuerung: Keller SYMplus Drehen)" />
+					<f i="586-1.png" l="Polarkoordinaten" />
+					<f i="586-2.png" l="Ansätze mit Übergangsradius" />
+					<f i="586-3.png" l="Gewindebolzen aus Automatenstahl" />
+				</n>
+				<n l="7 Programmieren von CNC-Fräsmaschinen">
+					<f i="587-1.png" l="Werkzeuglängen- und Radiuskorrektur" />
+					<f i="587-2.png" l="Anfahren von Bezugsflächen mit dem Kantentaster" />
+					<f i="587-3.png" l="Bestimmung des Werkstücknullpunktes in der Z-Achse" />
+					<f i="587-4.png" l="Werkstücknullpunkt in X- und Z-Richtung" />
+					<f i="588-1.png" l="Werkzeugbahnkorrektur" />
+					<f i="588-2.png" l="Verfahrbewegung nach Aktivieren der Werkzeugbahnkorrektur" />
+					<f i="588-3.png" l="Aufmaß durch Werkzeugkorrektur" />
+					<f i="588-4.png" l="Tangentiales Anfahren einer Innenkontur mit einem Viertelkreis" />
+					<f i="589-1.png" l="Fräszyklus Rechtecktasche und Zyklusaufruf an einem Punkt" />
+					<f i="589-2.png" l="Bohrzyklus und Zyklusaufruf an mehreren Punkten auf einem Teilkreis" />
+					<f i="590-1.png" l="Grundplatte aus C15E" />
+					<f i="590-T1.png" l="Einrichteblatt (vereinfacht)" />
+					<f i="590-T2.png" l="Eingesetzte Werkzeuge" />
+					<f i="590-T3.png" l="Teileprogramm für Grundplatte nach PAL (Steuerung: Keller SYMplus Fräsen)" />
+					<f i="591-T1.png" l="Teileprogramm für Grundplatte (Steuerung: Heidenhain iTNC 530)" />
+				</n>
+				<n l="8 Programmierverfahren">
+					<f i="593-1.png" l="Simulationsgrafik" />
+					<f i="593-2.png" l="Erzeugen der Geometrie mit Konturelementen" />
+					<f i="593-3.png" l="Bildschirm-Eingabemaske" />
+					<f i="594-1.png" l="Eingabefenster für Gewindefreistich" />
+					<f i="594-2.png" l="Belegung des Werkzeugträgers" />
+					<f i="594-3.png" l="Grafisch-dynamische Simulation" />
+					<f i="594-4.png" l="Abdeckplatte aus C15E" />
+				</n>
+				<n l="9 5-Achs-Bearbeitung nach PAL">
+					<f i="595-1.png" l="CNC-Drehmaschine mit angetriebenen Werkzeugen" />
+					<f i="595-2.png" l="Lagerzapfen" />
+					<f i="596-T1.png" l="Technologiedaten der Werkzeuge" />
+					<f i="596-T2.png" l="Teileprogramm für Lagerzapfen" />
+					<f i="597-1.png" l="5-achsige CNC-Fräsmaschine mit A- und C-Drehachse" />
+					<f i="597-2.png" l="5-achsige CNC-Fräsmaschine mit B- und C-Drehachse" />
+					<f i="597-3.png" l="Stützlager mit zugehörigem Arbeitsplan" />
+					<f i="598-T1.png" l="Technologiedaten der Werkzeuge" />
+					<f i="598-T2.png" l="Teileprogramm für Stützlager (5-achsige CNC-Fräsmaschine mit A-C-Achsen)" />
+				</n>
+			</n>
+			<n l="2 Automatisierte Fertigungseinrichtungen">
+				<f i="599-1.png" l="Marktanforderungen in der Fertigungstechnik" />
+				<f i="599-2.png" l="Unternehmensziele eines Fertigungsbetriebs" />
+				<f i="599-3.png" l="Stückkosten in Abhängigkeit vom Automatisierungsgrad der Fertigung am Beispiel eines Bearbeitungszentrums" />
+				<f i="600-T1.png" l="Merkmale der herkömmlichen und der automatisierten flexiblen Fertigung" />
+				<f i="601-1.png" l="Baugruppen zur Automatisierung eines CNC-Bearbeitungszentrums für die 5-Seiten-Bearbeitung" />
+				<f i="601-2.png" l="Spindelkopf mit Werkzeugwechsler" />
+				<f i="601-3.png" l="5-Seiten-Bearbeitung am Rundschalttisch" />
+				<f i="602-1.png" l="Automatisierte CNC-Drehmaschine" />
+				<f i="602-2.png" l="Einfacher Werkzeugrevolver (ohne Werkzeugantrieb)" />
+				<f i="602-3.png" l="Werkzeugrevolver mit angetriebenen Bearbeitungswerkzeugen" />
+				<f i="603-1.png" l="Stangen-Zuführung" />
+				<f i="603-2.png" l="Werkstückhandling mit dem Industrieroboter" />
+				<f i="603-3.png" l="Überwachungseinrichtungen bei Werkzeugmaschinen" />
+				<f i="604-1.png" l="Übersicht der Automatisierungsstufen von Fertigungsanlagen" />
+				<f i="605-1.png" l="Schema der Transportsysteme für ein automatisiertes flexibles Fertigungssystem FFS" />
+				<f i="605-2.png" l="Transportsysteme (Auswahl)" />
+				<f i="605-3.png" l="Steuerung einer flexiblen Fertigungsanlage" />
+				<f i="606-1.png" l="Automatisierte flexible Fertigungsanlage zur Klein- und Mittelserienfertigung von Getriebewellen" />
+				<f i="607-1.png" l="Einsatzbereiche von Fertigungsanlaggen" />
+			</n>
+			<n l="3 Practice your English">
+				<f i="608-1.png" l="Steuerungsbedienfeld" />
+				<f i="608-1-E.png" l="Control panel" />
+				<f i="608-2.png" l="Maschinensteuertafel" />
+				<f i="608-2-E.png" l="Machine control table" />
+			</n>
+		</n>
+		<n l="10 Technische Projekte">
+			<n l="1 Grundlagen der Projektarbeit">
+				<f i="609-1.png" l="Organisationsstrukturen Linie und Projekt" />
+				<f i="609-2.png" l="Merkmale zur Projektdefinition" />
+			</n>
+			<n l="2 Projektarbeit als voll ständige Handlung und planmäßige Problemlösung">
+				<f i="610-T1.png" l="Projektarten und Projektbeispiele" />
+				<f i="610-1.png" l="Schritte einer vollständigen Handlung" />
+				<f i="610-2.png" l="Arbeitsschritte einer planmäßig, durchdachten Problemlösung" />
+			</n>
+			<n l="3 Projekte in Phasen erarbeiten am Projektbeispiel Hebevorrichtung">
+				<f i="611-1.png" l="Phasenmodelle" />
+				<f i="611-2.png" l="Meilensteine (Beispiele)" />
+				<f i="611-3.png" l="Von der Projektidee zum Projekt" />
+				<f i="611-4.png" l="Ölwannenmontage" />
+				<f i="612-1.png" l="Projektübersicht (Projektportfolio)" />
+				<f i="612-2.png" l="Inhalte eines Projektauftrags" />
+				<f i="612-3.png" l="Definitionsphase im Überblick" />
+				<f i="612-4.png" l="Einfluss der Entscheidungen und Wissen im Projekt" />
+				<f i="613-1.png" l="Projektumfeldanalyse Hebevorrichtung" />
+				<f i="613-2.png" l="Projektziele" />
+				<f i="613-3.png" l="Projektziele; Beispiele auszugsweise" />
+				<f i="614-1.png" l="Grobstruktur (objekt-, funktionsorientiert)" />
+				<f i="614-2.png" l="Grobstruktur (ablauforientiert)" />
+				<f i="614-T1.png" l="Meilensteinplan Hebevorrichtung" />
+				<f i="615-1.png" l="Idealtypische Projektorganisation" />
+				<f i="615-2.png" l="„Magisches Dreieck“ der Projektziele" />
+				<f i="615-3.png" l="Projektplanung im Überblick" />
+				<f i="616-T1.png" l="Nutzwertanalyse für Hebezeug" />
+				<f i="616-1.png" l="Projektstrukturplan Hebevorrichtung (Zerlegungsmethode)" />
+				<f i="617-1.png" l="Strukturabbildung im Projektablaufplan" />
+				<f i="617-2.png" l="Projektplan ohne Ressourcenbetrachtung (Projektablaufplan)" />
+				<f i="618-T1.png" l="Ressourcenerfassung und Definition für Projekt „Hebevorrichtung“ (Auszug)" />
+				<f i="618-1.png" l="Zuordnung der Ressourcen zu den Vorgängen (Auszug)" />
+				<f i="618-2.png" l="Einzelressource Konstrukteur, Zuteilung und Kosten (Auszug)" />
+				<f i="618-3.png" l="Geplante Gesamtkosten Projekt Hebevorrichtung als Kostenkurve" />
+				<f i="619-1.png" l="Risikomanagement" />
+				<f i="619-2.png" l="Risikenübersicht (Risikoportfolio)" />
+				<f i="619-T1.png" l="Risikobehandlungen, Fragen und Umgang" />
+				<f i="620-1.png" l="Übergeordnete Steuerungsphase über der konkreten Durchführungsphase" />
+				<f i="620-2.png" l="Vorgehensweise der Projektsteuerung" />
+				<f i="620-3.png" l="Definition Fertigstellungsgrad" />
+				<f i="620-4.png" l="Soll/Ist-Vergleich Projektablauf (Auszug Projekt Hebevorrichtung)" />
+				<f i="620-5.png" l="Soll/Ist-Vergleich Projektkosten (Auszug Projekt Hebevorrichtung)" />
+				<f i="621-1.png" l="Meilenstein-Trend-Analyse" />
+				<f i="621-T1.png" l="Steuerungsmaßnahmen" />
+				<f i="621-2.png" l="Saugheber für Projekt Hebevorrichtung" />
+				<f i="622-1.png" l="Testvorführung Saugheber" />
+				<f i="622-2.png" l="Ölwannenmontage mit Hebevorrichtung" />
+				<f i="622-T1.png" l="Themen für eine Projektabschlusssitzung" />
+			</n>
+			<n l="4 Veränderte Vorgehensmodelle bei der Projektarbeit">
+				<f i="623-1.png" l="Überlappendes Phasenkonzept" />
+				<f i="623-2.png" l="Versionenkonzept (Spiralmodell)" />
+			</n>
+			<n l="5 Technische Projekte dokumentieren">
+				<f i="624-1.png" l="Grundelemente der Anwendungsfenster" />
+				<f i="624-2.png" l="Datenaustausch ohne Verknüpfung" />
+				<f i="625-1.png" l="Einbetten von Objekten" />
+				<f i="625-2.png" l="Datenaustausch mit Verknüpfung (Object linking)" />
+				<f i="625-3.png" l="Seitenlayout bearbeiten" />
+				<f i="626-1.png" l="Absatzformatierung" />
+				<f i="626-2.png" l="Zeichenformatierung" />
+				<f i="626-3.png" l="Feldfunktionen Druckdatum und Seitenzahl" />
+				<f i="627-1.png" l="Automatisierte Beschriftungen" />
+				<f i="627-2.png" l="Darstellung von Zahlenmaterial" />
+				<f i="627-3.png" l="Mappen- und Tabellenaufbau einer Tabellenkalkulation" />
+				<f i="628-1.png" l="Berechnungen mit Zelladressen" />
+				<f i="628-2.png" l="Relative und absolute Zellbezüge" />
+				<f i="629-1.png" l="Funktionen" />
+				<f i="629-2.png" l="Operatoren" />
+				<f i="629-3.png" l="Kreisdiagramm" />
+				<f i="629-4.png" l="Funktionsgraph" />
+				<f i="630-1.png" l="Interaktive Schaltflächen" />
+				<f i="630-2.png" l="Aktionseinstellungen" />
+				<f i="630-3.png" l="Didaktische Grundprinzipien" />
+				<f i="631-1.png" l="Folienaufbau" />
+				<f i="631-2.png" l="Gliederung der Präsentation" />
+				<f i="631-3.png" l="Folieninhalte" />
+				<f i="631-4.png" l="Diagrammarten" />
+				<f i="632-1.png" l="Folienlayout" />
+				<f i="632-2.png" l="Präsentationsphasen" />
+				<f i="632-3.png" l="Tipps zur Durchführung" />
+				<f i="633-1.png" l="Skizzen eines Lagerdeckels" />
+				<f i="633-2.png" l="3D-Modell" />
+				<f i="633-3.png" l="Gruppenzeichnung" />
+				<f i="633-T1_auf.swf" l="Normen" />
+				<f i="633-T1.png" l="Normen" />
+				<f i="634-1.png" l="Teilezeichnung" />
+				<f i="634-2.png" l="Explosionszeichnung mit Stückliste" />
+				<f i="635-1.png" l="Belastungssimulation mithilfe FEM" />
+				<f i="635-2.png" l="CAD-CAM-Kopplung" />
+			</n>
+			<n l="6 Practice your English">
+				<f i="636-1.png" l="Bedienfeld" />
+				<f i="636-1-E.png" l="Control panel" />
+				<f i="636-2.png" l="Auszug aus dem Technologieschema" />
+				<f i="636-2-E.png" l="Technology scheme" />
+				<f i="636-3.png" l="Auszug aus den CAD-Daten für das Bedienfeld" />
+				<f i="636-3-E.png" l="CAD-Data for the control panel" />
+			</n>
+		</n>
+		<n l="Lernfelder">
+			<f i="638-1.png" l="Schlüsselanhänger - Fertigen von Bauelementen mit handgeführten Werkzeugen" />
+			<f i="640-1.png" l="Spanngerät für runde Werkstücke - Fertigen von Bauelementen mit Maschinen" />
+			<f i="642-1.png" l="Bohrständer für Handbohrmaschine - Herstellen einfacher Baugruppen" />
+			<f i="644-1.png" l="Warten einer Säulenbohrmaschine - Warten technischer Systeme" />
+			<f i="646-1.png" l="Hydraulisches Spannelement - Fertigen von Einzelteilen mit Werkzeugmaschinen" />
+			<f i="648-1.png" l="Vereinzelung unterschiedlicher Metallkugeln - Installieren und Inbetriebnahme steuerungstechnischer Systeme" />
+			<f i="650-1.png" l="Kegelradgetriebe - Montieren von technischen Systemen" />
+			<f i="652-1.png" l="Getriebewelle aus C45" />
+			<f i="652-2.png" l="Lagerdeckel aus EN AC-AlSi9" />
+			<f i="653-T1.png" l="Maßnahmen zur Optimierung der Fertigung" />
+			<f i="654-1.png" l="Motorspindel einer CNC-Fräsmaschine - Instandsetzen von technischen Systemen" />
+			<f i="656-1.png" l="Vorschubantrieb einer CNC-Fräsmaschine - Herstellen und in Betrieb nehmen technischer Teilsysteme" />
+			<f i="658-1.png" l="Richtwaage (Wasserwaage) - Überwachen der Produkt- und Prozessqualität" />
+			<f i="660-1.png" l="Getränkeabfüllanlage - Instandhalten von technischen Systemen" />
+			<f i="662-1.png" l="Automatisieren eines Handarbeitsplatzes - Sicherstellen der Betriebsfähigkeit automatisierter Systeme" />
+		</n>
+		<n l="Impressum">
+			<f i="001-S.png" l="Impressum" b="l" />
+		</n>
+		<n l="Firmenverzeichnis">
+			<f i="664-S.png" l="Firmenverzeichnis A - G" b="l" />
+			<f i="665-S.png" l="Firmenverzeichnis H - P" b="l" />
+			<f i="666-S.png" l="Firmenverzeichnis Q - Z" b="l" />
+		</n>
+		<n l="Rechtliche Hinweise">
+			<f i="rh.png" l="Rechtliche Hinweise" b="l" />
+		</n>
+	</n>
+</c>

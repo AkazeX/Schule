@@ -1,0 +1,10 @@
+Projektname						Passwort		Benutzbar bis: (Datum)
+-------------------------------------------------------------------------------------------------------
+MPS_Verteilen.simit4S					U2X6-Z9NB-KEM7		17.09.2018
+MPS_Pick&Place.simit4S					8LWR-77VO-JOVZ		17.09.2018
+MPS_Pressen.simit4S					ZV2D-NKGI-ZFEQ		17.09.2018
+MPS_Gesamt.simit4S					C8DY-KV22-4WN5		17.09.2018
+
+MPS_Verteilen_ASI.simit4S				SD4R-3GCV-O1XB		17.09.2018
+MPS_Gesamt_ASI.simit4S					731K-SRC6-9OHJ		17.09.2018
+
