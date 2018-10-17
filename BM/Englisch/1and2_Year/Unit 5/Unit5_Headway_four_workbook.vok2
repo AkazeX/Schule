@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<teachmaster>
+   <header>
+      <titel></titel>
+      <autor></autor>
+      <bemerkungen></bemerkungen>
+      <spreins></spreins>
+      <sprzwei></sprzwei>
+      <version>4.3</version>
+      <font></font>
+      <fontsize></fontsize>
+      <fontcharset></fontcharset>
+      <fontlek></fontlek>
+      <fontspreins></fontspreins>
+      <fontsprzwei></fontsprzwei>
+      <fontsyn></fontsyn>
+      <fontbem></fontbem>
+      <standardicon></standardicon>
+      <iconspreins></iconspreins>
+      <iconsprzwei></iconsprzwei>
+      <sprachdateien></sprachdateien>
+   </header>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Akt, Handlung</spreins>
+      <sprzwei>act</sprzwei>
+      <synonym>The act of writing down one’s thoughts is not always easy.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Aktion, Ablauf, Handeln</spreins>
+      <sprzwei>action</sprzwei>
+      <synonym>His actions emphasized his words.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>handeln</spreins>
+      <sprzwei>to act</sprzwei>
+      <synonym>They urged Washington to act.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>aktiv (Adjektiv)</spreins>
+      <sprzwei>active</sprzwei>
+      <synonym>They enjoyed an active social life.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>aktiv (Adverb)</spreins>
+      <sprzwei>actively</sprzwei>
+      <synonym>She took part in the session very actively.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Vorhersage</spreins>
+      <sprzwei>prediction</sprzwei>
+      <synonym>A prediction of the future is impossible.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>kürzen</spreins>
+      <sprzwei>to shorten</sprzwei>
+      <synonym>I had to shorten my trousers.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>automatisch (Adverb)</spreins>
+      <sprzwei>automatically</sprzwei>
+      <synonym>I would automatically drift there.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>bunt</spreins>
+      <sprzwei>colourful</sprzwei>
+      <synonym>What a colourful shirt you have!</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>selbstsicher (Adverb)</spreins>
+      <sprzwei>confidently</sprzwei>
+      <synonym>She walked down the aisle confidently.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Einbildungskraft</spreins>
+      <sprzwei>imagination</sprzwei>
+      <synonym>She had a very vivid imagination.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Aufregung</spreins>
+      <sprzwei>excitement</sprzwei>
+      <synonym>The excitement of the previous night had faded.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>kreativ (Adjective)</spreins>
+      <sprzwei>creative</sprzwei>
+      <synonym>He could draw the most creative pictures..</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>(sich) qualifizieren</spreins>
+      <sprzwei>to qualify</sprzwei>
+      <synonym>The courses qualify you as an instructor of the sport.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>passend, angemessen</spreins>
+      <sprzwei>suitable</sprzwei>
+      <synonym>These toys are not suitable for children under five.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Geschäft</spreins>
+      <sprzwei>business</sprzwei>
+      <synonym>He ran the business all by himself.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>nachlässig, unvorsichtig (Adjective)</spreins>
+      <sprzwei>careless</sprzwei>
+      <synonym>She had been careless and had left the window unlocked.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>vorhersagen</spreins>
+      <sprzwei>to predict</sprzwei>
+      <synonym>She predicted nice weather.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>wieder wachsen</spreins>
+      <sprzwei>to regrow</sprzwei>
+      <synonym>When will my hair regrow?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>ausserirdisch</spreins>
+      <sprzwei>extra-terrestrial</sprzwei>
+      <synonym>She thinks she saw an extra-terrestrial being.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Unordnung</spreins>
+      <sprzwei>disorder</sprzwei>
+      <synonym>Recurrent food crises led to outbreaks of disorder.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>unmöglich (Adjective)</spreins>
+      <sprzwei>impossible</sprzwei>
+      <synonym>This mission was literally impossible.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>möglich</spreins>
+      <sprzwei>possible</sprzwei>
+      <synonym>Can this be possible?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>geduldig (Adjective)</spreins>
+      <sprzwei>patient</sprzwei>
+      <synonym>You just have to be patient!</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>glücklich (Glück haben)</spreins>
+      <sprzwei>lucky</sprzwei>
+      <synonym>What a lucky cat - still alive after the fall.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>unglücklich (kein Glück haben)</spreins>
+      <sprzwei>unlucky</sprzwei>
+      <synonym>They suffered an unlucky defeat.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>legal (Adjective)</spreins>
+      <sprzwei>legal</sprzwei>
+      <synonym>She claimed that it had all been legal.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>illegal</spreins>
+      <sprzwei>illegal</sprzwei>
+      <synonym>They claimed that it had all been illegal.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>erscheinen</spreins>
+      <sprzwei>to appear</sprzwei>
+      <synonym>She suddenly appeared at the party.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>verschwinden</spreins>
+      <sprzwei>to disappear</sprzwei>
+      <synonym>She suddenly disappeared.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>regelmässig, normal</spreins>
+      <sprzwei>regular</sprzwei>
+      <synonym>She drove a regular car.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>unregelmässig</spreins>
+      <sprzwei>irregular</sprzwei>
+      <synonym>We could feel his irregular heart beat.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>formell</spreins>
+      <sprzwei>formal</sprzwei>
+      <synonym>This is a formal letter here.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>informell</spreins>
+      <sprzwei>informal</sprzwei>
+      <synonym>In informal letters you can use contractions.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>bewusst</spreins>
+      <sprzwei>conscious</sprzwei>
+      <synonym>We are conscious of the extent of the problem.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>bewusstlos, unbewusst</spreins>
+      <sprzwei>unconscious</sprzwei>
+      <synonym>The poor boy was beaten unconscious.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Glück(lichkeit)</spreins>
+      <sprzwei>happiness</sprzwei>
+      <synonym>Money doesn't always lead to happiness.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>unhöflich</spreins>
+      <sprzwei>impolite</sprzwei>
+      <synonym>My aunt says today's kids are all rude and impolite.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>höflich</spreins>
+      <sprzwei>polite</sprzwei>
+      <synonym>My uncle says today's kids are all very polite.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>hilfreich</spreins>
+      <sprzwei>helpful</sprzwei>
+      <synonym>Your advice was really helpful.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Freundlichkeit, Liebenswürdigkeit</spreins>
+      <sprzwei>kindness</sprzwei>
+      <synonym>I really appreciate your kindness.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>unbrauchbar, sinnlos</spreins>
+      <sprzwei>useless</sprzwei>
+      <synonym>My dad is useless at fixing his computer.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>falsch verstehen, missverstehen</spreins>
+      <sprzwei>to misunderstand</sprzwei>
+      <synonym>Please don't misunderstand me.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>unfreundlich</spreins>
+      <sprzwei>unkind</sprzwei>
+      <synonym>I really didn't mean to be unkind!</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Reaktion</spreins>
+      <sprzwei>reaction</sprzwei>
+      <synonym>What was your wife's reaction when she heard you'd won the lottery?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>anpreisen, inserieren</spreins>
+      <sprzwei>to advertise</sprzwei>
+      <synonym>He advertised for dancers in the trade papers.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Werbung</spreins>
+      <sprzwei>advertisement</sprzwei>
+      <synonym>Unhappy clients are not a good advertisement for the firm.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>sich vorstellen</spreins>
+      <sprzwei>to imagine</sprzwei>
+      <synonym>I could never imagine becoming a doctor.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>bevorzugen</spreins>
+      <sprzwei>to prefer</sprzwei>
+      <synonym>She had always preferred Peter over Marcus.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Vorzug, Vorrang</spreins>
+      <sprzwei>preference</sprzwei>
+      <synonym>She had a preference for white wine.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Arbeitgeber</spreins>
+      <sprzwei>employer</sprzwei>
+      <synonym>My employer is really supportive.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Angestellte(r)</spreins>
+      <sprzwei>employee</sprzwei>
+      <synonym>He had many employees working for him.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>Abmachung</spreins>
+      <sprzwei>arrangement</sprzwei>
+      <synonym>Why didn't you come? We had an arrangement!</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>erfolgreich</spreins>
+      <sprzwei>successful</sprzwei>
+      <synonym>Marketing of Japanese products has been highly successful.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>erfolglos</spreins>
+      <sprzwei>unsuccessful</sprzwei>
+      <synonym>She was extremely unsuccessful in her attempts to win him over.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>falsch gebrauchen</spreins>
+      <sprzwei>to misuse</sprzwei>
+      <synonym>He misused the electric device.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>teuer</spreins>
+      <sprzwei>expensive</sprzwei>
+      <synonym>He bought himself an expensive watch.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>preiswert, günstig</spreins>
+      <sprzwei>inexpensive</sprzwei>
+      <synonym>She bought herself an inexpensive scarf.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>etwas satt haben</spreins>
+      <sprzwei>to be fed up with</sprzwei>
+      <synonym>You must be fed up with listening to me.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>eifersüchtig auf</spreins>
+      <sprzwei>jealous of</sprzwei>
+      <synonym>I've always been jealous of people who can sing well.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>stolz auf</spreins>
+      <sprzwei>proud of</sprzwei>
+      <synonym>I'm really proud of it - I've put a lot of work into it.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>los mit, falsch</spreins>
+      <sprzwei>wrong with</sprzwei>
+      <synonym>There's nothing wrong with my teeth at all.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>mit jemandem Mitleid haben</spreins>
+      <sprzwei>to feel sorry for</sprzwei>
+      <synonym>I feel really sorry for Lucy. First day of her holiday and she gets the flu.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>es ernst meinen mit</spreins>
+      <sprzwei>to be serious about</sprzwei>
+      <synonym>Are you serious about starting your own business?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>sich über etwas freuen</spreins>
+      <sprzwei>to be excited about</sprzwei>
+      <synonym>We're very excited about going to Egypt.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>berühmt für</spreins>
+      <sprzwei>famous for</sprzwei>
+      <synonym>Van Gogh was famous for painting sunflowers.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>interessiert an</spreins>
+      <sprzwei>interested in</sprzwei>
+      <synonym>Are you interested in sports?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>ähnlich (wie)</spreins>
+      <sprzwei>similar to</sprzwei>
+      <synonym>You don't look at all similar to Mark.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>in ... gekleidet</spreins>
+      <sprzwei>dressed in</sprzwei>
+      <synonym>Why is she dressed in black?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>nett zu (jemandem)</spreins>
+      <sprzwei>kind to</sprzwei>
+      <synonym>I'll never forget how kind you've been to me.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>zufriedengestellt durch</spreins>
+      <sprzwei>satisfied with</sprzwei>
+      <synonym>I wasn't satisfied with the service.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>typisch von</spreins>
+      <sprzwei>typical of</sprzwei>
+      <synonym>It's typical of Bob to disappear when it's time to do the washing-up!</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>vertraut mit</spreins>
+      <sprzwei>familiar with</sprzwei>
+      <synonym>I'm not familiar with this area.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins>verantwortlich für</spreins>
+      <sprzwei>responsible for</sprzwei>
+      <synonym>Who is responsible for recruitment?</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion></lektion>
+      <spreins></spreins>
+      <sprzwei></sprzwei>
+      <synonym></synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+</teachmaster>

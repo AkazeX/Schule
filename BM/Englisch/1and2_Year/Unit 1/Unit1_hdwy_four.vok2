@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<teachmaster>
+   <header>
+      <titel></titel>
+      <autor></autor>
+      <bemerkungen></bemerkungen>
+      <spreins></spreins>
+      <sprzwei></sprzwei>
+      <version>4.3</version>
+      <font></font>
+      <fontsize></fontsize>
+      <fontcharset></fontcharset>
+      <fontlek></fontlek>
+      <fontspreins></fontspreins>
+      <fontsprzwei></fontsprzwei>
+      <fontsyn></fontsyn>
+      <fontbem></fontbem>
+      <standardicon></standardicon>
+      <iconspreins></iconspreins>
+      <iconsprzwei></iconsprzwei>
+      <sprachdateien></sprachdateien>
+   </header>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Forschung</spreins>
+      <sprzwei>research</sprzwei>
+      <synonym>They are doing research into the causes of cancer</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>erreichen</spreins>
+      <sprzwei>to reach</sprzwei>
+      <synonym>The temperature reached 42 degrees</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Äquator</spreins>
+      <sprzwei>Equator</sprzwei>
+      <synonym>It's very hot on the Equator</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Tageslicht</spreins>
+      <sprzwei>daylight</sprzwei>
+      <synonym>It's easier to drive in daylight</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Lebenserwartung</spreins>
+      <sprzwei>life expectancy</sprzwei>
+      <synonym>Life expectancy is high in most European countries</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Fass</spreins>
+      <sprzwei>barrel</sprzwei>
+      <synonym>The wine is kept in wooden barrels</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>ausgestorben</spreins>
+      <sprzwei>extinct</sprzwei>
+      <synonym>There are not many tigers left - they are almost extinct</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Stimmrecht</spreins>
+      <sprzwei>vote</sprzwei>
+      <synonym>Everyone over 18 has the vote</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>stimmen</spreins>
+      <sprzwei>to vote</sprzwei>
+      <synonym>Who did you vote for in the last election?</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>zerstören</spreins>
+      <sprzwei>to destroy</sprzwei>
+      <synonym>The building was destroyed by fire</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Erdbeben</spreins>
+      <sprzwei>earthquake</sprzwei>
+      <synonym>An earthquake makes the ground shake</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Eisberg</spreins>
+      <sprzwei>iceberg</sprzwei>
+      <synonym>You can see icebergs near the North Pole</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Die Mittel</spreins>
+      <sprzwei>the means</sprzwei>
+      <synonym>The plane is a fast means of transport</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>ans Netz gehen</spreins>
+      <sprzwei>to go live</sprzwei>
+      <synonym>The new computer system went live yesterday</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>allgemein, viel</spreins>
+      <sprzwei>widely</sprzwei>
+      <synonym>His books are widely read</synonym>
+      <bemerkung>A WORLD OF DIFFERENCE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>zur Verfügungen stellen</spreins>
+      <sprzwei>to provide</sprzwei>
+      <synonym>The school provides pens and papers</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>globale Erwärmung</spreins>
+      <sprzwei>global warming</sprzwei>
+      <synonym>pollution from cars causes global warming</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>reden über</spreins>
+      <sprzwei>to go on about</sprzwei>
+      <synonym>He's always going on about football</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>jede Menge</spreins>
+      <sprzwei>loads of</sprzwei>
+      <synonym>John will pay - he's got loads of money</synonym>
+      <bemerkung>MAKING CONVERSATION</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Sportzeug, Trikot</spreins>
+      <sprzwei>kit</sprzwei>
+      <synonym>Manchester United wear a red and white kit</synonym>
+      <bemerkung>MAKING CONVERSATION</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Quatsch</spreins>
+      <sprzwei>rubbish</sprzwei>
+      <synonym>That film was awful - it was rubbish</synonym>
+      <bemerkung>MAKING CONVERSATION</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>absagen</spreins>
+      <sprzwei>to cancel</sprzwei>
+      <synonym>She cancelled her party because she was ill</synonym>
+      <bemerkung>MAKING CONVERSATION</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Umfrage</spreins>
+      <sprzwei>survey</sprzwei>
+      <synonym>We did a survey on student's eating habits</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>engste Familie</spreins>
+      <sprzwei>immediate family</sprzwei>
+      <synonym>I only invited my immeditate family - not all my aunts and uncles</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>erweiterter Familienkreis</spreins>
+      <sprzwei>extended family</sprzwei>
+      <synonym>He's got a large extended family, with 26 cousins</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>nah</spreins>
+      <sprzwei>close</sprzwei>
+      <synonym>I'm very close to my brother</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Beschreibung, Porträt</spreins>
+      <sprzwei>profile</sprzwei>
+      <synonym>I read a profile of the singer Beyoncé</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Motto</spreins>
+      <sprzwei>motto</sprzwei>
+      <synonym>My motto is Never give up</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Ähnlichkeit</spreins>
+      <sprzwei>similarity</sprzwei>
+      <synonym>I can see some similarities between you and your brother</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Bedauern</spreins>
+      <sprzwei>regret</sprzwei>
+      <synonym>Her biggest regret is not going to university</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Stockwerk</spreins>
+      <sprzwei>storey</sprzwei>
+      <synonym>The building has got six storeys</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Wohnblock</spreins>
+      <sprzwei>block</sprzwei>
+      <synonym>They live in a new block of flats</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>gesprungen</spreins>
+      <sprzwei>cracked</sprzwei>
+      <synonym>The cups were all old and cracked</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>auf dem Tacho</spreins>
+      <sprzwei>on the clock</sprzwei>
+      <synonym>My old car's got 150,000 miles on the clock</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Kunde, Kundin</spreins>
+      <sprzwei>client</sprzwei>
+      <synonym>Bank managers give advice to their clients</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>netto verdienen</spreins>
+      <sprzwei>to take home</sprzwei>
+      <synonym>She takes home about 500 dollars a month</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Schneider,Schneiderin</spreins>
+      <sprzwei>dressmaker</sprzwei>
+      <synonym>She works as a dressmaker</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Slum, Elendsviertel</spreins>
+      <sprzwei>slum</sprzwei>
+      <synonym>Most of the houses are slums, with no electricity or running water</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Gegend, Gebiet</spreins>
+      <sprzwei>area</sprzwei>
+      <synonym>She lives in a poor area of the city</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>(nicht) lange reichen</spreins>
+      <sprzwei>(not) to go far</sprzwei>
+      <synonym>20 dollars won't go far in London</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>gestresst</spreins>
+      <sprzwei>stressed</sprzwei>
+      <synonym>Most students get dressed at exam time</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Honorar, Gebühr</spreins>
+      <sprzwei>fee</sprzwei>
+      <synonym>Lawyers often charge very high fees</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Vorschule</spreins>
+      <sprzwei>preschool</sprzwei>
+      <synonym>Children go to preschool at 2 or 3 years old.</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>aufziehen</spreins>
+      <sprzwei>to raise</sprzwei>
+      <synonym>It’s hard work raising children.</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Gemeinschafts-</spreins>
+      <sprzwei>communal</sprzwei>
+      <synonym>The students share a communal kitchen</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Vorort</spreins>
+      <sprzwei>suburb</sprzwei>
+      <synonym>I live in a suburb of Leeds, not in the city</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Kindheit</spreins>
+      <sprzwei>childhood</sprzwei>
+      <synonym>He spent his childhood in Canada</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>erkennbar, deutlich</spreins>
+      <sprzwei>noticeable</sprzwei>
+      <synonym>It was noticeable that she was tired.</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>angesehen, renommiert</spreins>
+      <sprzwei>prestigious</sprzwei>
+      <synonym>The film won several prestigious awards</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Propaganda</spreins>
+      <sprzwei>propaganda</sprzwei>
+      <synonym>The story wasn’t true - it was just propaganda.</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>städtisch</spreins>
+      <sprzwei>municipal</sprzwei>
+      <synonym>The town has some lovely municipal buildings</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Gasse</spreins>
+      <sprzwei>alleyway</sprzwei>
+      <synonym>The shop is in a tiny alleyway</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>untereinander eng verbunden</spreins>
+      <sprzwei>close-knit</sprzwei>
+      <synonym>This is a very close-knit community</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Gastfreundschaft</spreins>
+      <sprzwei>hospitality</sprzwei>
+      <synonym>Thank you for your kind hospitality</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>alt</spreins>
+      <sprzwei>elderly</sprzwei>
+      <synonym>She looks after her elderly grandmother</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Schlafanzug</spreins>
+      <sprzwei>pyjamas</sprzwei>
+      <synonym>He put on his pyjamas and climbed into bed</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>in Ehren halten</spreins>
+      <sprzwei>to cherish</sprzwei>
+      <synonym>Thank you for your present - I will cherish it</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>unglaublich</spreins>
+      <sprzwei>amazingly</sprzwei>
+      <synonym>This car is amazingly fast</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Abriss</spreins>
+      <sprzwei>demolition</sprzwei>
+      <synonym>The building is unsafe and due for demolition</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Gemeinschaft (der Einwohner)</spreins>
+      <sprzwei>community</sprzwei>
+      <synonym>The park is used by the whole community</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Struktur</spreins>
+      <sprzwei>structure</sprzwei>
+      <synonym>The structure of society is changing</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>gebrechlich</spreins>
+      <sprzwei>frail</sprzwei>
+      <synonym>Her grandfather is old and frail now</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Zentrale, Hauptsitz</spreins>
+      <sprzwei>headquarters</sprzwei>
+      <synonym>The company’s headquarters is in Paris</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Politik, Linie</spreins>
+      <sprzwei>policy</sprzwei>
+      <synonym>What is the government’s policy on education?</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>verbieten</spreins>
+      <sprzwei>to forbid</sprzwei>
+      <synonym>Smoking isn’t allowed - it’s forbidden</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>intelligent</spreins>
+      <sprzwei>bright</sprzwei>
+      <synonym>Bright children learn quickly</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>ausgeglichen</spreins>
+      <sprzwei>well-balanced</sprzwei>
+      <synonym>She seems happy and well-balanced</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Archäologie</spreins>
+      <sprzwei>archaeology</sprzwei>
+      <synonym>He’s interested in history and archaeology</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>viel</spreins>
+      <sprzwei>a great deal</sprzwei>
+      <synonym>The job took a great deal of time</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>bescheiden</spreins>
+      <sprzwei>frugally</sprzwei>
+      <synonym>We saved money by eating frugally.</synonym>
+      <bemerkung>READING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>zweisprachig</spreins>
+      <sprzwei>bilingual</sprzwei>
+      <synonym>He’s bilingual - he speaks English and German</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Kultur</spreins>
+      <sprzwei>culture</sprzwei>
+      <synonym>Chinese culture is very interesting</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Familie, Herkunft</spreins>
+      <sprzwei>background</sprzwei>
+      <synonym>She comes from a rich background</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Basken-, baskisch</spreins>
+      <sprzwei>Basque</sprzwei>
+      <synonym>He comes from the Basque region of Spain</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>enden, landen</spreins>
+      <sprzwei>to end up</sprzwei>
+      <synonym>She studied English, and ended up becoming a teacher</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>neutral</spreins>
+      <sprzwei>neutral</sprzwei>
+      <synonym>The referee should be neutral</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>(Kultur)erbe</spreins>
+      <sprzwei>heritage</sprzwei>
+      <synonym>Egypt has a very rich heritage</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>hoffentlich</spreins>
+      <sprzwei>hopefully</sprzwei>
+      <synonym>Hopefully, I'll pass my exams</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Gelegenheit</spreins>
+      <sprzwei>opportunity</sprzwei>
+      <synonym>I would love the opportunity to travel</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>schliesslich</spreins>
+      <sprzwei>ultimately</sprzwei>
+      <synonym>I’m studying law, and ultimately I want to be a lawyer</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>sesshaft werden, eine Familie gründen</spreins>
+      <sprzwei>to settle down</sprzwei>
+      <synonym>They decided to get married and settle down</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>für immer</spreins>
+      <sprzwei>for good</sprzwei>
+      <synonym>Have you left England for good, or will you return one day?</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>ursprünglich</spreins>
+      <sprzwei>originally</sprzwei>
+      <synonym>Originally, she’s from Slovakia</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>hauptsächlich</spreins>
+      <sprzwei>mainly</sprzwei>
+      <synonym>He’s travelled a lot, mainly in Europe</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>kosmopolitisch, weltgewandt</spreins>
+      <sprzwei>cosmopolitan</sprzwei>
+      <synonym>New York is a cosmopolitan city, with people from all over the world</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>vermutlich</spreins>
+      <sprzwei>presumably</sprzwei>
+      <synonym>He’s from France, so presumably he speaks French</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>schwierig</spreins>
+      <sprzwei>tricky</sprzwei>
+      <synonym>I can’t do this puzzle - it’s quite tricky</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Unsinn</spreins>
+      <sprzwei>nonsense</sprzwei>
+      <synonym>That’s not true - it’s nonsense!</synonym>
+      <bemerkung>VOCABULARY</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>aktiv</spreins>
+      <sprzwei>active</sprzwei>
+      <synonym>He plays tennis a lot, so he’s very active</synonym>
+      <bemerkung>VOCABULARY</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>unvorsichtigerweise, nachlässig</spreins>
+      <sprzwei>carelessly</sprzwei>
+      <synonym>I carelessly left my bag in the shop</synonym>
+      <bemerkung>VOCABULARY</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>dringend</spreins>
+      <sprzwei>urgent</sprzwei>
+      <synonym>I need to see you now! It’s urgent!</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Füllung</spreins>
+      <sprzwei>filling</sprzwei>
+      <synonym>I had a filling at the dentist’s this morning</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Muffin</spreins>
+      <sprzwei>muffin</sprzwei>
+      <synonym>She makes delicious chocolate muffins</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>(es) schaffen</spreins>
+      <sprzwei>to make</sprzwei>
+      <synonym>I’m sorry, I can’t make Tuesday.</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>festsitzen</spreins>
+      <sprzwei>stuck</sprzwei>
+      <synonym>We were stuck at the airport for two days!</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Geheimnummer, PIN</spreins>
+      <sprzwei>pin number</sprzwei>
+      <synonym>Never tell anyone your pin number</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>am Apparat bleiben</spreins>
+      <sprzwei>to hold</sprzwei>
+      <synonym>Please hold, and I’ll put you through to Mr Blake’s office</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Telefonist(in)</spreins>
+      <sprzwei>operator</sprzwei>
+      <synonym>An operator answered the phone and asked who I wanted to speak to</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>gleich, bald</spreins>
+      <sprzwei>shortly</sprzwei>
+      <synonym>I won’t be long - I’ll see you shortly</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Vorstellung</spreins>
+      <sprzwei>performance</sprzwei>
+      <synonym>We saw a performance of Hamlet last night</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>informieren</spreins>
+      <sprzwei>to brief</sprzwei>
+      <synonym>Carla has briefed me about the meeting</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>mitnehmen</spreins>
+      <sprzwei>to take away</sprzwei>
+      <synonym>Two coffees to take away, please</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 1 (Headway four)</lektion>
+      <spreins>Absage</spreins>
+      <sprzwei>cancellation</sprzwei>
+      <synonym>The restaurant is fully booked, but they may get a cancellation</synonym>
+      <bemerkung>Everyday English</bemerkung>
+   </vokabelsatz>
+</teachmaster>

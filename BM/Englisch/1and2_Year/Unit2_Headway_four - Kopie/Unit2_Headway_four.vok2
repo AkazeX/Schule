@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<teachmaster>
+   <header>
+      <titel></titel>
+      <autor></autor>
+      <bemerkungen></bemerkungen>
+      <spreins></spreins>
+      <sprzwei></sprzwei>
+      <version>4.3</version>
+      <font></font>
+      <fontsize></fontsize>
+      <fontcharset></fontcharset>
+      <fontlek></fontlek>
+      <fontspreins></fontspreins>
+      <fontsprzwei></fontsprzwei>
+      <fontsyn></fontsyn>
+      <fontbem></fontbem>
+      <standardicon></standardicon>
+      <iconspreins></iconspreins>
+      <iconsprzwei></iconsprzwei>
+      <sprachdateien></sprachdateien>
+   </header>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Sklave,Sklavin</spreins>
+      <sprzwei>slave</sprzwei>
+      <synonym>No, I won't do that for you - I'm not your slave!</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Liebling, Honig</spreins>
+      <sprzwei>honey</sprzwei>
+      <synonym>I love you, honey.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schulzeit</spreins>
+      <sprzwei>term-time</sprzwei>
+      <synonym>She studies hard during term-time.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>renovieren</spreins>
+      <sprzwei>(to) redecorate</sprzwei>
+      <synonym>We're going to redecorate the whole house.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>herausfordern, anspruchsfoll, anstrengend</spreins>
+      <sprzwei>challenging</sprzwei>
+      <synonym>Skiing is a challenging sport.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Surfbrett</spreins>
+      <sprzwei>(surf)board</sprzwei>
+      <synonym>A big wave knocked him off his surfboard.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>lammen</spreins>
+      <sprzwei>(to) lamb</sprzwei>
+      <synonym>Farmers start lambing in the spring.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Internat</spreins>
+      <sprzwei>boarding school</sprzwei>
+      <synonym>He was sent away to a boarding school.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>freier Tag</spreins>
+      <sprzwei>day off</sprzwei>
+      <synonym>I have two days off a week.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Aufregung</spreins>
+      <sprzwei>buzz</sprzwei>
+      <synonym>There's a buzz in the school at the end of term.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>fast nie</spreins>
+      <sprzwei>hardly ever</sprzwei>
+      <synonym>he hardly ever does any homework!</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>wie im Flug vergehen</spreins>
+      <sprzwei>to fly by</sprzwei>
+      <synonym>The weeks soon flew by.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>grillen</spreins>
+      <sprzwei>to barbecue</sprzwei>
+      <synonym>We barbecued some steak in the garden</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>selten</spreins>
+      <sprzwei>rarely</sprzwei>
+      <synonym>I usually work late and rarely get home early.</synonym>
+      <bemerkung>THE WORKING WEEK</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schicht</spreins>
+      <sprzwei>shift</sprzwei>
+      <synonym>Factory workers often works eight-hour shifts</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Abstand gewinnen</spreins>
+      <sprzwei>to get away from it all</sprzwei>
+      <synonym>I need a holiday to get away from it all</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>sich konzentrieren</spreins>
+      <sprzwei>to concentrate</sprzwei>
+      <synonym>When i'm tired I can't concentrate on anything</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>BademeisterIn, RettungsschwimmerIn</spreins>
+      <sprzwei>lifeguard</sprzwei>
+      <synonym>The liveguard dived into the sea to save her</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>GeschäftsführerIn</spreins>
+      <sprzwei>managing director</sprzwei>
+      <synonym>The managing director is on the head of the company</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Personal(abteilung)</spreins>
+      <sprzwei>human resources</sprzwei>
+      <synonym>You need to get on well with people to work in human resources</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Verkaufszahlen</spreins>
+      <sprzwei>sales</sprzwei>
+      <synonym>Our sales have increased this year.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>verhandeln</spreins>
+      <sprzwei>to negotiate</sprzwei>
+      <synonym>They are trying to negotiate a pay increase</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Unterstützung</spreins>
+      <sprzwei>support</sprzwei>
+      <synonym>He gives help and support to all his staff.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Etat</spreins>
+      <sprzwei>budget</sprzwei>
+      <synonym>Our budget for this project is £3000.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Liquidität</spreins>
+      <sprzwei>cash flow</sprzwei>
+      <synonym>The business is having problems whith cash flow.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Angestellter</spreins>
+      <sprzwei>employee</sprzwei>
+      <synonym>The business has 300 employees.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Hardware</spreins>
+      <sprzwei>hardware</sprzwei>
+      <synonym>Our computer hardware is quite old now.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>einstellen</spreins>
+      <sprzwei>to recruit</sprzwei>
+      <synonym>We need to recruit a new IT manager</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>verantwortlich</spreins>
+      <sprzwei>in charge</sprzwei>
+      <synonym>Who's in charge of this departement?</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Chef</spreins>
+      <sprzwei>boss</sprzwei>
+      <synonym>I'll ask my boss if I can have a day off.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>charmant</spreins>
+      <sprzwei>charming</sprzwei>
+      <synonym>What a polite and charming man!</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Personal</spreins>
+      <sprzwei>personnel</sprzwei>
+      <synonym>We need to recruit some new sales personnel.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schatz</spreins>
+      <sprzwei>sweetheart</sprzwei>
+      <synonym>She's a lovely girl - a real sweetheart</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Laptop</spreins>
+      <sprzwei>laptop</sprzwei>
+      <synonym>You can use your laptop on the train.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>bewältigen</spreins>
+      <sprzwei>(to) cope</sprzwei>
+      <synonym>I don't know how she copes with all her work.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>eigentlich</spreins>
+      <sprzwei>actually</sprzwei>
+      <synonym>No, actually he's not Spanish, he's Portuguese.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>schick</spreins>
+      <sprzwei>smart</sprzwei>
+      <synonym>She was wearing a smart black suit.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>beteiligen</spreins>
+      <sprzwei>(to) involve</sprzwei>
+      <synonym>Two men were involved in the robbery.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Belegschaft</spreins>
+      <sprzwei>workforce</sprzwei>
+      <synonym>The company wants to increase its workforce.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Steuer</spreins>
+      <sprzwei>tax</sprzwei>
+      <synonym>Everyone pays tax on money they earn.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Lebenszeit</spreins>
+      <sprzwei>lifetime</sprzwei>
+      <synonym>These changes won't happen in my lifetime.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Bankwesen</spreins>
+      <sprzwei>banking</sprzwei>
+      <synonym>He works in banking.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Industrie</spreins>
+      <sprzwei>industry</sprzwei>
+      <synonym>She works in the travel industry.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>liegen</spreins>
+      <sprzwei>to be situated</sprzwei>
+      <synonym>The office is situated on March Road.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>herstellen</spreins>
+      <sprzwei>manufacture</sprzwei>
+      <synonym>The company manufactures toys.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Waren</spreins>
+      <sprzwei>goods</sprzwei>
+      <synonym>The shop sells shoes and leather goods.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>warten, in Stand halten</spreins>
+      <sprzwei>to service</sprzwei>
+      <synonym>They make and service washing machines.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>inbegriffen</spreins>
+      <sprzwei>included</sprzwei>
+      <synonym>Is food included in the price of the holiday?</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>modernisieren</spreins>
+      <sprzwei>modernize</sprzwei>
+      <synonym>The old theatre was modernized last year.</synonym>
+      <bemerkung>PRACTICE</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Kassierer</spreins>
+      <sprzwei>cashier</sprzwei>
+      <synonym>He handed his money to the cashier.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Verdiener</spreins>
+      <sprzwei>earner</sprzwei>
+      <synonym>Doctors earn a lot - they are high earners.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>denken</spreins>
+      <sprzwei>to reckon</sprzwei>
+      <synonym>Do you reckon he's telling the truth?</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Verantwortung</spreins>
+      <sprzwei>responsibility</sprzwei>
+      <synonym>It's a big responsibility looking after children.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Ausbildung</spreins>
+      <sprzwei>training</sprzwei>
+      <synonym>It takes five years of to be a doctor.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>lächerlich</spreins>
+      <sprzwei>ridiculous</sprzwei>
+      <synonym>No, of course not! That's a ridiculous idea!</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>riesig</spreins>
+      <sprzwei>huge</sprzwei>
+      <synonym>They live in a huge house with ten bedrooms.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>anständig</spreins>
+      <sprzwei>decent</sprzwei>
+      <synonym>He's got a decent job in a bank.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Qualifikation, Abschluss</spreins>
+      <sprzwei>qualification</sprzwei>
+      <synonym>You need cualifications to be a teacher.</synonym>
+      <bemerkung>LISTENING AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Erbe, Erbin</spreins>
+      <sprzwei>heir</sprzwei>
+      <synonym>She is heir to her father's fortune.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Thron</spreins>
+      <sprzwei>throne</sprzwei>
+      <synonym>Queen Elizabeth came to the throne in 1953.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>beschäftigen</spreins>
+      <sprzwei>to occupy</sprzwei>
+      <synonym>He was occupied with work all afternoon.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>seinen Lebensunterhalt verdienen</spreins>
+      <sprzwei>earn a living</sprzwei>
+      <synonym>Most people have to work to earn a living.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Jagd</spreins>
+      <sprzwei>hunting</sprzwei>
+      <synonym>A lof of people are against whale hunting.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Pflicht</spreins>
+      <sprzwei>duty</sprzwei>
+      <synonym>It is your duty to tell the police about this.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>reich</spreins>
+      <sprzwei>wealthy</sprzwei>
+      <synonym>Bill Gates is a very wealthy man.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>fleissig</spreins>
+      <sprzwei>hard-working</sprzwei>
+      <synonym>You have to be hard-working to do well in business.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>exzentrisch</spreins>
+      <sprzwei>eccentric</sprzwei>
+      <synonym>She's a lovely old lady, but a bit eccentric.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>darstellen</spreins>
+      <sprzwei>to portray</sprzwei>
+      <synonym>Golf is often portrayed as a sport for the rich.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>kochen</spreins>
+      <sprzwei>to boil</sprzwei>
+      <synonym>Shall I boil some water to make coffee?</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>auspressen</spreins>
+      <sprzwei>to squeeze</sprzwei>
+      <synonym>You squeeze oranges to make orange juice.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>riesig</spreins>
+      <sprzwei>enormous</sprzwei>
+      <synonym>This jacket is far too big - it's enormous!</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Stellvertreter(in</spreins>
+      <sprzwei>deputy</sprzwei>
+      <synonym>My deputy will take over while I am away.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Diener</spreins>
+      <sprzwei>valet</sprzwei>
+      <synonym>His Valet helps him to get dressed.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Butler</spreins>
+      <sprzwei>butler</sprzwei>
+      <synonym>A buttler organizes all the staff in a big house.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Haushälter(in)</spreins>
+      <sprzwei>housekeeper</sprzwei>
+      <synonym>He has a housekeeper to run his house.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Gepäckträger(in)</spreins>
+      <sprzwei>porter</sprzwei>
+      <synonym>The porter carried our bags for us.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Handwerker</spreins>
+      <sprzwei>handyman</sprzwei>
+      <synonym>A handyman does small jobs around the house.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Zimmermädchen</spreins>
+      <sprzwei>maid</sprzwei>
+      <synonym>Maids make the beds and tidy the rooms.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>loben</spreins>
+      <sprzwei>(to) praise</sprzwei>
+      <synonym>My boss praised me for my good work.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>königlich</spreins>
+      <sprzwei>royal</sprzwei>
+      <synonym>The royal gardens are open to the public.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Mitteilung</spreins>
+      <sprzwei>memo</sprzwei>
+      <synonym>He sent me a memo about the meeting.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>ausschimpfen</spreins>
+      <sprzwei>to tell off</sprzwei>
+      <synonym>His boss told him off for being late.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Wutanfall</spreins>
+      <sprzwei>tantrum</sprzwei>
+      <synonym>He went into a tantrum and started shouting at everyone.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schiessen</spreins>
+      <sprzwei>shooting</sprzwei>
+      <synonym>Do you think shooting is a cruel sport?</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>geselliger Mensch</spreins>
+      <sprzwei>socializer</sprzwei>
+      <synonym>She loves parties - she's a real socializer.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Moderator(in)</spreins>
+      <sprzwei>broadcaster</sprzwei>
+      <synonym>She wants to be a television broadcaster.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Politiker(in)</spreins>
+      <sprzwei>poltician</sprzwei>
+      <synonym>Politicians must find an answer to the problem of global warming.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>stark</spreins>
+      <sprzwei>stiff</sprzwei>
+      <synonym>He poured himself a stiff whisky.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Luxus</spreins>
+      <sprzwei>luxury</sprzwei>
+      <synonym>She lives a life of luxury, with beautiful clothes and expensive food.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>verschwenderisch, teuer</spreins>
+      <sprzwei>extravagantly</sprzwei>
+      <synonym>The room was extravagantly decorated.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Expedition</spreins>
+      <sprzwei>expedition</sprzwei>
+      <synonym>We're going on an expedition up the Amazon.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>grosszügig, sehr teuer</spreins>
+      <sprzwei>lavish</sprzwei>
+      <synonym>He gave her many lavish presents.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>biologisch angebaut</spreins>
+      <sprzwei>organic</sprzwei>
+      <synonym>Organic food is grown without chemicals.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>lebhaft, lebendig</spreins>
+      <sprzwei>lively</sprzwei>
+      <synonym>It's quite a lively town - there's lots to do.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Monarch(in)</spreins>
+      <sprzwei>monarch</sprzwei>
+      <synonym>Who was the British monarch before Elizabeth II?</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>leidenschaftlich</spreins>
+      <sprzwei>passionately</sprzwei>
+      <synonym>She believes passionately that killing animals is wrong.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Zustand</spreins>
+      <sprzwei>state</sprzwei>
+      <synonym>Look at the state of the floor - it's really dirty!</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>wahnsinnig</spreins>
+      <sprzwei>madly</sprzwei>
+      <synonym>I was madly jealous of her new shoes.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>pflichtbewusst</spreins>
+      <sprzwei>dutiful</sprzwei>
+      <synonym>She was a dutiful daughter who looked after her parents.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>anwesend sein (bei) , teilnehmen</spreins>
+      <sprzwei>to attend</sprzwei>
+      <synonym>How many people will attend the wedding?</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Verabredung, Verpflichtung</spreins>
+      <sprzwei>engagement</sprzwei>
+      <synonym>I won't be able to come to the party - I have another engagement.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Wohltätigkeitsorganisation</spreins>
+      <sprzwei>charity</sprzwei>
+      <synonym></synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>ausrichten, veranstalten</spreins>
+      <sprzwei>to host</sprzwei>
+      <synonym>Which country will host the next Olympics?</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Empfang</spreins>
+      <sprzwei>reception</sprzwei>
+      <synonym>There will be a formal reception to welcome all the guests.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>VIP, Prominenter</spreins>
+      <sprzwei>VIP</sprzwei>
+      <synonym>This room is only for VIPs.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>umfassend, viel</spreins>
+      <sprzwei>extensively</sprzwei>
+      <synonym>She has read extensively.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Botschafter(in)</spreins>
+      <sprzwei>ambassador</sprzwei>
+      <synonym>He works as German ambassador in London.</synonym>
+      <bemerkung></bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Kenntnis</spreins>
+      <sprzwei>understanding</sprzwei>
+      <synonym>She hasa good understanding of Chinese culture.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>fördern, preisen</spreins>
+      <sprzwei>to promote</sprzwei>
+      <synonym>The government tries to promote healthy living.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Staatsoberhaupt</spreins>
+      <sprzwei>head of state</sprzwei>
+      <synonym>Heads of state from France and Germany will meet to discuss the problem.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>jährlich</spreins>
+      <sprzwei>annual</sprzwei>
+      <synonym>He has an annual salary of £35000.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>ausführen</spreins>
+      <sprzwei>to accomplish</sprzwei>
+      <synonym>She finally accomplished her plan.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>besorgt</spreins>
+      <sprzwei>concerned</sprzwei>
+      <synonym>She was concerned about my health.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>angehen</spreins>
+      <sprzwei>to tackle</sprzwei>
+      <synonym>The government must tackle this problem.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>expandieren, sich vergrössern</spreins>
+      <sprzwei>to expand</sprzwei>
+      <synonym>The hospital is too small and must expand.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Produkt</spreins>
+      <sprzwei>product</sprzwei>
+      <synonym>They sell their products all over Europe.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>wohlmeinend</spreins>
+      <sprzwei>well-intentioned</sprzwei>
+      <synonym>She is very well-intentioned, and never intends to upset to people.</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>konservativ</spreins>
+      <sprzwei>conservative</sprzwei>
+      <synonym>She doesn't like change - she's very conservative</synonym>
+      <bemerkung>READING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Bohrer</spreins>
+      <sprzwei>drill</sprzwei>
+      <synonym>I'll make a hole in the wall with my electric drill.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>pflanzen</spreins>
+      <sprzwei>to plant</sprzwei>
+      <synonym>I'm going to plant a rose in the garden.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>sich fit halten</spreins>
+      <sprzwei>to keep fit</sprzwei>
+      <synonym>He goes jogging to keep fit</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schläger</spreins>
+      <sprzwei>racket</sprzwei>
+      <synonym>Can I borrow your tennis racket?</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Zoom</spreins>
+      <sprzwei>zoom</sprzwei>
+      <synonym>Use the zoom on your camera to bring things closer.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schutzhelm</spreins>
+      <sprzwei>helmet</sprzwei>
+      <synonym>Motorcyclists have to wear a helmet in Britain.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>schwitzen</spreins>
+      <sprzwei>to sweat</sprzwei>
+      <synonym>He was sweating because he was so hot.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>skizzieren, zeichnen</spreins>
+      <sprzwei>to sketch</sprzwei>
+      <synonym>John sketched a lovely picture of our dog.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>ein Ass schlagen</spreins>
+      <sprzwei>to serve an ace</sprzwei>
+      <synonym>She served an ace to win the tennis match.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schlafsack</spreins>
+      <sprzwei>sleeping bag</sprzwei>
+      <synonym>He's bought a sleeping bag for his camping holiday.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schraubenzieher</spreins>
+      <sprzwei>screwdriver</sprzwei>
+      <synonym>I need a screwdriver to put this desk together.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Schnäppchen</spreins>
+      <sprzwei>bargain</sprzwei>
+      <synonym>I got some real bargains in the sales.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>meditieren</spreins>
+      <sprzwei>to meditate</sprzwei>
+      <synonym>I do yoga and meditate to relax.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Taschenlampe</spreins>
+      <sprzwei>torch</sprzwei>
+      <synonym>It's dark outside - take a torch with you.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>to weed</spreins>
+      <sprzwei>Unkraut jäten</sprzwei>
+      <synonym>Let's weed the garden, it looks a real mess.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>to mix</spreins>
+      <sprzwei>verrühren</sprzwei>
+      <synonym>Mix the sugar and butter together</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>herb</spreins>
+      <sprzwei>Kraut</sprzwei>
+      <synonym>She grows herbs in her garden.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>to roast</spreins>
+      <sprzwei>im Backofen braten</sprzwei>
+      <synonym>I roasted a chicken for lunch</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>to chop</spreins>
+      <sprzwei>klein schneiden, zerhacken</sprzwei>
+      <synonym>First, chop the onions</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>to peel</spreins>
+      <sprzwei>schälen</sprzwei>
+      <synonym>Peel and chop the apples</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>to fry</spreins>
+      <sprzwei>braten</sprzwei>
+      <synonym>Fry the chicken in vegetable oil.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>minced meat</spreins>
+      <sprzwei>Hackfleisch</sprzwei>
+      <synonym>I make spaghetti bolognese with minced meat.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Kasserolle, Schmortopf</spreins>
+      <sprzwei>casserole dish</sprzwei>
+      <synonym>Cook the meat in a casserol dish in the oven.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>backen</spreins>
+      <sprzwei>to bake</sprzwei>
+      <synonym>Let's bake a cake for Dad's birthday.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Küchenmaschine</spreins>
+      <sprzwei>food processor</sprzwei>
+      <synonym>I made the soup in a food processor.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>wiegen</spreins>
+      <sprzwei>to weigh</sprzwei>
+      <synonym>Weigh the ingredients carefully.</synonym>
+      <bemerkung>VOCABULARY AND SPEAKING</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Smalltalk, Konversation</spreins>
+      <sprzwei>small talk</sprzwei>
+      <synonym>I hate small talk with people I don't know.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>praktisch</spreins>
+      <sprzwei>convenient</sprzwei>
+      <synonym>There's a shop on the corner, which is very convenient.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Fluss(ufer)</spreins>
+      <sprzwei>riverside</sprzwei>
+      <synonym>Their house is on the riverside.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Fähre</spreins>
+      <sprzwei>ferry</sprzwei>
+      <synonym>We got the ferry from England to France.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>landen</spreins>
+      <sprzwei>to land</sprzwei>
+      <synonym>Our plane lands at Heathrow at two o'clock.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>fantastisch</spreins>
+      <sprzwei>amazing</sprzwei>
+      <synonym>The hotel was great, and the food was amazing!</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Golf</spreins>
+      <sprzwei>golf</sprzwei>
+      <synonym>Do you play golf?</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>mild</spreins>
+      <sprzwei>mild</sprzwei>
+      <synonym>You don't need a coat - it's quite mild today.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Dokumentarfilm</spreins>
+      <sprzwei>documentary</sprzwei>
+      <synonym>I watched a documentary about Hungary.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>Seifenoper</spreins>
+      <sprzwei>soap</sprzwei>
+      <synonym>Do you think there are too many soap son TV?</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+   <vokabelsatz>
+      <lektion>Unit 2</lektion>
+      <spreins>sich freuen auf</spreins>
+      <sprzwei>to look forward to</sprzwei>
+      <synonym>I'm looking forward to my holiday next month.</synonym>
+      <bemerkung>EVERYDAY ENGLISH</bemerkung>
+   </vokabelsatz>
+</teachmaster>
