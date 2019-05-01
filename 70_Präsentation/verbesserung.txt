@@ -1,0 +1,12 @@
+Kippstation am Anfang.
+SFS erklären.
+Laserpointer.
+SCS Standard
+kippvorrichtung
+Standartablauf vorgang piktogramm
+wenig ist mehr
+signalübersicht (farben und dicke)
+telegramm namen (Steuertelegramm statt KS)
+Eingänge zu weit unten
+Statemachine zoom1 schrift entfernen
+verbesserungen
