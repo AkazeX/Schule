@@ -4,9 +4,14 @@ Laserpointer.
 SCS Standard
 kippvorrichtung
 Standartablauf vorgang piktogramm
-wenig ist mehr
+weniger ist mehr
 signalübersicht (farben und dicke)
 telegramm namen (Steuertelegramm statt KS)
 Eingänge zu weit unten
 Statemachine zoom1 schrift entfernen
 verbesserungen
+
+
+Titelbild
+weniger ist mehr
+Laserpointer
